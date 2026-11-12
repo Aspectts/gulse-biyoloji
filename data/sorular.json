@@ -933,5 +933,889 @@
     ],
     "cevap": "I ve III",
     "biyologNotu": "Üreme bireyin kendi yaşamı için değil, neslinin devamı için zorunludur. Homeostasi ve boşaltım ise bireysel yaşamın devamı için şarttır."
+  },
+  {
+    "id": "yb_k_56",
+    "kaynak": "PDF",
+    "konu": "Yaşam Bilimi Biyoloji",
+    "seviye": "Kolay",
+    "soru": "I. Kas hücresi   II. Kas doku   III. Kalp   IV. Organizma   V. Kas proteini\nBazı canlılarda görülen numaralandırılmış biyolojik organizasyon örnekleri basitten gelişmişe doğru sıralandığında hangisi baştan ikinci olur?",
+    "gorsel": null,
+    "siklar": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "cevap": "I",
+    "biyologNotu": "Basitten gelişmişe sıralama: Kas proteini (V - molekül) → Kas hücresi (I - hücre) → Kas doku (II - doku) → Kalp (III - organ) → Organizma (IV). Baştan ikinci Kas hücresi (I) olur."
+  },
+  {
+    "id": "yb_k_57",
+    "kaynak": "PDF",
+    "konu": "Yaşam Bilimi Biyoloji",
+    "seviye": "Kolay",
+    "soru": "İnsanda mide öz suyunun pH'si yaklaşık 2'dir. İnsanlarda idrarın normal pH'si 4-8 arasında değişmekle birlikte ortalama 6 olduğu söylenebilir.\nBuna göre mide öz suyu ile ortalama bir idrar karşılaştırılacak olursa,\nI. Mide öz suyundaki H⁺ iyonu derişimi idrara göre çok fazladır.\nII. Mide öz suyunda bazik ortamda çalışan enzimler daha hızlı çalışır.\nIII. İnsan vücudunda farklı pH'de sıvılar mevcuttur.\nyorumlarından hangileri yapılabilir?",
+    "gorsel": null,
+    "siklar": [
+      "Yalnız I",
+      "Yalnız II",
+      "I ve II",
+      "I ve III",
+      "I, II ve III"
+    ],
+    "cevap": "I ve III",
+    "biyologNotu": "pH değeri küçüldükçe ortamdaki H⁺ iyonu derişimi ve asitlik artar. Mide öz suyu kuvvetli asidiktir ve burada asidik ortam enzimleri (örneğin pepsin) çalışır."
+  },
+  {
+    "id": "yb_k_58",
+    "kaynak": "PDF",
+    "konu": "Yaşam Bilimi Biyoloji",
+    "seviye": "Kolay",
+    "soru": "Nötral yağlarla (trigliseritlerle) ilgili,\nI. İnsan vücudunda dışarıdan alınan besinin fazlasını depolamak için kullanılan başlıca moleküldür.\nII. Eklem bölgelerinde bulunarak ya da organların etrafını sararak sürtünmeyi azaltır.\nIII. Ökaryot hücre yapısına sahip canlılarda hücre duvarının temel bileşenidir.\nIV. Oksijenli solunumda kullanıldığında aynı miktarda karbohidratlara göre iki kat daha fazla enerji verir.\nifadelerinden hangileri doğrudur?",
+    "gorsel": null,
+    "siklar": [
+      "Yalnız II",
+      "I ve IV",
+      "II ve IV",
+      "I, II ve IV",
+      "I, II, III ve IV"
+    ],
+    "cevap": "I, II, III ve IV",
+    "biyologNotu": "Nötral yağlar yüksek enerji deposudur ve iç organları darbelere karşı korur. (Not: Kaynak cevap anahtarı E şıkkını esas almıştır; ancak YKS müfredatında hücre duvarının temel bileşeni bitkilerde selüloz, mantarlarda kitindir.)"
+  },
+  {
+    "id": "yb_k_59",
+    "kaynak": "PDF",
+    "konu": "Yaşam Bilimi Biyoloji",
+    "seviye": "Kolay",
+    "soru": "Bir ATP molekülünün yapısı düşünüldüğünde aşağıdaki kavramlardan hangisi \"Adenozin\" ifadesinin karşılığı olacaktır?",
+    "gorsel": null,
+    "siklar": [
+      "Adenin + Riboz",
+      "Adenin + Fosfat",
+      "Adenin + Riboz + Fosfat",
+      "Adenin + Riboz + Fosfat + Fosfat",
+      "Adenin + Riboz + Fosfat + Fosfat + Fosfat"
+    ],
+    "cevap": "Adenin + Riboz",
+    "biyologNotu": "Adenin bazı ile 5 karbonlu riboz şekerinin glikozit bağıyla birleşmesiyle oluşan nükleozit yapıya Adenozin denir."
+  },
+  {
+    "id": "yb_k_60",
+    "kaynak": "PDF",
+    "konu": "Yaşam Bilimi Biyoloji",
+    "seviye": "Kolay",
+    "soru": "Aşağıdakilerden hangisi ototrof bir organizmanın kendine özgü reaksiyonları ile üretemeyeceği bir maddedir?",
+    "gorsel": null,
+    "siklar": [
+      "Glukoz",
+      "Madensel tuz",
+      "ATP",
+      "Amino asit",
+      "Yağ asidi"
+    ],
+    "cevap": "Madensel tuz",
+    "biyologNotu": "Madensel tuzlar (mineraller) inorganik maddelerdir. Ototrof canlılar organik besinleri sentezleyebilir ama mineralleri dışarıdan hazır almak zorundadır."
+  },
+  {
+    "id": "yb_k_61",
+    "kaynak": "PDF",
+    "konu": "Yaşam Bilimi Biyoloji",
+    "seviye": "Kolay",
+    "soru": "Bir su damlasının damlamadan önceki son anına kadar çeşmeye tutunmasını sağlayan kuvvet .......... kuvveti iken damlanın kendine özgü şeklinin oluşmasını sağlayan kuvvet .......... kuvvetidir ve bu kuvvetin oluşmasında .......... en etkin rolü oynar.\nBu cümlede boş bırakılan yerlere sırasıyla aşağıdakilerden hangisi getirilmelidir?",
+    "gorsel": null,
+    "siklar": [
+      "kohezyon - adezyon - hidrojen bağı",
+      "adezyon - kohezyon - kovalent bağ",
+      "çekim - yapışma - hidrojen bağı",
+      "adezyon - kohezyon - hidrojen bağı",
+      "yapışma - çekim - iyonik bağ"
+    ],
+    "cevap": "adezyon - kohezyon - hidrojen bağı",
+    "biyologNotu": "Suyun farklı bir yüzeye (çeşmeye) tutunması adezyon, su moleküllerinin birbirini çekerek küresel damla oluşturması ise hidrojen bağlarının sağladığı kohezyon kuvvetidir."
+  },
+  {
+    "id": "yb_k_62",
+    "kaynak": "PDF",
+    "konu": "Yaşam Bilimi Biyoloji",
+    "seviye": "Kolay",
+    "soru": "Doğada bulunan inorganik maddelerin canlılık için çok sayıda görevleri bulunmaktadır. Bunlardan bazıları hormonların yapısına katılma, hücre zarının ana iskeletini oluşturma, bileşik enzimlere kofaktör olarak katılmadır.\nBu parçada inorganik maddelerin;\nI. solunumda enerji verici olma,\nII. yapısal olma,\nIII. düzenleyici olma\ngörevlerinden hangilerine değinilmiştir?",
+    "gorsel": null,
+    "siklar": [
+      "Yalnız I",
+      "Yalnız II",
+      "Yalnız III",
+      "I ve III",
+      "II ve III"
+    ],
+    "cevap": "II ve III",
+    "biyologNotu": "İnorganik maddeler solunumda kesinlikle enerji verici olarak kullanılmaz. Hücre zarına katılma yapısal (II), hormon ve enzimlere katılma düzenleyici (III) görevdir."
+  },
+  {
+    "id": "yb_k_63",
+    "kaynak": "PDF",
+    "konu": "Yaşam Bilimi Biyoloji",
+    "seviye": "Kolay",
+    "soru": "Sırası ile aşağıdaki minerallerden hangilerinin eksikliğinde kişide anemi, guatr ve bağışıklık sisteminde zayıflama görülür?",
+    "gorsel": null,
+    "siklar": [
+      "Fe - I - Zn",
+      "Fe - Ca - P",
+      "Ca - P - N",
+      "Na - Mg - Fe",
+      "P - I - Ca"
+    ],
+    "cevap": "Fe - I - Zn",
+    "biyologNotu": "Demir (Fe) eksikliğinde kansızlık (anemi), İyot (I) eksikliğinde basit guatr, Çinko (Zn) eksikliğinde ise bağışıklık sisteminde zayıflama ve yaraların geç iyileşmesi görülür."
+  },
+  {
+    "id": "yb_k_64",
+    "kaynak": "PDF",
+    "konu": "Yaşam Bilimi Biyoloji",
+    "seviye": "Kolay",
+    "soru": "Canlılarda;\nI. protein sentezleme,\nII. ATP harcama,\nIII. hücresel yapıya sahip olma\nözelliklerinden hangileri evrenseldir?",
+    "gorsel": null,
+    "siklar": [
+      "Yalnız I",
+      "Yalnız II",
+      "Yalnız III",
+      "II ve III",
+      "I, II ve III"
+    ],
+    "cevap": "I, II ve III",
+    "biyologNotu": "Prokaryot veya ökaryot ayrımı olmaksızın yeryüzündeki tüm canlı hücreler ribozomda protein sentezler, ATP üretip harcar ve hücresel yapı gösterir."
+  },
+  {
+    "id": "yb_k_65",
+    "kaynak": "PDF",
+    "konu": "Yaşam Bilimi Biyoloji",
+    "seviye": "Kolay",
+    "soru": "Bir hayvan hücresinde protein sentezi sırasında aşağıdaki moleküllerden hangisinin miktarı artar?",
+    "gorsel": null,
+    "siklar": [
+      "ATP",
+      "Amino asit",
+      "Ribozom",
+      "Su",
+      "Enzim"
+    ],
+    "cevap": "Su",
+    "biyologNotu": "Protein sentezi bir dehidrasyon tepkimesidir: n(Amino asit) → Protein + (n-1)H₂O. Bu sırada ATP ve amino asit azalır, enzim ve ribozom miktarı sabit kalır, su artar."
+  },
+  {
+    "id": "yb_k_66",
+    "kaynak": "PDF",
+    "konu": "Yaşam Bilimi Biyoloji",
+    "seviye": "Kolay",
+    "soru": "Sağlıklı bir insanda aşağıda verilen hücrelerden hangisi ATP üretmek için mitokondrilerini kullanamaz?",
+    "gorsel": null,
+    "siklar": [
+      "Sperm",
+      "Yumurta",
+      "Nöron",
+      "Epitel",
+      "Dolaşımdaki alyuvar"
+    ],
+    "cevap": "Dolaşımdaki alyuvar",
+    "biyologNotu": "Memelilerin olgun alyuvar hücreleri daha fazla oksijen taşıyabilmek için çekirdek ve mitokondri dahil tüm organellerini kaybeder; ATP'yi sadece glikoliz (laktik asit fermantasyonu) ile üretirler."
+  },
+  {
+    "id": "yb_k_67",
+    "kaynak": "PDF",
+    "konu": "Yaşam Bilimi Biyoloji",
+    "seviye": "Kolay",
+    "soru": "Bütün canlı hücrelerde;\nI. mineral kullanma,\nII. su tüketme,\nIII. kendine özgü molekül sentezleme\nolaylarından hangileri ortak olarak gerçekleşir?",
+    "gorsel": null,
+    "siklar": [
+      "Yalnız I",
+      "Yalnız II",
+      "I ve II",
+      "II ve III",
+      "I, II ve III"
+    ],
+    "cevap": "I, II ve III",
+    "biyologNotu": "Bütün canlı hücreler metabolik faaliyetleri için suya ve minerallere ihtiyaç duyar; ayrıca kendi genlerine özgü protein/enzim sentezi gerçekleştirir."
+  },
+  {
+    "id": "yb_k_68",
+    "kaynak": "PDF",
+    "konu": "Yaşam Bilimi Biyoloji",
+    "seviye": "Kolay",
+    "soru": "İnsan vücudunda görev alan minerallerle,\n• Kas sisteminin çalışmasında görev alır.\n• Mide öz suyunun üretiminde görev alır.\n• Kanın pıhtılaşma reaksiyonlarında görev alır.\n• Kanın osmotik basıncı için öncelikli ve önemlidir.\nbilgileri eşleştirildiğinde aşağıdaki minerallerden hangisinin dışarıda kalması beklenir?",
+    "gorsel": null,
+    "siklar": [
+      "Klor",
+      "Sodyum",
+      "Magnezyum",
+      "Kalsiyum",
+      "Bakır"
+    ],
+    "cevap": "Bakır",
+    "biyologNotu": "Magnezyum kas çalışmasında, Klor mide asidi (HCl) üretiminde, Kalsiyum kanın pıhtılaşmasında, Sodyum ise kanın ozmotik basıncında görev alır; Bakır dışarıda kalır."
+  },
+  {
+    "id": "yb_k_69",
+    "kaynak": "PDF",
+    "konu": "Yaşam Bilimi Biyoloji",
+    "seviye": "Kolay",
+    "soru": "Yapısal bir polisakkarit olan kitin ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "gorsel": null,
+    "siklar": [
+      "Birçok mantarın hücre zarının yapısına katılır.",
+      "Böceklerin dış iskeletlerinde bulunur.",
+      "Kalsiyum karbonat ile birleşince sertleşir.",
+      "Diğer polisakkaritlerden farklı olarak azot içerir.",
+      "Ameliyat ipliği yapımında kullanılır."
+    ],
+    "cevap": "Birçok mantarın hücre zarının yapısına katılır.",
+    "biyologNotu": "Kitin mantarların hücre zarının değil, hücre duvarının (çeperinin) yapısına katılır."
+  },
+  {
+    "id": "yb_k_70",
+    "kaynak": "PDF",
+    "konu": "Yaşam Bilimi Biyoloji",
+    "seviye": "Kolay",
+    "soru": "Canlıların karakteristik özelliklerinden bazıları şunlardır: Boşaltım, Hareket, Solunum, Üreme, Adaptasyon.\nBuna göre;\nI. kum tilkisinin postunun üst kısmının kahverengi alt kısmının beyaz renkli olması,\nII. memelilerin azotlu artıkları vücutlarından atması,\nIII. bitkilerin ışığa doğru yönelmesi,\nIV. metabolik enerji ihtiyacının karşılanması\nörneklerinin karakteristik özelliklerle eşleştirilmeleri durumunda aşağıdakilerden hangisi açıkta kalır?",
+    "gorsel": null,
+    "siklar": [
+      "Üreme",
+      "Adaptasyon",
+      "Solunum",
+      "Hareket",
+      "Boşaltım"
+    ],
+    "cevap": "Üreme",
+    "biyologNotu": "I → Adaptasyon, II → Boşaltım, III → Hareket (yönelim/tropizma), IV → Solunum ile eşleşir; Üreme dışarıda kalır."
+  },
+  {
+    "id": "yb_k_71",
+    "kaynak": "PDF",
+    "konu": "Yaşam Bilimi Biyoloji",
+    "seviye": "Kolay",
+    "soru": "Bir DNA molekülünde meydana gelen değişim aşağıdaki moleküllerden hangisinin yapısını doğrudan etkiler?",
+    "gorsel": null,
+    "siklar": [
+      "Polisakkarit",
+      "Disakkarit",
+      "Trigliserit",
+      "Polipeptit",
+      "Vitamin"
+    ],
+    "cevap": "Polipeptit",
+    "biyologNotu": "Proteinler (polipeptitler) doğrudan DNA'daki nükleotit şifresine göre sentezlendiği için DNA'daki bir mutasyon doğrudan polipeptit yapısını etkiler."
+  },
+  {
+    "id": "yb_k_72",
+    "kaynak": "PDF",
+    "konu": "Yaşam Bilimi Biyoloji",
+    "seviye": "Kolay",
+    "soru": "mRNA için verilen aşağıdaki ifadelerden hangisi her zaman doğru değildir?",
+    "gorsel": null,
+    "siklar": [
+      "G/S oranı 1'e eşittir.",
+      "Riboz / Fosfat oranı 1'e eşittir.",
+      "Riboz / Nükleotit oranı 1'e eşittir.",
+      "Fosfat / Nükleotit oranı 1'e eşittir.",
+      "Toplam baz / Toplam şeker oranı 1'e eşittir."
+    ],
+    "cevap": "G/S oranı 1'e eşittir.",
+    "biyologNotu": "mRNA tek zincirli bir nükleik asit olduğu için karşılıklı baz eşleşmesi bulunmaz; bu nedenle Guanin sayısı Sitozin sayısına eşit olmak zorunda değildir."
+  },
+  {
+    "id": "yb_k_73",
+    "kaynak": "PDF",
+    "konu": "Yaşam Bilimi Biyoloji",
+    "seviye": "Kolay",
+    "soru": "İnsan hücrelerinde bulunan;\nI. mineral,\nII. vitamin,\nIII. temel amino asit\nmoleküllerinden hangilerinin solunumda kullanılması sonucu ATP üretilemez?",
+    "gorsel": null,
+    "siklar": [
+      "Yalnız I",
+      "Yalnız III",
+      "I ve II",
+      "II ve III",
+      "I, II ve III"
+    ],
+    "cevap": "I ve II",
+    "biyologNotu": "Mineraller ve vitaminler hücresel solunumda substrat olarak kullanılmaz, yani enerji vermezler; amino asitler ise zorunlu durumlarda solunuma katılarak ATP üretebilir."
+  },
+  {
+    "id": "yb_k_74",
+    "kaynak": "PDF",
+    "konu": "Yaşam Bilimi Biyoloji",
+    "seviye": "Kolay",
+    "soru": "I. Saprotrof bakteri   II. Mantar   III. Tam parazit olmayan bitki\nYukarıdaki canlılardan hangileri ihtiyaç duyduğu vitaminleri ışık enerjisi ile sentezleyebilir?",
+    "gorsel": null,
+    "siklar": [
+      "Yalnız I",
+      "Yalnız III",
+      "I ve II",
+      "II ve III",
+      "I, II ve III"
+    ],
+    "cevap": "Yalnız III",
+    "biyologNotu": "Fotosentez yaparak ışık enerjisini kimyasal bağ enerjisine çeviren ve kendi organik besinlerini (vitamin dahil) üreten tek grup yeşil bitkilerdir."
+  },
+  {
+    "id": "yb_k_75",
+    "kaynak": "PDF",
+    "konu": "Yaşam Bilimi Biyoloji",
+    "seviye": "Kolay",
+    "soru": "Asitlerle ilgili aşağıda verilen ifadelerden hangisi yanlıştır?",
+    "gorsel": null,
+    "siklar": [
+      "pH değeri 7'nin altındadır.",
+      "Sulu çözeltilerine hidrojen iyonu verir.",
+      "Tamamı inorganik yapılıdır.",
+      "Bazlarla birleşerek tuzları oluşturur.",
+      "Tatları ekşidir."
+    ],
+    "cevap": "Tamamı inorganik yapılıdır.",
+    "biyologNotu": "HCl gibi inorganik asitlerin yanında amino asit, yağ asidi, laktik asit ve sitrik asit gibi organik yapılı asitler de vardır."
+  },
+  {
+    "id": "yb_k_76",
+    "kaynak": "PDF",
+    "konu": "Yaşam Bilimi Biyoloji",
+    "seviye": "Kolay",
+    "soru": "Aşağıda verilen olaylardan hangisi gerçekleştiği sırada ATP üretimine neden olur?",
+    "gorsel": null,
+    "siklar": [
+      "Glukozlardan polimer sentezi",
+      "Proteinlerin amino aside yıkımı",
+      "DNA replikasyonu",
+      "Yağ asitlerinin karbon dioksite kadar yıkımı",
+      "Hücrenin dış ortamdan su alması"
+    ],
+    "cevap": "Yağ asitlerinin karbon dioksite kadar yıkımı",
+    "biyologNotu": "Yağ asitlerinin CO₂ ve H₂O'ya kadar parçalanması oksijenli solunumdur ve yüksek miktarda ATP üretimi sağlar."
+  },
+  {
+    "id": "yb_k_77",
+    "kaynak": "PDF",
+    "konu": "Yaşam Bilimi Biyoloji",
+    "seviye": "Kolay",
+    "soru": "Birbirlerine bağlı çok sayıda benzer ya da özdeş monomerden meydana gelmiş uzun moleküllere polimer denir.\nBuna göre, aşağıdaki makromoleküllerden hangisi polimer değildir?",
+    "gorsel": null,
+    "siklar": [
+      "Nötral yağ",
+      "Protein",
+      "Glikojen",
+      "DNA",
+      "Nişasta"
+    ],
+    "cevap": "Nötral yağ",
+    "biyologNotu": "Nötral yağlar (trigliseritler) büyük moleküller olmalarına rağmen çok sayıda benzer monomerin uç uca eklenmesiyle oluşmadıkları için polimer kabul edilmezler."
+  },
+  {
+    "id": "yb_k_78",
+    "kaynak": "PDF",
+    "konu": "Yaşam Bilimi Biyoloji",
+    "seviye": "Kolay",
+    "soru": "Canlılara ait karakteristik özelliklerden bazıları şunlardır:\n• Organik maddelerden enerji üretme\n• Değişen çevre şartlarına uyum gösterme\n• Metabolik atıkları vücuttan uzaklaştırma\n• Neslin devamını sağlama\nBu metinde aşağıdaki kavramlardan hangisinin tanımına yer verilmemiştir?",
+    "gorsel": null,
+    "siklar": [
+      "Solunum",
+      "Boşaltım",
+      "Adaptasyon",
+      "Üreme",
+      "Homeostasi"
+    ],
+    "cevap": "Homeostasi",
+    "biyologNotu": "Sırasıyla solunum, adaptasyon, boşaltım ve üreme tanımlanmıştır; kararlı iç denge anlamına gelen homeostasi metinde yer almaz."
+  },
+  {
+    "id": "yb_k_79",
+    "kaynak": "PDF",
+    "konu": "Yaşam Bilimi Biyoloji",
+    "seviye": "Kolay",
+    "soru": "Aşağıda verilenlerden hangisi tüm canlılarda gerçekleştirilir?",
+    "gorsel": null,
+    "siklar": [
+      "Defosforilasyon",
+      "CO₂ özümlemesi",
+      "Oksijenli solunum",
+      "Eşeysiz üreme",
+      "Organik besin sentezleme"
+    ],
+    "cevap": "Defosforilasyon",
+    "biyologNotu": "ATP'nin hidroliz edilerek enerjisinin açığa çıkarılması (defosforilasyon) tüm canlı hücrelerin ortak yaşamsal faaliyetidir."
+  },
+  {
+    "id": "yb_k_80",
+    "kaynak": "PDF",
+    "konu": "Yaşam Bilimi Biyoloji",
+    "seviye": "Kolay",
+    "soru": "Aşağıdaki minerallerden hangisi canlılar için en önemli enerji moleküllerinin yapısına katılır?",
+    "gorsel": null,
+    "siklar": [
+      "K",
+      "P",
+      "Cl",
+      "Fe",
+      "F"
+    ],
+    "cevap": "P",
+    "biyologNotu": "Fosfor (P), hücrenin evrensel enerji molekülü olan ATP'nin (Adenozin Trifosfat) yapısındaki 3 fosfat grubunun temel elementidir."
+  },
+  {
+    "id": "yb_k_81",
+    "kaynak": "PDF",
+    "konu": "Yaşam Bilimi Biyoloji",
+    "seviye": "Kolay",
+    "soru": "Aşağıda hayvanlarda bazı minerallerin kullanım yerleri verilmiştir:\nI. Azot: DNA molekülünün yapısı\nII. Fosfor: ATP molekülünün yapısı\nIII. Demir: Klorofil pigmentinin yapısı\nIV. Kükürt: Proteinlerin yapısı\nV. İyot: Hormonların yapısı\nBuna göre eşleştirmelerden hangisinde hata yapılmıştır?",
+    "gorsel": null,
+    "siklar": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "cevap": "III",
+    "biyologNotu": "Klorofil pigmentinin yapısına Demir (Fe) değil Magnezyum (Mg) katılır; Demir klorofil sentezi için gerekli enzimin kofaktörüdür ve hemoglobinin yapısına katılır."
+  },
+  {
+    "id": "yb_k_82",
+    "kaynak": "PDF",
+    "konu": "Yaşam Bilimi Biyoloji",
+    "seviye": "Kolay",
+    "soru": "Su ile ilgili bazı sorular ve cevapları şu şekildedir:\nSorular: I. Enzimler için önemi nedir? / II. Göl çevresinin ılıman olması suyun hangi özelliği ile ilgilidir? / III. Böceklerin su üzerinde durabilmesi suyun hangi özelliği ile sağlanır? / IV. Buzul çağlarında sudaki canlılığın son bulmamasını suyun hangi özelliğine bağlayabiliriz? / V. Fotosentez reaksiyonlarında oksijen nasıl açığa çıkar?\nCevaplar: Metabolik olaylar için ortam yaratır. / Katı hâli sıvısında yüzer. / Kohezyon kuvvetini oluşturur. / Yüksek özgül ısı değerine sahiptir.\nNumaralanmış sorularla cevaplar eşleştirildiğinde verilen sorulardan hangisi açıkta kalır?",
+    "gorsel": null,
+    "siklar": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "cevap": "V",
+    "biyologNotu": "I → Metabolik ortam, II → Yüksek özgül ısı, III → Kohezyon kuvveti, IV → Katı halinin sıvısında yüzmesi (buzun üste çıkması) ile eşleşir; fotolizle ilgili olan V açıkta kalır."
+  },
+  {
+    "id": "yb_k_83",
+    "kaynak": "PDF",
+    "konu": "Yaşam Bilimi Biyoloji",
+    "seviye": "Kolay",
+    "soru": "Üç farklı proteinin amino asit dizilimleri verilmiştir:\n• A proteini: Metiyonin - Lösin - Lizin - Valin - İzolösin\n• B proteini: Metiyonin - Fenilalanin - Triptofan - Serin\n• C proteini: Metiyonin - Lizin - Lösin - İzolösin - Valin\nBuna göre,\nI. İki proteinin birbirinden farklı olması için kesinlikle içerdiği amino asit çeşidinin farklı olması gereklidir.\nII. Proteinlerin birbirinden farklı olmasının temel bir nedeni de amino asitlerin birbirine bağlanma biçimidir.\nIII. İki proteinin birbirinden farklı olmasını sağlayan en temel durum içeriğinde bulunan amino asit sayısıdır.\nifadelerinden hangileri yanlıştır?",
+    "gorsel": null,
+    "siklar": [
+      "Yalnız I",
+      "Yalnız II",
+      "I ve II",
+      "II ve III",
+      "I, II ve III"
+    ],
+    "cevap": "I, II ve III",
+    "biyologNotu": "A ve C proteinlerinin amino asit sayıları ve çeşitleri aynıdır ama dizilişleri farklı olduğu için farklı proteinlerdir (I ve III yanlış). Tüm amino asitler peptit bağıyla aynı şekilde bağlanır (II yanlış)."
+  },
+  {
+    "id": "yb_k_84",
+    "kaynak": "PDF",
+    "konu": "Yaşam Bilimi Biyoloji",
+    "seviye": "Kolay",
+    "soru": "ATP ile ilgili aşağıda verilen ifadelerden hangisi yanlıştır?",
+    "gorsel": null,
+    "siklar": [
+      "RNA sentezine doğrudan katılabilir.",
+      "Sentezine fosforilasyon denir.",
+      "Hücrelerde depolanarak enerji ihtiyacını karşılar.",
+      "Bir hücreden dış ortama atılamaz.",
+      "Sentezi sırasında su molekülü oluşur."
+    ],
+    "cevap": "Hücrelerde depolanarak enerji ihtiyacını karşılar.",
+    "biyologNotu": "ATP çok kararsız bir molekül olduğu için hücre içinde depolanamaz; anlık olarak üretilir ve tüketilir."
+  },
+  {
+    "id": "yb_k_85",
+    "kaynak": "PDF",
+    "konu": "Yaşam Bilimi Biyoloji",
+    "seviye": "Kolay",
+    "soru": "Su ile ilgili bazı sorular yer almaktadır:\na. Bitkilerin gövdesinde yer çekimine zıt yönde taşınmasında suyun hangi özelliği kullanılır?\nb. Suyun konsantrasyonu %15'in altına düşünce enzimler neden olumsuz etkilenir?\nc. Vücuda zarar veren maddelerin idrarla uzaklaştırılmasında suyun hangi özelliği kullanılır?\nd. Göl ve deniz kenarlarındaki ekosistemlerde ılıman bir iklimin oluşmasında suyun hangi özelliği etkindir?\nBuna göre aşağıda verilenlerden hangisi bu sorulardan birinin cevabı olamaz?",
+    "gorsel": null,
+    "siklar": [
+      "Kohezyon kuvveti oluşturması",
+      "Reaksiyonlar için uygun ortam oluşturması",
+      "+4 °C'de yoğunluğunun maksimum olması",
+      "Özgül ısısının yüksek olması",
+      "Çözücü özelliğinin güçlü olması"
+    ],
+    "cevap": "+4 °C'de yoğunluğunun maksimum olması",
+    "biyologNotu": "a → Kohezyon, b → Uygun reaksiyon ortamı, c → Çözücü özellik, d → Yüksek özgül ısı ile eşleşir; suyun +4 °C yoğunluk özelliği yukarıdaki sorularda sorulmamıştır."
+  },
+  {
+    "id": "yb_k_86",
+    "kaynak": "PDF",
+    "konu": "Yaşam Bilimi Biyoloji",
+    "seviye": "Kolay",
+    "soru": "Bir DNA molekülü için aşağıdaki matematiksel ifadelerden hangisinin cevabı her zaman 1'e eşit değildir?",
+    "gorsel": null,
+    "siklar": [
+      "A/T",
+      "(A+G)/(T+S)",
+      "Deoksiriboz/Fosfat",
+      "(A+S)/(T+G)",
+      "(A+T)/(G+S)"
+    ],
+    "cevap": "(A+T)/(G+S)",
+    "biyologNotu": "Çift zincirli DNA'da A=T ve G=S olduğu için pürin/pirimidin oranı her zaman 1'dir; ancak (A+T)/(G+S) oranı türe özgüdür ve her zaman 1'e eşit değildir."
+  },
+  {
+    "id": "yb_k_87",
+    "kaynak": "PDF",
+    "konu": "Yaşam Bilimi Biyoloji",
+    "seviye": "Kolay",
+    "soru": "Aşağıdakilerin hangisinde verilen canlı karşısındaki olayı gerçekleştiremez?",
+    "gorsel": null,
+    "siklar": [
+      "Hayvan → Glikojen sentezi",
+      "Mantar → Kitin sentezi",
+      "Bakteri → Embriyonik gelişim",
+      "Arke → Ekstrem koşullarda yaşama",
+      "Bitki → Protein sentezi"
+    ],
+    "cevap": "Bakteri → Embriyonik gelişim",
+    "biyologNotu": "Bakteriler tek hücreli prokaryot canlılardır; bölünerek çoğalırlar ve çok hücrelilere özgü olan embriyonik gelişim evreleri göstermezler."
+  },
+  {
+    "id": "yb_k_88",
+    "kaynak": "PDF",
+    "konu": "Yaşam Bilimi Biyoloji",
+    "seviye": "Kolay",
+    "soru": "Bazı bileşiklerin kapalı formülleri şu şekildedir:\nI. H₂O   II. C₅H₁₀O₄   III. C₂H₅OH   IV. NH₃\nBuna göre verilen bileşiklerin İnorganik ve Organik olarak sınıflandırılması aşağıdakilerden hangisinde doğru verilmiştir?",
+    "gorsel": null,
+    "siklar": [
+      "İnorganik: I ve II / Organik: III ve IV",
+      "İnorganik: I ve IV / Organik: II ve III",
+      "İnorganik: II ve III / Organik: I ve IV",
+      "İnorganik: II / Organik: I, III ve IV",
+      "İnorganik: III / Organik: I, II ve IV"
+    ],
+    "cevap": "İnorganik: I ve IV / Organik: II ve III",
+    "biyologNotu": "H₂O (su) ve NH₃ (amonyak) inorganik; C₅H₁₀O₄ (deoksiriboz şekeri) ve C₂H₅OH (etil alkol) ise C ve H iskeletine sahip organik bileşiklerdir."
+  },
+  {
+    "id": "yb_k_89",
+    "kaynak": "PDF",
+    "konu": "Yaşam Bilimi Biyoloji",
+    "seviye": "Kolay",
+    "soru": "Canlılar hareket, solunum, beslenme, boşaltım ve etkiye tepki verme gibi ortak özelliklere sahiptir. Buna göre bakterilerde görülebilen aşağıdaki reaksiyonlardan hangisinin insanlarda gözlenmesi beklenmez?",
+    "gorsel": null,
+    "siklar": [
+      "CO₂ özümlemesi",
+      "Oksijenli solunum",
+      "DNA replikasyonu",
+      "Protein sentezi",
+      "Glukoz tüketimi"
+    ],
+    "cevap": "CO₂ özümlemesi",
+    "biyologNotu": "CO₂ özümlemesi (fotosentez ve kemosentez ile organik besin üretimi) bazı ototrof bakterilerde görülürken, heterotrof olan insanlarda gerçekleşmez."
+  },
+  {
+    "id": "yb_k_90",
+    "kaynak": "PDF",
+    "konu": "Yaşam Bilimi Biyoloji",
+    "seviye": "Kolay",
+    "soru": "Glukoz ve Fe minerali ile ilgili;\nI. hücre zarından geçebilme,\nII. hücresel solunumda enerji verme,\nIII. polimerleşme tepkimesine katılma,\nIV. bitki hücrelerinde sentezlenebilme\nözelliklerinden hangileri ortaktır?",
+    "gorsel": null,
+    "siklar": [
+      "Yalnız I",
+      "I ve II",
+      "II ve III",
+      "I, II ve IV",
+      "I, II, III ve IV"
+    ],
+    "cevap": "Yalnız I",
+    "biyologNotu": "Hem glukoz (monomer) hem de demir (mineral) küçük yapılı oldukları için sindirilmeden hücre zarından doğrudan geçebilir; diğer özellikler sadece glukoza aittir."
+  },
+  {
+    "id": "yb_k_91",
+    "kaynak": "PDF",
+    "konu": "Yaşam Bilimi Biyoloji",
+    "seviye": "Kolay",
+    "soru": "I. Ester bağı içermek\nII. Gliserol içermek\nIII. Yağ asidi içermek\nYukarıda verilen özelliklerden hangileri fosfolipitlerin ve nötral yağların ortak özelliğidir?",
+    "gorsel": null,
+    "siklar": [
+      "Yalnız I",
+      "Yalnız II",
+      "I ve II",
+      "II ve III",
+      "I, II ve III"
+    ],
+    "cevap": "I, II ve III",
+    "biyologNotu": "Nötral yağlarda 1 gliserol + 3 yağ asidi (3 ester bağı), fosfolipitlerde ise 1 gliserol + 2 yağ asidi + fosfat grubu (ester bağlarıyla bağlı) bulunur."
+  },
+  {
+    "id": "yb_k_92",
+    "kaynak": "PDF",
+    "konu": "Yaşam Bilimi Biyoloji",
+    "seviye": "Kolay",
+    "soru": "Glikojen, kitin, nişasta molekülleri ile ilgili;\nI. hücre içerisinde depolanma,\nII. benzer molekülün tekrarı ile oluşma,\nIII. yapı maddesi olarak görev alma\nözelliklerinden hangileri ortaktır?",
+    "gorsel": null,
+    "siklar": [
+      "Yalnız I",
+      "Yalnız II",
+      "Yalnız III",
+      "I ve II",
+      "I, II ve III"
+    ],
+    "cevap": "Yalnız II",
+    "biyologNotu": "Üçü de çok sayıda glukoz monomerinin glikozit bağlarıyla birleşmesiyle oluşan polisakkaritlerdir; nişasta ve glikojen depo, kitin ise yapısaldır."
+  },
+  {
+    "id": "yb_k_93",
+    "kaynak": "PDF",
+    "konu": "Yaşam Bilimi Biyoloji",
+    "seviye": "Kolay",
+    "soru": "Aşağıdaki ifadelerden hangisi asit ve bazlar için söylenemez?",
+    "gorsel": null,
+    "siklar": [
+      "Bazı bazlar ortama OH⁻ iyonu vermeyebilir.",
+      "Asit ve bazlar nötrleşme reaksiyonu gerçekleştirebilir.",
+      "Asitlerin tatları ekşidir.",
+      "Bazlar turnusol kâğıdını mavi-mora çevirir.",
+      "Tamamı inorganik yapılıdır."
+    ],
+    "cevap": "Tamamı inorganik yapılıdır.",
+    "biyologNotu": "Karboksil grubu içeren organik asitler (yağ asitleri, amino asitler) ve azotlu organik bazlar (adenin, guanin vb.) organik yapılıdır."
+  },
+  {
+    "id": "yb_k_94",
+    "kaynak": "PDF",
+    "konu": "Yaşam Bilimi Biyoloji",
+    "seviye": "Kolay",
+    "soru": "Yeni toplanmış sebzelerin şeker oranı yüksek olup ağızda tatlı bir tat bırakır. Ancak toplandıktan birkaç gün sonra şeker büyük oranda depo molekülü nişastaya dönüştüğü için sebze tatlı tadını kaybeder. Yeni kopartılmış sebzeler kısa bir süre kaynar suya daldırılıp sonra soğuk ortamda saklanırsa tatlılıklarını korur.\nBu yöntemin başarısının temel nedeni enzimin aşağıdaki özelliklerinden hangisine dayandırılabilir?",
+    "gorsel": null,
+    "siklar": [
+      "Reaksiyonlardan etkilenmemesi",
+      "Yapısının yüksek sıcaklıkta bozulması",
+      "Substratlarına özgü olması",
+      "Belirli pH aralıklarında çalışması",
+      "İnhibitörlerden olumsuz etkilenmesi"
+    ],
+    "cevap": "Yapısının yüksek sıcaklıkta bozulması",
+    "biyologNotu": "Kaynar suya daldırma işlemi, glukozu nişastaya çeviren enzimlerin protein yapısını yüksek sıcaklıkla denatüre ederek bozar ve şekerin dönüşümünü durdurur."
+  },
+  {
+    "id": "yb_k_95",
+    "kaynak": "PDF",
+    "konu": "Yaşam Bilimi Biyoloji",
+    "seviye": "Kolay",
+    "soru": "Vitaminlerle ilgili,\nI. Vücudun önemli bir enerji deposudur.\nII. Bazıları insanlarda öncüllerden sentezlenebilir.\nIII. Depo edilen türlerinin fazlası zararlı etki yaratmaz.\nIV. Bazıları koenzim olarak iş görebilir.\nifadelerinden hangileri doğrudur?",
+    "gorsel": null,
+    "siklar": [
+      "Yalnız III",
+      "I ve II",
+      "I ve IV",
+      "II ve IV",
+      "II, III ve IV"
+    ],
+    "cevap": "II ve IV",
+    "biyologNotu": "Provitamin A ve D insan vücudunda aktif vitaminlere dönüştürülebilir (II) ve B grubu gibi vitaminler enzimlere koenzim olarak katılır (IV). Yağda çözünenlerin aşırı birikimi ise toksik etki yapar."
+  },
+  {
+    "id": "yb_k_96",
+    "kaynak": "PDF",
+    "konu": "Yaşam Bilimi Biyoloji",
+    "seviye": "Kolay",
+    "soru": "Trigliseritlerle ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "gorsel": null,
+    "siklar": [
+      "Çeşitliliğini yapısındaki yağ asitleri sağlar.",
+      "Yapısındaki yağ asitlerinin tamamı insan vücudunda sentezlenebilir.",
+      "Sadece bir adet gliserol molekülü içerir.",
+      "Oluşumu sırasında üç molekül su açığa çıkar.",
+      "Yapısında üç adet ester bağı bulunur."
+    ],
+    "cevap": "Yapısındaki yağ asitlerinin tamamı insan vücudunda sentezlenebilir.",
+    "biyologNotu": "İnsan vücudunda sentezlenemeyen ve besinlerle dışarıdan hazır alınması zorunlu olan yağ asitlerine temel (esansiyel) yağ asitleri (örneğin omega-3) denir."
+  },
+  {
+    "id": "yb_k_97",
+    "kaynak": "PDF",
+    "konu": "Yaşam Bilimi Biyoloji",
+    "seviye": "Kolay",
+    "soru": "Suyun aşağıdaki özelliklerinden hangisi, bitkilerin gövdesinde yer çekimine zıt yönde taşınmasına yardımcı olur?",
+    "gorsel": null,
+    "siklar": [
+      "Özgül ısısının yüksek olması",
+      "Çözücü özelliğinin güçlü olması",
+      "Molekülleri arasında hidrojen bağı olması",
+      "Katı hâlinin sıvı hâlinden daha az yoğun olması",
+      "Fotosentezde elektron kaynağı olarak kullanılması"
+    ],
+    "cevap": "Molekülleri arasında hidrojen bağı olması",
+    "biyologNotu": "Su molekülleri arasındaki zayıf hidrojen bağları kohezyon kuvvetini oluşturarak suyun odun borularında kopmayan bir sütun halinde yukarı çekilmesini sağlar."
+  },
+  {
+    "id": "yb_k_98",
+    "kaynak": "PDF",
+    "konu": "Yaşam Bilimi Biyoloji",
+    "seviye": "Kolay",
+    "soru": "Canlılarda gözlenen;\nI. eşeysiz üreme,\nII. enerji tüketimi,\nIII. oksijensiz solunum\nfaaliyetlerinden hangileri tüm canlılar tarafından gerçekleştirilebilir?",
+    "gorsel": null,
+    "siklar": [
+      "Yalnız I",
+      "Yalnız II",
+      "Yalnız III",
+      "I ve II",
+      "I, II ve III"
+    ],
+    "cevap": "Yalnız II",
+    "biyologNotu": "Metabolik faaliyetlerini sürdürebilmek için enerji (ATP) üretmek ve tüketmek tüm canlıların ortak özelliğidir."
+  },
+  {
+    "id": "yb_k_99",
+    "kaynak": "PDF",
+    "konu": "Yaşam Bilimi Biyoloji",
+    "seviye": "Kolay",
+    "soru": "Canlıların karakteristik özellikleri düşünüldüğünde \"iş bölümü\" ifadesi aşağıdaki kavramlardan hangisine karşılık gelir?",
+    "gorsel": null,
+    "siklar": [
+      "Homeostasi",
+      "Adaptasyon",
+      "Metabolizma",
+      "Organizasyon",
+      "Etkiye tepki gösterme"
+    ],
+    "cevap": "Organizasyon",
+    "biyologNotu": "Çok hücrelilerde hücre → doku → organ → sistem hiyerarşisiyle yürütülen uyumlu iş bölümüne organizasyon denir (tek hücrelilerde ise organeller arasında görülür)."
+  },
+  {
+    "id": "yb_k_100",
+    "kaynak": "PDF",
+    "konu": "Yaşam Bilimi Biyoloji",
+    "seviye": "Kolay",
+    "soru": "Bir vitaminin eksikliğinin bir başkası ile giderilememesinin temel nedeni aşağıdakilerden hangisidir?",
+    "gorsel": null,
+    "siklar": [
+      "Bazılarının depo edilip bazılarının idrar ile atılması",
+      "Bazılarının suda, bazılarının yağda çözünmesi",
+      "Her vitaminin kendine özgü reaksiyonda rol alması",
+      "Bazılarının öncüllerinden sentezlenebilmesi",
+      "Heterotroflar tarafından sentezlenememeleri"
+    ],
+    "cevap": "Her vitaminin kendine özgü reaksiyonda rol alması",
+    "biyologNotu": "Her vitamin belirli bir enzimin koenzim kısmını oluşturur ve kendine özgü bir biyokimyasal tepkimede görev alır; bu yüzden biri diğerinin yerini tutamaz."
+  },
+  {
+    "id": "yb_k_101",
+    "kaynak": "PDF",
+    "konu": "Yaşam Bilimi Biyoloji",
+    "seviye": "Kolay",
+    "soru": "Aşağıdakilerden hangisi DNA ve RNA moleküllerinin ortak özelliklerinden biri değildir?",
+    "gorsel": null,
+    "siklar": [
+      "5C'lu şeker içerme",
+      "Nükleotit polimeri olma",
+      "Çekirdek içinde bulunabilme",
+      "Pürin bazlar içerme",
+      "Transkripsiyonla sentezlenme"
+    ],
+    "cevap": "Transkripsiyonla sentezlenme",
+    "biyologNotu": "DNA üzerinden RNA sentezlenmesine transkripsiyon denir. DNA ise transkripsiyonla değil, kendi kendini eşleyerek (replikasyon ile) sentezlenir."
+  },
+  {
+    "id": "yb_k_102",
+    "kaynak": "PDF",
+    "konu": "Yaşam Bilimi Biyoloji",
+    "seviye": "Kolay",
+    "soru": "RNA çeşitlerine ait;\nI. DNA üzerinden sentezlenme,\nII. protein sentezinde görev alma,\nIII. riboz şeker içerme\nözelliklerinden hangileri mRNA, tRNA ve rRNA çeşitleri için ortaktır?",
+    "gorsel": null,
+    "siklar": [
+      "Yalnız I",
+      "Yalnız II",
+      "I ve II",
+      "II ve III",
+      "I, II ve III"
+    ],
+    "cevap": "I, II ve III",
+    "biyologNotu": "Üç RNA çeşidi de DNA'nın anlamlı zincirinden transkripsiyonla üretilir, yapılarında riboz şekeri bulundurur ve protein sentezinde birlikte görev alır."
+  },
+  {
+    "id": "yb_k_103",
+    "kaynak": "PDF",
+    "konu": "Yaşam Bilimi Biyoloji",
+    "seviye": "Kolay",
+    "soru": "DNA ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "gorsel": null,
+    "siklar": [
+      "Canlılara özgü şifre içerir.",
+      "Replikasyon ile sayısını artırır.",
+      "Ökaryotlarda sadece çekirdek içinde bulunur.",
+      "Genetik bilginin aktarımını sağlar.",
+      "Yapısında genler bulunur."
+    ],
+    "cevap": "Ökaryotlarda sadece çekirdek içinde bulunur.",
+    "biyologNotu": "Ökaryot hücrelerde DNA çekirdeğin yanı sıra mitokondri ve kloroplast organellerinin içinde de halkasal yapıda bulunur."
+  },
+  {
+    "id": "yb_k_104",
+    "kaynak": "PDF",
+    "konu": "Yaşam Bilimi Biyoloji",
+    "seviye": "Kolay",
+    "soru": "Selülozun insanlar tarafından sindirilmemesine rağmen diyetin önemli bir kısmını oluşturması gerekliliğinin temel nedeni aşağıdakilerden hangisidir?",
+    "gorsel": null,
+    "siklar": [
+      "Suda çözünme özelliğinin olmaması",
+      "Doğada en bol bulunan polisakkarit olması",
+      "İnsan kan şekerini hızlı yükseltmesi",
+      "Bağırsakların mukus salgısını artırması",
+      "İnsan vücudunda hidrolize uğramaması"
+    ],
+    "cevap": "Bağırsakların mukus salgısını artırması",
+    "biyologNotu": "Bitkisel lifli besinlerdeki selüloz bağırsak duvarını uyararak mukus salgısını artırır ve sindirim atıklarının bağırsakta kolayca ilerlemesini sağlar."
+  },
+  {
+    "id": "yb_k_105",
+    "kaynak": "PDF",
+    "konu": "Yaşam Bilimi Biyoloji",
+    "seviye": "Kolay",
+    "soru": "Aşağıdakilerden hangisi D ve E vitaminlerinin ortak özelliklerindendir?",
+    "gorsel": null,
+    "siklar": [
+      "Kemiklerde Ca²⁺ tutulumunda görev alma",
+      "Antioksidan etkiye sahip olma",
+      "Öncül molekülünden deride dönüştürülme",
+      "Bağırsak bakterileri tarafından üretilme",
+      "Karaciğerde depo edilme"
+    ],
+    "cevap": "Karaciğerde depo edilme",
+    "biyologNotu": "D ve E vitaminleri yağda çözünen (ADEK) vitamin grubundandır ve her ikisinin de fazlası karaciğerde depolanır."
+  },
+  {
+    "id": "yb_k_106",
+    "kaynak": "PDF",
+    "konu": "Yaşam Bilimi Biyoloji",
+    "seviye": "Kolay",
+    "soru": "Vücut sıcaklığı yükseldiğinde ter bezlerinden salgılanan ter ile sıcaklık düşürülür. Bu fizyolojik durum düşünüldüğünde ter içindeki suyun hangi özelliğinden yararlanıldığı söylenir?",
+    "gorsel": null,
+    "siklar": [
+      "+4 °C'de yoğunluğunun maksimum olmasından",
+      "Nükleotit yapılı olmasından",
+      "Buharlaşma ısısının yüksek olmasından",
+      "İyi bir çözücü olmasından",
+      "Katı yoğunluğunun sıvısından düşük olmasından"
+    ],
+    "cevap": "Buharlaşma ısısının yüksek olmasından",
+    "biyologNotu": "Suyun buharlaşma ısısı yüksek olduğu için deriden buharlaşırken vücuttan yüksek miktarda ısı enerjisi çeker ve vücut sıcaklığını dengeler."
+  },
+  {
+    "id": "yb_k_107",
+    "kaynak": "PDF",
+    "konu": "Yaşam Bilimi Biyoloji",
+    "seviye": "Kolay",
+    "soru": "Canlılarda enerji molekülü olarak işlev gören ATP için aşağıda verilen ifadelerden hangisi yanlıştır?",
+    "gorsel": null,
+    "siklar": [
+      "Yıkımına defosforilasyon denir.",
+      "Nükleotit yapılıdır.",
+      "Endotermik reaksiyonlarda kullanılır.",
+      "Karaciğer ve kaslarda kullanılmak üzere depolanır.",
+      "Sentezi endotermik, yıkımı ekzotermiktir."
+    ],
+    "cevap": "Karaciğer ve kaslarda kullanılmak üzere depolanır.",
+    "biyologNotu": "Karaciğer ve kaslarda depolanan enerji kaynağı glikojendir; ATP hiçbir hücre veya organda depolanmaz."
   }
 ]
