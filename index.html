@@ -449,15 +449,53 @@
             });
         }
 
+        const QUESTION_FILES = [
+            // Mevcut 107 kolay soruluk dosya
+            'data/sorular.json',
+            
+            // 1. Ünite: Yaşam Bilimi Biyoloji
+            'data/yasam_bilimi_kolay.json',
+            'data/yasam_bilimi_orta.json',
+            'data/yasam_bilimi_zor.json',
+
+            // 2. Ünite: Hücre ve Organeller
+            'data/hucre_kolay.json',
+            'data/hucre_orta.json',
+            'data/hucre_zor.json',
+
+            // 3. Ünite: Canlıların Sınıflandırılması
+            'data/siniflandirma_kolay.json',
+            'data/siniflandirma_orta.json',
+            'data/siniflandirma_zor.json',
+
+            // 4. Ünite: Hücre Bölünmeleri
+            'data/hucre_bolunmeleri_kolay.json',
+            'data/hucre_bolunmeleri_orta.json',
+            'data/hucre_bolunmeleri_zor.json',
+
+            // 5. Ünite: Kalıtım
+            'data/kalitim_kolay.json',
+            'data/kalitim_orta.json',
+            'data/kalitim_zor.json',
+
+            // 6. Ünite: Ekosistem Ekolojisi
+            'data/ekosistem_kolay.json',
+            'data/ekosistem_orta.json',
+            'data/ekosistem_zor.json'
+        ];
+
         async function loadQuestionBank() {
-            try {
-                const response = await fetch('data/sorular.json');
-                if (!response.ok) throw new Error('JSON bulunamadı');
-                const data = await response.json();
-                allQuestions = (Array.isArray(data) && data.length > 0) ? data : DEFAULT_QUESTIONS;
-            } catch (err) {
-                allQuestions = DEFAULT_QUESTIONS;
+            let combined = [];
+            for (const file of QUESTION_FILES) {
+                try {
+                    const response = await fetch(file);
+                    if (response.ok) {
+                        const data = await response.json();
+                        if (Array.isArray(data)) combined.push(...data);
+                    }
+                } catch (err) {}
             }
+            allQuestions = combined.length > 0 ? combined : DEFAULT_QUESTIONS;
             filterQuestions();
             applyTheme();
             document.getElementById('scoreDisplay').innerText = currentScore;
@@ -701,58 +739,7 @@
             }
         }
 
-        const QUESTION_FILES = [
-            // Mevcut 107 kolay soruluk dosya
-            'data/sorular.json',
-            
-            // 1. Ünite: Yaşam Bilimi Biyoloji
-            'data/yasam_bilimi_kolay.json',
-            'data/yasam_bilimi_orta.json',
-            'data/yasam_bilimi_zor.json',
-
-            // 2. Ünite: Hücre ve Organeller
-            'data/hucre_kolay.json',
-            'data/hucre_orta.json',
-            'data/hucre_zor.json',
-
-            // 3. Ünite: Canlıların Sınıflandırılması
-            'data/siniflandirma_kolay.json',
-            'data/siniflandirma_orta.json',
-            'data/siniflandirma_zor.json',
-
-            // 4. Ünite: Hücre Bölünmeleri
-            'data/hucre_bolunmeleri_kolay.json',
-            'data/hucre_bolunmeleri_orta.json',
-            'data/hucre_bolunmeleri_zor.json',
-
-            // 5. Ünite: Kalıtım
-            'data/kalitim_kolay.json',
-            'data/kalitim_orta.json',
-            'data/kalitim_zor.json',
-
-            // 6. Ünite: Ekosistem Ekolojisi
-            'data/ekosistem_kolay.json',
-            'data/ekosistem_orta.json',
-            'data/ekosistem_zor.json'
-        ];
-
-        async function loadQuestionBank() {
-            let combined = [];
-            for (const file of QUESTION_FILES) {
-                try {
-                    const response = await fetch(file);
-                    if (response.ok) {
-                        const data = await response.json();
-                        if (Array.isArray(data)) combined.push(...data);
-                    }
-                } catch (err) {}
-            }
-            allQuestions = combined.length > 0 ? combined : DEFAULT_QUESTIONS;
-            filterQuestions();
-            applyTheme();
-            document.getElementById('scoreDisplay').innerText = currentScore;
-            loadNextQuestion();
-        }
+        loadQuestionBank();
     </script>
 </body>
 </html>
