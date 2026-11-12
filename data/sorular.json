@@ -1,1 +1,226 @@
-[]
+[
+  {
+    "id": "hb_01",
+    "kaynak": "PDF",
+    "konu": "Hücre Bölünmeleri",
+    "soru": "Bir hücrede,\nI. Hücreye madde giriş çıkışlarının zorlaşması\nII. Sitoplazma miktarının artması\nIII. Protein sentezinin azalması\ndurumlarından hangileri bölünmeye neden olabilir?",
+    "gorsel": null,
+    "siklar": [
+      "Yalnız I",
+      "Yalnız II",
+      "I ve II",
+      "II ve III",
+      "I, II ve III"
+    ],
+    "cevap": "I ve II",
+    "biyologNotu": "Hücre büyüdükçe hacmi ($r^3$), yüzey alanından ($r^2$) daha hızlı artar. Sitoplazma artışı madde alışverişini zorlaştırır ve çekirdeğin hücreyi yönetmesini güçleştirerek bölünme emrini tetikler."
+  },
+  {
+    "id": "hb_02",
+    "kaynak": "PDF",
+    "konu": "Hücre Bölünmeleri",
+    "soru": "İnsan vücudundaki tüm hücrelerde,\nI. Mayoz ile gamet oluşturma\nII. Sitoplazma ve hücre zarına sahip olma\nIII. Mitoz ile çoğalma\nverilenlerden hangileri ortaktır?",
+    "gorsel": null,
+    "siklar": [
+      "Yalnız I",
+      "Yalnız II",
+      "I ve II",
+      "II ve III",
+      "I, II ve III"
+    ],
+    "cevap": "Yalnız II",
+    "biyologNotu": "Mayoz yalnızca üreme ana hücrelerinde görülür. Olgun alyuvar, sinir ve çizgili kas hücreleri ise bölünme yeteneğini kaybettiği için mitozla çoğalamaz; ancak tüm canlı hücrelerde zar ve sitoplazma ortaktır."
+  },
+  {
+    "id": "hb_03",
+    "kaynak": "PDF",
+    "konu": "Hücre Bölünmeleri",
+    "soru": "Bir vücut hücresinin yenilenmesi sırasında,\nI. DNA'nın eşlenmesi\nII. Kardeş kromatitlerin farklı kutuplara gitmesi\nIII. Kromozomlarda parça değişimi olması\nolaylarından hangileri gözlenir?",
+    "gorsel": null,
+    "siklar": [
+      "Yalnız I",
+      "Yalnız III",
+      "I ve II",
+      "I ve III",
+      "I, II ve III"
+    ],
+    "cevap": "I ve II",
+    "biyologNotu": "Vücut hücrelerinin yenilenmesi (onarım) mitoz bölünme ile gerçekleşir. Mitozda interfazda DNA eşlenir ve anafazda kardeş kromatitler ayrılır; parça değişimi (krossing over) sadece mayozda görülür."
+  },
+  {
+    "id": "hb_04",
+    "kaynak": "PDF",
+    "konu": "Hücre Bölünmeleri",
+    "soru": "Bir amipin mitoz bölünmesi sonucu oluşan yeni hücrelerde,\nI. Sitoplazma miktarı\nII. Organel sayısı\nIII. DNA miktarı\nözelliklerinden hangilerinin kesinlikle aynı olması beklenir?",
+    "gorsel": null,
+    "siklar": [
+      "Yalnız I",
+      "Yalnız II",
+      "Yalnız III",
+      "I ve III",
+      "I, II ve III"
+    ],
+    "cevap": "Yalnız III",
+    "biyologNotu": "Mitoz bölünmede sitokinez sırasında sitoplazma miktarı ve organel sayısı iki hücreye birebir eşit dağılmayabilir; ancak DNA miktarı ve genetik yapı (mutasyon yoksa) kesinlikle aynıdır."
+  },
+  {
+    "id": "hb_05",
+    "kaynak": "PDF",
+    "konu": "Hücre Bölünmeleri",
+    "soru": "Vejetatif üremenin özellikleri anlatılırken,\nI. Gamet oluşumu\nII. Mitoz temelli olma\nIII. Genetik çeşitlilik\nverilenlerden hangileri söylenebilir?",
+    "gorsel": null,
+    "siklar": [
+      "Yalnız I",
+      "Yalnız II",
+      "I ve II",
+      "II ve III",
+      "I, II ve III"
+    ],
+    "cevap": "Yalnız II",
+    "biyologNotu": "Vejetatif üreme bitkilerde görülen eşeysiz üreme şeklidir. Eşeysiz üreme mitoz temellidir; döllenme, gamet oluşumu ve kalıtsal çeşitlilik görülmez."
+  },
+  {
+    "id": "hb_06",
+    "kaynak": "PDF",
+    "konu": "Hücre Bölünmeleri",
+    "soru": "Aşağıdakilerden hangisinin gerçekleşmesi sırasında homolog kromozom ayrılması olur?",
+    "gorsel": null,
+    "siklar": [
+      "Bakterinin çoğalması",
+      "Boyun uzaması",
+      "Bitkide polen oluşumu",
+      "Vejetatif üreme",
+      "Vücuttaki yaraların iyileşmesi"
+    ],
+    "cevap": "Bitkide polen oluşumu",
+    "biyologNotu": "Homolog kromozom ayrılması mayoz bölünmenin Anafaz I evresine özgüdür. Bitkide polen oluşumu sırasında mikrospor ana hücresi mayoz geçirir; diğer seçenekler mitoz veya amitoz temellidir."
+  },
+  {
+    "id": "hb_07",
+    "kaynak": "PDF",
+    "konu": "Hücre Bölünmeleri",
+    "soru": "Aşağıdakilerden hangisi canlılar aleminde çeşitlilik sağlayan olaylardan değildir?",
+    "gorsel": null,
+    "siklar": [
+      "Konjugasyon",
+      "Transdüksiyon",
+      "Döllenme",
+      "Mutasyon",
+      "Sinaps"
+    ],
+    "cevap": "Sinaps",
+    "biyologNotu": "Konjugasyon, transdüksiyon, döllenme ve mutasyon genetik çeşitlilik sağlar. Sinaps sinir hücreleri arasındaki bağlantı bölgesidir (mayozdaki sinapsis bile tek başına değil, krossing over gerçekleşirse çeşitlilik sağlar)."
+  },
+  {
+    "id": "hb_08",
+    "kaynak": "PDF",
+    "konu": "Hücre Bölünmeleri",
+    "soru": "Çok hücrelilerde mitoz bölünme,\nI. Üreme\nII. Büyüme\nIII. Onarım\nolaylarından hangilerini sağlar?",
+    "gorsel": null,
+    "siklar": [
+      "Yalnız I",
+      "Yalnız II",
+      "Yalnız III",
+      "I ve III",
+      "I, II ve III"
+    ],
+    "cevap": "I, II ve III",
+    "biyologNotu": "Çok hücreli canlılarda mitoz; zigottan itibaren büyümeyi, yaraların onarımını ve bazı çok hücrelilerde (örneğin bitkilerde vejetatif üreme, hidrada tomurcuklanma) eşeysiz üremeyi sağlar."
+  },
+  {
+    "id": "hb_09",
+    "kaynak": "PDF",
+    "konu": "Hücre Bölünmeleri",
+    "soru": "2n=36 kromozomlu bir hücre art arda dört mitoz geçirdiğinde oluşacak hücre sayısı ve o hücrelerin kromozom sayıları hangisinde doğru verilmiştir?",
+    "gorsel": null,
+    "siklar": [
+      "8, 2n=18",
+      "8, n=18",
+      "16, 2n=36",
+      "16, n=18",
+      "16, 2n=72"
+    ],
+    "cevap": "16, 2n=36",
+    "biyologNotu": "Mitoz sonucu oluşan hücre sayısı $2^n$ formülüyle bulunur ($2^4 = 16$ hücre). Mitoz bölünmede kromozom sayısı sabit kaldığı için her hücre yine 2n=36 kromozomlu olur."
+  },
+  {
+    "id": "hb_10",
+    "kaynak": "PDF",
+    "konu": "Hücre Bölünmeleri",
+    "soru": "Hücre döngüsünün en uzun aşaması hangisidir?",
+    "gorsel": null,
+    "siklar": [
+      "Profaz",
+      "İnterfaz",
+      "Metafaz",
+      "Anafaz",
+      "Telofaz"
+    ],
+    "cevap": "İnterfaz",
+    "biyologNotu": "Hücre döngüsünün yaklaşık %90'ını hazırlık evresi olan İnterfaz (G1, S, G2) oluşturur. Kalan %10'luk kısım ise mitotik evredir."
+  },
+  {
+    "id": "hb_11",
+    "kaynak": "PDF",
+    "konu": "Hücre Bölünmeleri",
+    "soru": "Bir bitki hücresinde,\nI. İğ ipliklerinin oluşum şekli\nII. Sitoplazmanın bölünmesi\nIII. DNA eşlenmesi\nverilenlerden hangileri hayvan hücresinden farklı gerçekleşir?",
+    "gorsel": null,
+    "siklar": [
+      "Yalnız I",
+      "Yalnız III",
+      "I ve II",
+      "I ve III",
+      "I, II ve III"
+    ],
+    "cevap": "I ve II",
+    "biyologNotu": "Bitki hücrelerinde sentrozom olmadığı için iğ iplikleri sitoplazmadaki mikrotübül organize edici bölgeden oluşur ve sitokinez ara lamel (orta plak) ile gerçekleşir. DNA eşlenmesi ise tüm ökaryotlarda aynı şekilde gerçekleşir."
+  },
+  {
+    "id": "hb_12",
+    "kaynak": "PDF",
+    "konu": "Hücre Bölünmeleri",
+    "soru": "Mitoz bölünmede, oluşan hücrelerin birbirinin aynı olmasının sebebi nedir?",
+    "gorsel": null,
+    "siklar": [
+      "İnterfazda DNA eşlenmesi",
+      "Profazda çekirdek zarının erimesi",
+      "Anafazda kardeş kromatit ayrılması",
+      "Telofazda çift çekirdek oluşması",
+      "Metafazda kromozomların iğ ipliklerinin bağlanması"
+    ],
+    "cevap": "Anafazda kardeş kromatit ayrılması",
+    "biyologNotu": "İnterfazda eşlenen DNA'nın oluşturduğu birebir kopya kardeş kromatitlerin, anafaz evresinde zıt kutuplara eşit olarak ayrılması oluşan iki hücrenin genetik yapısının aynı olmasını sağlar."
+  },
+  {
+    "id": "hb_13",
+    "kaynak": "PDF",
+    "konu": "Hücre Bölünmeleri",
+    "soru": "Aşağıdakilerden hangisinde üreme mitoz ile ikiye bölünme şeklinde görülür?",
+    "gorsel": null,
+    "siklar": [
+      "Bakteri",
+      "Amip",
+      "Hidra",
+      "Deniz yıldızı",
+      "Kara yosunu"
+    ],
+    "cevap": "Amip",
+    "biyologNotu": "Dikkat tuzak soru! Bakteri de ikiye bölünür ama prokaryot olduğu için bölünmesi mitoz değildir. Ökaryot tek hücreli olan amipin ikiye bölünmesi ise mitoz temellidir."
+  },
+  {
+    "id": "hb_14",
+    "kaynak": "PDF",
+    "konu": "Hücre Bölünmeleri",
+    "soru": "Yumurta hücresindeki otozom sayısı 20 olan bir canlının vücut hücresinde profazdaki kromatit sayısı aşağıdakilerden hangisinde doğru verilmiştir?",
+    "gorsel": null,
+    "siklar": [
+      "20",
+      "21",
+      "40",
+      "42",
+      "84"
+    ],
+    "cevap": "84",
+    "biyologNotu": "Yumurta hücresi (n) 1 gonozom taşır; 20 otozom varsa n = 21'dir. Vücut hücresi 2n = 42 kromozomludur. İnterfazda DNA eşlendiği için profazda her kromozom 2 kromatitten oluşur: 42 x 2 = 84 kromatit bulunur."
+  }
+]
