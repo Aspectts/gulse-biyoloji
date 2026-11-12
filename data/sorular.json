@@ -1,57 +1,299 @@
 [
   {
-    "id": "hb_01",
+    "id": "yb_k_01",
     "kaynak": "PDF",
-    "konu": "Hücre Bölünmeleri",
-    "soru": "Bir hücrede,\nI. Hücreye madde giriş çıkışlarının zorlaşması\nII. Sitoplazma miktarının artması\nIII. Protein sentezinin azalması\ndurumlarından hangileri bölünmeye neden olabilir?",
+    "konu": "Yaşam Bilimi Biyoloji",
+    "seviye": "Kolay",
+    "soru": "Canlılarda görülen karakteristik özellikler ile ilgili,\nI. Hücresel yapıya sahiptir.\nII. Hareket edip yer değişikliği yapar.\nIII. Solunumda kullanacağı besini dışarıdan hazır alır.\nIV. Metabolik faaliyetleri sırasında enzim kullanılır.\nyargılarından hangileri tüm canlılar için doğru değildir?",
     "gorsel": null,
     "siklar": [
-      "Yalnız I",
       "Yalnız II",
-      "I ve II",
+      "Yalnız III",
       "II ve III",
-      "I, II ve III"
+      "II ve IV",
+      "II, III ve IV"
     ],
-    "cevap": "I ve II",
-    "biyologNotu": "Hücre büyüdükçe hacmi ($r^3$), yüzey alanından ($r^2$) daha hızlı artar. Sitoplazma artışı madde alışverişini zorlaştırır ve çekirdeğin hücreyi yönetmesini güçleştirerek bölünme emrini tetikler."
+    "cevap": "II ve III",
+    "biyologNotu": "Bitkiler aktif yer değiştirme (II) yapamaz, durum değiştirme hareketi yapar. Ototrof canlılar ise besinini kendi üretir, dışarıdan hazır almaz (III)."
   },
   {
-    "id": "hb_02",
+    "id": "yb_k_02",
     "kaynak": "PDF",
-    "konu": "Hücre Bölünmeleri",
-    "soru": "İnsan vücudundaki tüm hücrelerde,\nI. Mayoz ile gamet oluşturma\nII. Sitoplazma ve hücre zarına sahip olma\nIII. Mitoz ile çoğalma\nverilenlerden hangileri ortaktır?",
-    "gorsel": null,
-    "siklar": [
-      "Yalnız I",
-      "Yalnız II",
-      "I ve II",
-      "II ve III",
-      "I, II ve III"
-    ],
-    "cevap": "Yalnız II",
-    "biyologNotu": "Mayoz yalnızca üreme ana hücrelerinde görülür. Olgun alyuvar, sinir ve çizgili kas hücreleri ise bölünme yeteneğini kaybettiği için mitozla çoğalamaz; ancak tüm canlı hücrelerde zar ve sitoplazma ortaktır."
-  },
-  {
-    "id": "hb_03",
-    "kaynak": "PDF",
-    "konu": "Hücre Bölünmeleri",
-    "soru": "Bir vücut hücresinin yenilenmesi sırasında,\nI. DNA'nın eşlenmesi\nII. Kardeş kromatitlerin farklı kutuplara gitmesi\nIII. Kromozomlarda parça değişimi olması\nolaylarından hangileri gözlenir?",
+    "konu": "Yaşam Bilimi Biyoloji",
+    "seviye": "Kolay",
+    "soru": "I. n (amino asit) → Protein + (n-1)H₂O\nII. Glukoz + O₂ → CO₂ + H₂O\nIII. ATP → ADP + Pi\nIV. Glukoz + O₂ → CO₂ + H₂O + ATP\nYukarıda verilen metabolik reaksiyonlardan hangileri tüm canlılarda ortak olarak görülür?",
     "gorsel": null,
     "siklar": [
       "Yalnız I",
       "Yalnız III",
       "I ve II",
       "I ve III",
+      "I, III ve IV"
+    ],
+    "cevap": "I ve III",
+    "biyologNotu": "Protein sentezi (I) ve ATP hidrolizi/defosforilasyon (III) tüm canlılarda ortaktır. Oksijenli solunum (II ve IV) sadece oksijenli solunum yapan canlılarda görülür."
+  },
+  {
+    "id": "yb_k_03",
+    "kaynak": "PDF",
+    "konu": "Yaşam Bilimi Biyoloji",
+    "seviye": "Kolay",
+    "soru": "I. Öglenanın hücre yüzeylerinden NH₃'ü dışarı atması\nII. Bitkilerde yaprak dökümünün yaşanması\nIII. Memelilerin terleme ile fazla suyu ve minerali vücut dışına atması\nYukarıdaki ifadelerden hangileri canlılarda görülen boşaltım olaylarına örnektir?",
+    "gorsel": null,
+    "siklar": [
+      "Yalnız I",
+      "Yalnız II",
+      "I ve III",
+      "II ve III",
+      "I, II ve III"
+    ],
+    "cevap": "I, II ve III",
+    "biyologNotu": "Tek hücrelilerde yüzeyden difüzyonla atık atımı, bitkilerde yaprak dökümü ve memelilerde terleme birer boşaltım örneğidir."
+  },
+  {
+    "id": "yb_k_04",
+    "kaynak": "PDF",
+    "konu": "Yaşam Bilimi Biyoloji",
+    "seviye": "Kolay",
+    "soru": "İnorganik bileşikler ile ilgili aşağıda verilen ifadelerden hangisi yanlıştır?",
+    "gorsel": null,
+    "siklar": [
+      "Enzimlerin yapısına katılıp düzenleyici rol alır.",
+      "Vücutta osmotik basıncın ayarlanmasında görev alır.",
+      "Çoğu, bir araya gelip polimerleşebilir.",
+      "Sindirime uğramadan hücre zarından direkt geçer.",
+      "Kan ve doku sıvısının pH'sini düzenlemede rol oynar."
+    ],
+    "cevap": "Çoğu, bir araya gelip polimerleşebilir.",
+    "biyologNotu": "İnorganik bileşikler küçük moleküllerdir; hiçbir zaman dehidrasyonla polimerleşmezler ve sindirilmeden hücre zarından geçerler."
+  },
+  {
+    "id": "yb_k_05",
+    "kaynak": "PDF",
+    "konu": "Yaşam Bilimi Biyoloji",
+    "seviye": "Kolay",
+    "soru": "Kalsiyum, Magnezyum, Potasyum ve Fosfat minerallerinin görevleri aşağıdaki seçeneklerle eşleştirildiğinde hangisi dışarıda kalır?",
+    "gorsel": null,
+    "siklar": [
+      "Sinirsel iletimde görev alır.",
+      "Nükleik asit, hücre zarı ve ATP'nin yapısına katılır.",
+      "Alyuvarda bulunan hemoglobinin yapısına katılır.",
+      "Bitkilerde ışığı soğuran klorofilin yapısına katılır.",
+      "Kanın pıhtılaşmasında görev alır."
+    ],
+    "cevap": "Alyuvarda bulunan hemoglobinin yapısına katılır.",
+    "biyologNotu": "Hemoglobinin yapısına katılan mineral Demir (Fe)'dir. Potasyum sinirsel iletimde, Fosfat ATP/DNA'da, Magnezyum klorofilde, Kalsiyum pıhtılaşmada görev alır."
+  },
+  {
+    "id": "yb_k_06",
+    "kaynak": "PDF",
+    "konu": "Yaşam Bilimi Biyoloji",
+    "seviye": "Kolay",
+    "soru": "( ) Asitler sulu çözeltilere OH⁻ iyonu verir.\n( ) Bazlar saf suyun pH'sini artırır.\n( ) Bazlar mavi turnusol kâğıdını kırmızıya dönüştürür.\n( ) Asitli besinlerin tatları genellikle ekşidir.\nAsit ve bazlarla ilgili yukarıda verilen ifadelerin doğru (D) veya yanlış (Y) olmalarına göre sıralanışı aşağıdakilerden hangisidir?",
+    "gorsel": null,
+    "siklar": [
+      "Y - D - Y - D",
+      "Y - D - D - Y",
+      "D - Y - D - Y",
+      "Y - D - D - D",
+      "D - Y - Y - D"
+    ],
+    "cevap": "Y - D - Y - D",
+    "biyologNotu": "Asitler sulu çözeltilere H⁺ iyonu verir (Y). Bazlar pH'yi 7'nin üzerine çıkarır (D), turnusol kâğıdını kırmızıdan maviye çevirir (Y). Asitlerin tadı ekşidir (D)."
+  },
+  {
+    "id": "yb_k_07",
+    "kaynak": "PDF",
+    "konu": "Yaşam Bilimi Biyoloji",
+    "seviye": "Kolay",
+    "soru": "Su molekülü ve oluşturdukları kuvvetler ile ilgili,\nI. Kohezyon kuvveti ile köklerle alınan su ve mineraller yapraklara kadar taşınır.\nII. İki su molekülü arasında kurulan hidrojen bağları sayesinde su üstünde yüzey gerilimi oluşur.\nIII. Suyun oluşturduğu turgor basıncı sayesinde bitkide stomalar açılabilir.\nifadelerinden hangileri doğrudur?",
+    "gorsel": null,
+    "siklar": [
+      "Yalnız I",
+      "Yalnız II",
+      "Yalnız III",
+      "I ve II",
+      "I, II ve III"
+    ],
+    "cevap": "I, II ve III",
+    "biyologNotu": "Su moleküllerinin birbirini çekmesi (kohezyon) su sütununun kopmadan taşınmasını ve yüzey gerilimini sağlar; turgor basıncı ise stomaların açılmasını tetikler."
+  },
+  {
+    "id": "yb_k_08",
+    "kaynak": "PDF",
+    "konu": "Yaşam Bilimi Biyoloji",
+    "seviye": "Kolay",
+    "soru": "Su molekülü, iki hidrojen atomunun bir oksijen atomuna bağlanmasıyla oluşur. İnsan vücudunun %70-95'i sudan oluşur. Metabolizmanın düzenlenmesi gibi birçok olay için su gereklidir.\nBuna göre aşağıda verilenlerden hangisi suyun insan vücudundaki görevlerinden biri değildir?",
+    "gorsel": null,
+    "siklar": [
+      "Hormonların yapısına katılıp düzenleyici olarak görev yapar.",
+      "Kimyasal sindirim sırasında büyük moleküllerin küçük moleküllere parçalanmasını sağlar.",
+      "Kanın yapısına katılarak taşıyıcı ortam olarak görev yapar.",
+      "Çözücülük özelliği sayesinde hücredeki kimyasal reaksiyonların gerçekleşmesine olanak sağlar.",
+      "Vücutta oluşan birçok zararlı atığın seyreltilmesini ve atılmasını sağlar."
+    ],
+    "cevap": "Hormonların yapısına katılıp düzenleyici olarak görev yapar.",
+    "biyologNotu": "Su enzimlerin çalışması için uygun ortam sağlar ama hormonların (protein, steroit veya amino asit yapılıdır) yapı taşına katılmaz."
+  },
+  {
+    "id": "yb_k_09",
+    "kaynak": "PDF",
+    "konu": "Yaşam Bilimi Biyoloji",
+    "seviye": "Kolay",
+    "soru": "Karbohidratlar ile ilgili,\nI. Karbohidratlar şeker sayılarına göre, monosakkaritler ise karbon sayılarına göre ayrılır.\nII. Monosakkaritler özümleme reaksiyonu ile üretilirken disakkaritler ve polisakkaritler dehidrasyon reaksiyonu ile üretilir.\nIII. Monosakkaritler hücre zarından direkt geçerken polisakkaritler direkt geçemez.\nyargılarından hangileri doğrudur?",
+    "gorsel": null,
+    "siklar": [
+      "Yalnız I",
+      "Yalnız II",
+      "I ve II",
+      "I ve III",
+      "I, II ve III"
+    ],
+    "cevap": "I, II ve III",
+    "biyologNotu": "Monosakkaritler (3C-7C) fotosentez/kemosentez (özümleme) ile üretilir ve sindirilmeden zardan geçer; disakkarit ve polisakkaritler dehidrasyonla sentezlenen büyük moleküllerdir."
+  },
+  {
+    "id": "yb_k_10",
+    "kaynak": "PDF",
+    "konu": "Yaşam Bilimi Biyoloji",
+    "seviye": "Kolay",
+    "soru": "Laktoz + H₂O —(X)→ Glukoz + Galaktoz\nn(Glukoz) —(Y)→ Glikojen + (n-1)H₂O\nYukarıda verilen tepkimeler ile ilgili,\nI. X hidroliz tepkimesi, Y ise dehidrasyon tepkimesidir.\nII. Glikozit bağı X tepkimesinde yıkılırken Y tepkimesinde kurulur.\nIII. X tepkimesinde ATP açığa çıkarken Y tepkimesinde ATP harcanır.\nifadelerinden hangileri doğrudur?",
+    "gorsel": null,
+    "siklar": [
+      "Yalnız I",
+      "Yalnız II",
+      "Yalnız III",
+      "I ve II",
       "I, II ve III"
     ],
     "cevap": "I ve II",
-    "biyologNotu": "Vücut hücrelerinin yenilenmesi (onarım) mitoz bölünme ile gerçekleşir. Mitozda interfazda DNA eşlenir ve anafazda kardeş kromatitler ayrılır; parça değişimi (krossing over) sadece mayozda görülür."
+    "biyologNotu": "Dikkat! Hidroliz (X) tepkimelerinde ATP üretilmez ve harcanmaz (vücut ısısı kullanılır). Dehidrasyon (Y) tepkimelerinde ise ATP harcanır."
   },
   {
-    "id": "hb_04",
+    "id": "yb_k_11",
     "kaynak": "PDF",
-    "konu": "Hücre Bölünmeleri",
-    "soru": "Bir amipin mitoz bölünmesi sonucu oluşan yeni hücrelerde,\nI. Sitoplazma miktarı\nII. Organel sayısı\nIII. DNA miktarı\nözelliklerinden hangilerinin kesinlikle aynı olması beklenir?",
+    "konu": "Yaşam Bilimi Biyoloji",
+    "seviye": "Kolay",
+    "soru": "Karbohidratların yapı taşına monosakkarit denir. Monosakkaritler ile ilgili aşağıda verilen ifadelerden hangisi doğrudur?",
+    "gorsel": null,
+    "siklar": [
+      "5C'lular solunumda enerji verici olarak kullanılır.",
+      "6C'luları bitki veya hayvan hücreleri üretir.",
+      "Yapılarında bir tane glikozit bağı bulundurur.",
+      "Hidrolize uğradıktan sonra hücre zarından geçebilir.",
+      "Yapılarında karbon, hidrojen ve oksijen atomlarını bulundurur."
+    ],
+    "cevap": "Yapılarında karbon, hidrojen ve oksijen atomlarını bulundurur.",
+    "biyologNotu": "5C'lu pentozlar (riboz, deoksiriboz) yapısaldır, enerji vermez. Hayvan hücreleri 6C'lu glukozu üretemez, monosakkaritlerde glikozit bağı bulunmaz ve hidrolize uğramazlar."
+  },
+  {
+    "id": "yb_k_12",
+    "kaynak": "PDF",
+    "konu": "Yaşam Bilimi Biyoloji",
+    "seviye": "Kolay",
+    "soru": "Fosfolipitler ile ilgili,\nI. Yapısında C, H, O atomlarına ek olarak P de bulundurur.\nII. Yapısına üç yağ asidi ile bir tane gliserol katılır.\nIII. Hidrofilik ve hidrofobik bölümleri sayesinde hücre zarında düzenli bir dizilim oluşturur.\nifadelerinden hangileri doğrudur?",
+    "gorsel": null,
+    "siklar": [
+      "Yalnız I",
+      "Yalnız III",
+      "I ve III",
+      "II ve III",
+      "I, II ve III"
+    ],
+    "cevap": "I ve III",
+    "biyologNotu": "Trigliseritlerde 3 yağ asidi bulunurken, fosfolipitlerin yapısında 2 yağ asidi, 1 gliserol ve 1 fosfat grubu bulunur."
+  },
+  {
+    "id": "yb_k_13",
+    "kaynak": "PDF",
+    "konu": "Yaşam Bilimi Biyoloji",
+    "seviye": "Kolay",
+    "soru": "Yağların yapı taşları oksijenli solunumda yakıldıkları zaman karbohidrat ve protein monomerlerine göre daha fazla enerji verir.\nBu durum aşağıda verilen elementlerden hangisine daha fazla miktarda sahip olmalarından kaynaklanır?",
+    "gorsel": null,
+    "siklar": [
+      "Oksijen",
+      "Karbon",
+      "Hidrojen",
+      "Azot",
+      "Fosfat"
+    ],
+    "cevap": "Hidrojen",
+    "biyologNotu": "Yağ asitlerinin yapısında çok sayıda hidrojen (H) atomu bulunur; oksijenli solunumda bu hidrojenlerin ETS'ye aktarılmasıyla bol miktarda ATP ve metabolik su açığa çıkar."
+  },
+  {
+    "id": "yb_k_14",
+    "kaynak": "PDF",
+    "konu": "Yaşam Bilimi Biyoloji",
+    "seviye": "Kolay",
+    "soru": "Steroitler hücrede bazı moleküllere çevrilerek düzenleyici rol oynar.\nBuna göre,\nI. kolesterol,\nII. D vitamini,\nIII. östrojen hormonu,\nIV. lipaz enzimi\nyapılarının hangileri steroitlerden sentezlenir?",
+    "gorsel": null,
+    "siklar": [
+      "I ve II",
+      "I ve III",
+      "II ve IV",
+      "I, II ve III",
+      "I, II, III ve IV"
+    ],
+    "cevap": "I, II ve III",
+    "biyologNotu": "Kolesterol, D vitamini, safra tuzları ile östrojen/testosteron hormonları steroit yapılıdır; lipaz enzimi ise protein yapılıdır."
+  },
+  {
+    "id": "yb_k_15",
+    "kaynak": "PDF",
+    "konu": "Yaşam Bilimi Biyoloji",
+    "seviye": "Kolay",
+    "soru": "• Yaraların geç iyileşmesi\n• Bağışıklıkta zayıflama\n• Ödem oluşumu\n• Çocuklarda büyüme ve gelişme aksaklıkları\nYukarıda verilen rahatsızlıkların ortaya çıkmasında hangi molekülün eksikliği etkili olmuştur?",
+    "gorsel": null,
+    "siklar": [
+      "Steroit",
+      "Nişasta",
+      "Karbohidrat",
+      "Protein",
+      "Trigliserit"
+    ],
+    "cevap": "Protein",
+    "biyologNotu": "Antikorlar, kan ozmotik basıncını dengeleyen albümin/globülin ve doku onarımı doğrudan proteinlere bağlıdır; eksikliğinde ödem ve bağışıklık düşüşü görülür."
+  },
+  {
+    "id": "yb_k_16",
+    "kaynak": "PDF",
+    "konu": "Yaşam Bilimi Biyoloji",
+    "seviye": "Kolay",
+    "soru": "Proteinlerin yüksek sıcaklık, ani pH ve tuz derişiminden etkilenerek doğal yapılarının bozulmasına denatürasyon denir.\nBuna göre denatüre olmuş bir proteinde,\nI. üç boyutlu yapı,\nII. amino asit sayısı,\nIII. amino aside ait radikal grup\nniceliklerinin hangilerinde değişiklik olması beklenir?",
+    "gorsel": null,
+    "siklar": [
+      "Yalnız I",
+      "Yalnız II",
+      "Yalnız III",
+      "I ve II",
+      "I ve III"
+    ],
+    "cevap": "Yalnız I",
+    "biyologNotu": "Denatürasyonda peptit bağları kopmaz; bu yüzden amino asit sayısı, dizilimi ve çeşitleri değişmez, sadece proteinin katlanmaları (üç boyutlu yapısı) bozulur."
+  },
+  {
+    "id": "yb_k_17",
+    "kaynak": "PDF",
+    "konu": "Yaşam Bilimi Biyoloji",
+    "seviye": "Kolay",
+    "soru": "I. Turşunun sulandırılması\nII. Sebzelerin kurutulması\nIII. Yaprağın salamura edilmesi\nIV. Sütün kaynatılması\nNumaralanmış uygulamalardan hangileri enzimin etkinliğini azaltır?",
+    "gorsel": null,
+    "siklar": [
+      "I ve IV",
+      "II ve III",
+      "I, II ve III",
+      "II, III ve IV",
+      "I, II, III ve IV"
+    ],
+    "cevap": "II, III ve IV",
+    "biyologNotu": "Kurutma (suyu %15'in altına düşürme), salamura (aşırı tuz/ozmotik basınç) ve kaynatma (yüksek sıcaklık) enzim çalışmasını durdurur; turşuyu sulandırmak ise su oranını artırıp enzim etkinliğini hızlandırır."
+  },
+  {
+    "id": "yb_k_18",
+    "kaynak": "PDF",
+    "konu": "Yaşam Bilimi Biyoloji",
+    "seviye": "Kolay",
+    "soru": "Yönetici moleküllerle ilgili,\nI. DNA ve RNA tüm canlılarda sitoplazmada bulunur.\nII. Yapısında bulunan 6 karbonlu şekere göre adlandırılır.\nIII. Nükleotitlerin fosfodiester bağıyla bağlanması ile oluşur.\nIV. Hücrede baz ve şekere göre 8 çeşit nükleotit vardır.\nifadelerinden hangileri doğrudur?",
     "gorsel": null,
     "siklar": [
       "Yalnız I",
@@ -61,13 +303,507 @@
       "I, II ve III"
     ],
     "cevap": "Yalnız III",
-    "biyologNotu": "Mitoz bölünmede sitokinez sırasında sitoplazma miktarı ve organel sayısı iki hücreye birebir eşit dağılmayabilir; ancak DNA miktarı ve genetik yapı (mutasyon yoksa) kesinlikle aynıdır."
+    "biyologNotu": "Ökaryotlarda DNA çekirdekte bulunur (I yanlış), şekerleri 5 karbonludur (II yanlış). Soruda tüm nükleik asitler birlikte dendiği için fosfodiester bağıyla oluşmaları (III) kesin doğrudur."
   },
   {
-    "id": "hb_05",
+    "id": "yb_k_19",
     "kaynak": "PDF",
-    "konu": "Hücre Bölünmeleri",
-    "soru": "Vejetatif üremenin özellikleri anlatılırken,\nI. Gamet oluşumu\nII. Mitoz temelli olma\nIII. Genetik çeşitlilik\nverilenlerden hangileri söylenebilir?",
+    "konu": "Yaşam Bilimi Biyoloji",
+    "seviye": "Kolay",
+    "soru": "Nükleozit ve nükleotidin yapısında;\nI. adenin bazı,\nII. ester bağı,\nIII. 5 C'lu şeker,\nIV. fosfat grubu\nmoleküllerinden hangileri ortak olarak bulunabilir?",
+    "gorsel": null,
+    "siklar": [
+      "Yalnız I",
+      "I ve II",
+      "I ve III",
+      "II ve IV",
+      "II, III ve IV"
+    ],
+    "cevap": "I ve III",
+    "biyologNotu": "Nükleozit = Azotlu organik baz + 5C'lu şeker. Nükleozite ester bağıyla bir fosfat grubu eklendiğinde nükleotit oluşur."
+  },
+  {
+    "id": "yb_k_20",
+    "kaynak": "PDF",
+    "konu": "Yaşam Bilimi Biyoloji",
+    "seviye": "Kolay",
+    "soru": "1. Baz   2. Nükleozit   3. DNA   4. Gen   5. Nükleotit   6. Kromozom\nYukarıda verilen yapısal moleküllerin basitten karmaşığa organizasyon sırası aşağıdakilerin hangisinde doğru olarak verilmiştir?",
+    "gorsel": null,
+    "siklar": [
+      "1, 5, 2, 4, 3, 6",
+      "1, 2, 5, 3, 4, 6",
+      "1, 2, 5, 4, 3, 6",
+      "1, 2, 5, 6, 3, 4",
+      "1, 2, 3, 4, 5, 6"
+    ],
+    "cevap": "1, 2, 5, 4, 3, 6",
+    "biyologNotu": "Küçükten büyüğe sıralama: Baz → Nükleozit → Nükleotit → Gen (anlamlı DNA parçası) → DNA → Kromozom şeklindedir."
+  },
+  {
+    "id": "yb_k_21",
+    "kaynak": "PDF",
+    "konu": "Yaşam Bilimi Biyoloji",
+    "seviye": "Kolay",
+    "soru": "Vücudumuzda özelleşmiş hücre grupları tarafından üretilip kana salgılanan kimyasal maddelere hormon denir. Hormonlar ile ilgili,\nI. Düzenleyici moleküllerdir.\nII. Bazıları steroit bazıları protein yapıdadır.\nIII. Eksiklikleri veya salgı mekanizmalarının bozulması vücutta sorun teşkil etmez.\naçıklamalarından hangileri doğrudur?",
+    "gorsel": null,
+    "siklar": [
+      "Yalnız I",
+      "Yalnız II",
+      "Yalnız III",
+      "I ve II",
+      "I, II ve III"
+    ],
+    "cevap": "I ve II",
+    "biyologNotu": "Hormonlar homeostaziyi sağlayan düzenleyicilerdir; az veya çok salgılanmaları devlik, cücelik, şeker hastalığı gibi metabolik bozukluklara yol açar."
+  },
+  {
+    "id": "yb_k_22",
+    "kaynak": "PDF",
+    "konu": "Yaşam Bilimi Biyoloji",
+    "seviye": "Kolay",
+    "soru": "Vitaminler ile ilgili,\nI. Solunumda ham madde olarak kullanılmaz.\nII. Yağda çözünenler depo edilemez.\nIII. Enzimlerin yapısına katıldıkları için düzenleyicidir.\nifadelerinden hangileri yanlıştır?",
+    "gorsel": null,
+    "siklar": [
+      "Yalnız I",
+      "Yalnız II",
+      "Yalnız III",
+      "I ve II",
+      "I, II ve III"
+    ],
+    "cevap": "Yalnız II",
+    "biyologNotu": "Yağda çözünen A, D, E, K vitaminlerinin fazlası karaciğerde depo edilir; suda çözünen B ve C vitaminleri depo edilmez."
+  },
+  {
+    "id": "yb_k_23",
+    "kaynak": "PDF",
+    "konu": "Yaşam Bilimi Biyoloji",
+    "seviye": "Kolay",
+    "soru": "Canlı hücreler metabolik aktiviteleri gerçekleştirmek için ATP molekülüne ihtiyaç duyar. ATP molekülü canlıların kullandığı evrensel enerji molekülüdür.\nBuna göre ATP ile ilgili,\nI. Nükleotit yapılı bir moleküldür.\nII. Kararsız olduğu için yapısında bulunan son inorganik fosfat molekülünü çok güçlü çekemez ve ADP'ye dönüşür.\nIII. İnsanlarda hücre dışına gönderilebilir.\nyargılarından hangileri doğrudur?",
+    "gorsel": null,
+    "siklar": [
+      "Yalnız I",
+      "Yalnız II",
+      "I ve II",
+      "I ve III",
+      "I, II ve III"
+    ],
+    "cevap": "I ve II",
+    "biyologNotu": "ATP hücre zarından geçemez, bu yüzden hiçbir canlıda hücre dışına gönderilemez; her hücre kendi ATP'sini üretir ve tüketir."
+  },
+  {
+    "id": "yb_k_24",
+    "kaynak": "PDF",
+    "konu": "Yaşam Bilimi Biyoloji",
+    "seviye": "Kolay",
+    "soru": "İnsan kalın bağırsağında B ve K vitamini sentezleyen bakteriler bulunur.\nBuna göre;\nI. suda çözünebilme,\nII. fazlasının depolanabilmesi,\nIII. idrar ya da ter ile atılabilme,\nIV. yağda çözünebilme\nözellikleri B ve K vitamini ile eşleştirildiğinde aşağıdakilerden hangisi doğru olur?",
+    "gorsel": null,
+    "siklar": [
+      "B: I ve III / K: II ve IV",
+      "B: I ve II / K: III ve IV",
+      "B: II ve IV / K: I ve III",
+      "B: I ve IV / K: II ve III",
+      "B: I, II ve III / K: IV"
+    ],
+    "cevap": "B: I ve III / K: II ve IV",
+    "biyologNotu": "B vitamini suda çözünür ve fazlası idrar/terle atılır (I, III); K vitamini yağda çözünür ve fazlası karaciğerde depolanır (II, IV)."
+  },
+  {
+    "id": "yb_k_25",
+    "kaynak": "PDF",
+    "konu": "Yaşam Bilimi Biyoloji",
+    "seviye": "Kolay",
+    "soru": "Memeli bir canlının nişastalı besinler yemesinden sonra vücudunda gerçekleşen olaylar aşağıda verilmiştir.\nBuna göre hangisinin gerçekleşmesi hücrelerin ihtiyacı olan enerjinin açığa çıktığını gösterir?",
+    "gorsel": null,
+    "siklar": [
+      "Glikozit bağlarının kopartılması",
+      "Karbon dioksidin açığa çıkması",
+      "Glukozun oluşması",
+      "Maltozun oluşması",
+      "H₂O kullanılması"
+    ],
+    "cevap": "Karbon dioksidin açığa çıkması",
+    "biyologNotu": "Maltoz ve glukoz oluşumu sindirim (hidroliz) olaylarıdır ve ATP üretmez. Glukozun hücresel solunumla parçalanıp CO₂ açığa çıkarması ise enerji (ATP) üretildiğini kanıtlar."
+  },
+  {
+    "id": "yb_k_26",
+    "kaynak": "PDF",
+    "konu": "Yaşam Bilimi Biyoloji",
+    "seviye": "Kolay",
+    "soru": "Yönetici moleküllerin yapısında bulunan bazı maddelerle ilgili,\nI. Pürin grubu bazlar adenin ve guanin bazlarıdır.\nII. Timin, pirimidin bazı olup RNA'nın yapısında bulunur.\nIII. Yönetici moleküllerin yapılarındaki 5C'lu şeker riboz şekeridir.\nyargılarından hangileri yanlıştır?",
+    "gorsel": null,
+    "siklar": [
+      "Yalnız I",
+      "Yalnız III",
+      "I ve II",
+      "I ve III",
+      "II ve III"
+    ],
+    "cevap": "II ve III",
+    "biyologNotu": "Timin RNA'da değil DNA'da bulunur (II yanlış). Yönetici moleküllerden RNA'da riboz, DNA'da ise deoksiriboz şekeri bulunur (III yanlış)."
+  },
+  {
+    "id": "yb_k_27",
+    "kaynak": "PDF",
+    "konu": "Yaşam Bilimi Biyoloji",
+    "seviye": "Kolay",
+    "soru": "Kıvırcık saçlı olan insanlarda yıkanınca düzleşen saçlar kurudukça tekrar eski hâline döner. Anlatılan bu olayın sebebi aşağıdakilerden hangisi ile açıklanabilir?",
+    "gorsel": null,
+    "siklar": [
+      "Yıkama sırasında kullanılan sabun ve benzeri maddeler saçın yapısını değiştirmiştir.",
+      "Yıkama sırasında saçı oluşturan proteinler su ile parçalanmıştır.",
+      "Suyun sıvı olması saçların nemlenmesini ve yumuşamasını sağlamıştır.",
+      "Yıkama sırasında saçı oluşturan moleküller su alarak kalınlaşmıştır.",
+      "Saçı oluşturan proteinler suyla temas edince üç boyutlu yapısını kaybetmiş, kuruma sırasında su buharlaştıkça eski yapısını kazanmıştır."
+    ],
+    "cevap": "Saçı oluşturan proteinler suyla temas edince üç boyutlu yapısını kaybetmiş, kuruma sırasında su buharlaştıkça eski yapısını kazanmıştır.",
+    "biyologNotu": "Hafif etkenlerle üç boyutlu yapısı bozulan proteinlerin etken ortadan kalkınca tekrar eski haline dönmesine renatürasyon denir."
+  },
+  {
+    "id": "yb_k_28",
+    "kaynak": "PDF",
+    "konu": "Yaşam Bilimi Biyoloji",
+    "seviye": "Kolay",
+    "soru": "Aynı türe ait canlıların DNA'ları incelendiğinde;\nI. DNA'larında bulunan baz çeşitleri,\nII. DNA'ların içerdiği 5C'lu şeker çeşidi,\nIII. DNA uzunlukları ve şifreleri,\nIV. pürin bazlarının pirimidin bazlarına oranı\nbilgilerinden hangilerinin aynı olması beklenir?",
+    "gorsel": null,
+    "siklar": [
+      "I ve III",
+      "I ve IV",
+      "II ve III",
+      "I, II ve IV",
+      "I, III ve IV"
+    ],
+    "cevap": "I, II ve IV",
+    "biyologNotu": "Tek yumurta ikizleri hariç aynı tür bireylerin DNA şifreleri ve nükleotit dizilimleri farklıdır; ancak baz çeşitleri (A,T,G,S), şeker çeşidi (deoksiriboz) ve Pürin/Pirimidin oranı (=1) aynıdır."
+  },
+  {
+    "id": "yb_k_29",
+    "kaynak": "PDF",
+    "konu": "Yaşam Bilimi Biyoloji",
+    "seviye": "Kolay",
+    "soru": "Aşağıda verilen olaylardan hangisi tüm canlılarda ortak olarak gözlenmez?",
+    "gorsel": null,
+    "siklar": [
+      "RNA sentezi",
+      "Protein sentezi",
+      "Enzim sentezi",
+      "Glukoz sentezi",
+      "Defosforilasyon"
+    ],
+    "cevap": "Glukoz sentezi",
+    "biyologNotu": "İnorganik maddelerden glukoz sentezi (fotosentez/kemosentez) sadece ototrof canlılarda görülür; heterotroflar glukozu dışarıdan hazır alır."
+  },
+  {
+    "id": "yb_k_30",
+    "kaynak": "PDF",
+    "konu": "Yaşam Bilimi Biyoloji",
+    "seviye": "Kolay",
+    "soru": "Ayşe Hanım, fazla miktarda antibiyotik kullanarak kalın bağırsağında yaşayan B ve K vitamini üreten bakterilerin ölmesine sebep olmuştur.\nBu duruma bağlı olarak,\nI. kanın geç pıhtılaşması,\nII. sinirsel iletim ve zihinsel faaliyetin aksaması,\nIII. B ve K vitamini eksikliğinin D vitamini tarafından giderilmesi\nolaylarından hangilerinin gözlenmesi beklenir?",
+    "gorsel": null,
+    "siklar": [
+      "Yalnız I",
+      "Yalnız II",
+      "I ve II",
+      "I ve III",
+      "I, II ve III"
+    ],
+    "cevap": "I ve II",
+    "biyologNotu": "K vitamini kanın pıhtılaşmasında, B vitaminleri sinir sistemi ve enerji metabolizmasında görev alır; hiçbir vitamin bir başka vitaminin eksikliğini gideremez."
+  },
+  {
+    "id": "yb_k_31",
+    "kaynak": "PDF",
+    "konu": "Yaşam Bilimi Biyoloji",
+    "seviye": "Kolay",
+    "soru": "Kış uykusuna yatan, çölde yaşayan ve uzun göç yollarını kullanan hayvanların vücudunda bol miktarda yağ depo edilmesinin nedenleri arasında;\nI. Yağ asitlerinin solunumda kullanılması sonucu bol miktarda metabolik su açığa çıkar.\nII. Deri altında depolanarak ısı kaybı önlenir.\nIII. Solunumda kullanılması sonucu bol miktarda enerji açığa çıkar.\nözelliklerinden hangileri yer alır?",
+    "gorsel": null,
+    "siklar": [
+      "Yalnız I",
+      "Yalnız II",
+      "Yalnız III",
+      "I ve II",
+      "I, II ve III"
+    ],
+    "cevap": "I, II ve III",
+    "biyologNotu": "Yağlar hafif olmalarına rağmen yüksek enerji vermeleri, ısı yalıtımı sağlamaları ve parçalandıklarında bol metabolik su üretmeleri nedeniyle göçmen ve çöl hayvanları için idealdir."
+  },
+  {
+    "id": "yb_k_32",
+    "kaynak": "PDF",
+    "konu": "Yaşam Bilimi Biyoloji",
+    "seviye": "Kolay",
+    "soru": "Karbohidrat gruplarından K: 6 karbonlu monosakkarit, L: 5 karbonlu monosakkarit, M: Disakkarit olarak harflendirilmiştir.\nBuna göre K, L ve M molekülleri ile ilgili aşağıda verilenlerden hangisi yanlıştır?",
+    "gorsel": null,
+    "siklar": [
+      "M molekülü hidroliz edilirse yapı birimlerine ayrılır.",
+      "Üç molekül de bitki hücrelerinde sentezlenebilir.",
+      "L molekülü DNA veya RNA'nın yapısına katılır.",
+      "Üç molekülde de C, H, O elementleri bulunur.",
+      "L molekülü enerji verici olarak kullanılır."
+    ],
+    "cevap": "L molekülü enerji verici olarak kullanılır.",
+    "biyologNotu": "5 karbonlu monosakkaritler (riboz ve deoksiriboz) nükleik asitlerin ve ATP'nin yapısına katılır; hücresel solunumda enerji verici olarak kullanılmazlar."
+  },
+  {
+    "id": "yb_k_33",
+    "kaynak": "PDF",
+    "konu": "Yaşam Bilimi Biyoloji",
+    "seviye": "Kolay",
+    "soru": "Aşağıdakilerden hangisi canlıların tamamında gerçekleşen biyolojik olaylardan biri değildir?",
+    "gorsel": null,
+    "siklar": [
+      "Amino asitlerden protein üretilmesi",
+      "ATP molekülünden fosfat koparma",
+      "İnorganik maddelerden organik madde sentezlenmesi",
+      "Dehidrasyon sentezi yapma",
+      "Nükleotitlerden nükleik asitlerin sentezlenmesi"
+    ],
+    "cevap": "İnorganik maddelerden organik madde sentezlenmesi",
+    "biyologNotu": "İnorganik maddelerden organik besin sentezi (ototrof beslenme) sadece üretici canlılara özgüdür; insanlar ve mantarlar gibi tüketiciler bunu yapamaz."
+  },
+  {
+    "id": "yb_k_34",
+    "kaynak": "PDF",
+    "konu": "Yaşam Bilimi Biyoloji",
+    "seviye": "Kolay",
+    "soru": "Göl, nehir, deniz gibi ortamların etrafındaki yerleşim bölgelerinde ılıman iklim oluşumu ve mevsim geçişlerinin sert yaşanmaması suyun hangi özelliği ile ilgilidir?",
+    "gorsel": null,
+    "siklar": [
+      "Kohezyon kuvveti",
+      "Özgül ısı yüksekliği",
+      "Adhezyon kuvveti",
+      "Çözücü özelliği",
+      "Katısının sıvısında yüzmesi"
+    ],
+    "cevap": "Özgül ısı yüksekliği",
+    "biyologNotu": "Suyun özgül ısısı yüksek olduğu için geç ısınıp geç soğur; bu sayede su kütleleri çevresindeki iklimi yumuşatarak ani sıcaklık değişimlerini önler."
+  },
+  {
+    "id": "yb_k_35",
+    "kaynak": "PDF",
+    "konu": "Yaşam Bilimi Biyoloji",
+    "seviye": "Kolay",
+    "soru": "Yazın hava sıcaklıkları yükseldiğinde denizler çok ısı soğurmasına rağmen suyun sıcaklığı çok artış göstermez.\nBuna göre;\nI. su moleküllerinin birbirine zayıf H bağı ile bağlı olması,\nII. suyun gaz hâlden sıvı hâle geçmesi,\nIII. suyun özgül ısısının yüksek olması\nifadelerinden hangileri bu durumun nedenini açıklar?",
+    "gorsel": null,
+    "siklar": [
+      "Yalnız I",
+      "Yalnız II",
+      "Yalnız III",
+      "I ve III",
+      "II ve III"
+    ],
+    "cevap": "I ve III",
+    "biyologNotu": "Su molekülleri arasındaki zayıf hidrojen bağları verilen ısı enerjisinin bir kısmını soğurur; bu da suya yüksek özgül ısı kazandırarak sıcaklık artışını sınırlar."
+  },
+  {
+    "id": "yb_k_36",
+    "kaynak": "PDF",
+    "konu": "Yaşam Bilimi Biyoloji",
+    "seviye": "Kolay",
+    "soru": "\"Canlıların arasındaki protein benzerliğine bakılarak sınıflandırma yapılır.\" hipotezini ileri süren bir bilim insanı, proteinlerin;\nI. düzenleyici molekül olması,\nII. gen kontrolünde sentezlenmeleri,\nIII. hücre zarında bol miktarda bulunması\nözelliklerinden hangilerine dayandırarak hipotezini açıklayabilir?",
+    "gorsel": null,
+    "siklar": [
+      "Yalnız I",
+      "Yalnız II",
+      "Yalnız III",
+      "I ve II",
+      "II ve III"
+    ],
+    "cevap": "Yalnız II",
+    "biyologNotu": "Proteinler doğrudan DNA'daki gen şifrelerine göre sentezlendiği için iki canlının protein benzerliği doğrudan genetik akrabalık derecelerini gösterir."
+  },
+  {
+    "id": "yb_k_37",
+    "kaynak": "PDF",
+    "konu": "Yaşam Bilimi Biyoloji",
+    "seviye": "Kolay",
+    "soru": "Canlı vücudunda bulunan başlıca organik molekül grupları şunlardır: Proteinler, Lipitler, Karbohidratlar, Nükleik asitler, Vitaminler.\nBuna göre bu organik molekül grupları ile ilgili,\nI. Tümü C, H ve O bulundurur.\nII. Protein ve nükleik asitlerde azot atomu bulunur.\nIII. Lipitler suda çözünen moleküllerdir.\nIV. Tümü polimer yapı gösteren örnekler bulundurur.\nyargılarından hangileri söylenemez?",
+    "gorsel": null,
+    "siklar": [
+      "Yalnız I",
+      "I ve IV",
+      "II ve III",
+      "III ve IV",
+      "I, II ve III"
+    ],
+    "cevap": "III ve IV",
+    "biyologNotu": "Lipitler suda çözünmez (eter, alkol gibi organik çözücülerde çözünür). Ayrıca lipitler ve vitaminler polimer yapı göstermez."
+  },
+  {
+    "id": "yb_k_38",
+    "kaynak": "PDF",
+    "konu": "Yaşam Bilimi Biyoloji",
+    "seviye": "Kolay",
+    "soru": "Bazı eklem bacaklıların su üzerinde durması ve yürüyebilmesi, suyun hangi özelliğine kanıt gösterilebilir?",
+    "gorsel": null,
+    "siklar": [
+      "Molekülleri arasında hidrojen bağı olması",
+      "Özgül ısısının yüksek olması",
+      "Çözücü özelliğinin güçlü olması",
+      "+4 °C'de yoğunluğunun maksimum olması",
+      "Katı, sıvı ve gaz formda bulunması"
+    ],
+    "cevap": "Molekülleri arasında hidrojen bağı olması",
+    "biyologNotu": "Su molekülleri arasındaki hidrojen bağları kohezyon kuvvetini ve yüzey gerilimini oluşturur; bu gerilim hafif böceklerin su yüzeyinde batmadan yürümesini sağlar."
+  },
+  {
+    "id": "yb_k_39",
+    "kaynak": "PDF",
+    "konu": "Yaşam Bilimi Biyoloji",
+    "seviye": "Kolay",
+    "soru": "• X proteini → Metiyonin + Lösin + Valin\n• Y proteini → Metiyonin + Valin + Valin\n• Z proteini → Metiyonin + Lösin + Lösin\nYukarıda üç farklı proteinin amino asit dizilimleri verilmiştir. Buna göre,\nI. X, Y ve Z proteinlerinin sentezlendiği gen bölgeleri farklıdır.\nII. X, Y ve Z proteinleri aynı sayı ve aynı çeşit amino asitler içerir.\nIII. X, Y ve Z proteinlerindeki farklılık amino asit sayısından kaynaklanmaktadır.\nIV. X, Y ve Z farklı proteinler olmasına rağmen eşit sayıda peptit bağı içerir.\nifadelerinden hangileri doğrudur?",
+    "gorsel": null,
+    "siklar": [
+      "Yalnız I",
+      "I ve II",
+      "I ve III",
+      "I ve IV",
+      "I, II ve IV"
+    ],
+    "cevap": "I ve IV",
+    "biyologNotu": "Üç protein de 3'er amino asitten oluştuğu için (n-1 = 2) eşit sayıda peptit bağı içerir ve farklı genlerden sentezlenmiştir; ancak amino asit çeşitleri farklıdır."
+  },
+  {
+    "id": "yb_k_40",
+    "kaynak": "PDF",
+    "konu": "Yaşam Bilimi Biyoloji",
+    "seviye": "Kolay",
+    "soru": "HCl (a) + NaOH (b) → NaCl (c) + H₂O\nYukarıda verilen tepkime ile ilgili,\nI. a asit, b baz, c tuzdur.\nII. Nötralleşme tepkimesine örnektir.\nIII. Tepkime tamamlanınca ortamın pH'si değişmiştir.\nifadelerinden hangileri doğrudur?",
+    "gorsel": null,
+    "siklar": [
+      "Yalnız I",
+      "Yalnız II",
+      "Yalnız III",
+      "I ve II",
+      "I, II ve III"
+    ],
+    "cevap": "I, II ve III",
+    "biyologNotu": "Kuvvetli asit (HCl) ile kuvvetli bazın (NaOH) birleşerek tuz (NaCl) ve su oluşturması bir nötralleşme tepkimesidir ve ortamın pH değerini değiştirir."
+  },
+  {
+    "id": "yb_k_41",
+    "kaynak": "PDF",
+    "konu": "Yaşam Bilimi Biyoloji",
+    "seviye": "Kolay",
+    "soru": "I. Kendine özgü organik madde sentezleme\nII. İnorganik moleküllerden organik besin sentezleme\nIII. Laktik asit üretme\nIV. Organik besin monomerlerini inorganik besinlere parçalama\nYukarıda verilen metabolik olaylardan hangileri tüm canlılar tarafından gerçekleştirilir?",
+    "gorsel": null,
+    "siklar": [
+      "Yalnız I",
+      "I ve II",
+      "III ve IV",
+      "I, III ve IV",
+      "I, II, III ve IV"
+    ],
+    "cevap": "Yalnız I",
+    "biyologNotu": "Tüm canlılar kendi DNA şifrelerine göre protein sentezler (I). Ototrof beslenme (II), laktik asit fermantasyonu (III) ve oksijenli solunum (IV) tüm canlılarda ortak değildir."
+  },
+  {
+    "id": "yb_k_42",
+    "kaynak": "PDF",
+    "konu": "Yaşam Bilimi Biyoloji",
+    "seviye": "Kolay",
+    "soru": "DNA molekülü ile ilgili,\nI. Pürin bazları ile pirimidin bazları arasında zayıf H bağları vardır.\nII. Tek zincirinde bulunan nükleotitler birbirine fosfodiester bağı ile bağlıdır.\nIII. Prokaryotlarda nükleoit denilen bölgede, ökaryotlarda çekirdekte bulunur.\nyargılarından hangileri doğrudur?",
+    "gorsel": null,
+    "siklar": [
+      "Yalnız I",
+      "Yalnız II",
+      "Yalnız III",
+      "I ve II",
+      "I, II ve III"
+    ],
+    "cevap": "I, II ve III",
+    "biyologNotu": "DNA'nın iki zincirini karşılıklı bazlar arasındaki zayıf hidrojen bağları, aynı zincirdeki nükleotitleri ise fosfodiester bağları bir arada tutar."
+  },
+  {
+    "id": "yb_k_43",
+    "kaynak": "PDF",
+    "konu": "Yaşam Bilimi Biyoloji",
+    "seviye": "Kolay",
+    "soru": "Endüstriyel süreçlerle sentetik trans yağlar (margarinler) elde edilir. Trans yağlar;\nI. yağların karbohidratlarla birleştirilmesi,\nII. sıvı bitkisel yağların hidrojenle doyurularak katı hâle getirilmesi,\nIII. katı hayvansal yağların hidrojen koparılmasıyla sıvı hâle getirilmesi\nuygulamalarından hangileriyle üretilebilir?",
+    "gorsel": null,
+    "siklar": [
+      "Yalnız I",
+      "Yalnız II",
+      "Yalnız III",
+      "I ve II",
+      "I, II ve III"
+    ],
+    "cevap": "Yalnız II",
+    "biyologNotu": "Doymamış sıvı bitkisel yağların laboratuvar ortamında yüksek basınç altında hidrojenle doyurulması sonucu margarin (trans yağ) elde edilir."
+  },
+  {
+    "id": "yb_k_44",
+    "kaynak": "PDF",
+    "konu": "Yaşam Bilimi Biyoloji",
+    "seviye": "Kolay",
+    "soru": "Canlılığın devam etmesi için gerçekleşen yaşamsal olaylardan biri de boşaltımdır. Buna göre farklı canlılardaki boşaltım olaylarıyla ilgili,\nI. Bir hücreli canlılar atık maddeleri hücre yüzeyinden dışarı atar.\nII. Tatlı sularda yaşayan amip, öglena ve paramesyum gibi bir hücreliler fazla suyu kontraktil kofuluyla hücreden uzaklaştırır.\nIII. Bitkilerde gövdeden gelen fazla su, yaprak uçlarından damlama yolu ile atılabilir.\nifadelerinden hangileri doğrudur?",
+    "gorsel": null,
+    "siklar": [
+      "Yalnız I",
+      "Yalnız II",
+      "I ve II",
+      "I ve III",
+      "I, II ve III"
+    ],
+    "cevap": "I, II ve III",
+    "biyologNotu": "Kontraktil koful fazla suyu ATP harcayarak dışarı atar; bitkilerde ise nemin yüksek olduğu zamanlarda hidatotlardan damlama (gutasyon) ile fazla su ve tuz atılır."
+  },
+  {
+    "id": "yb_k_45",
+    "kaynak": "PDF",
+    "konu": "Yaşam Bilimi Biyoloji",
+    "seviye": "Kolay",
+    "soru": "D vitamininin eksikliği B vitamininin eksikliğine göre daha geç ortaya çıkar. Bu durum;\nI. D vitamininin provitamin olarak alınabilmesi,\nII. D vitamininin daha çok hayvansal kaynaklı olması,\nIII. D vitamininin fazlasının karaciğerde depolanması\nnedenlerinden hangileri ile açıklanabilir?",
+    "gorsel": null,
+    "siklar": [
+      "Yalnız I",
+      "Yalnız II",
+      "Yalnız III",
+      "I ve III",
+      "I, II ve III"
+    ],
+    "cevap": "Yalnız III",
+    "biyologNotu": "Eksikliğin geç ortaya çıkmasının temel sebebi D vitamininin yağda çözünmesi ve fazlasının karaciğerde depolanabilmesidir; B vitamini ise depolanmadığı için eksikliği hemen hissedilir."
+  },
+  {
+    "id": "yb_k_46",
+    "kaynak": "PDF",
+    "konu": "Yaşam Bilimi Biyoloji",
+    "seviye": "Kolay",
+    "soru": "Bir insanda;\nI. Katabolizma reaksiyonları düşüktür.\nII. Anabolizma reaksiyonları yüksektir.\nIII. Katabolizma ve anabolizma olayları birbirine denktir.\ndurumlarından hangileri birlikte düşünüldüğünde bireyin çocuk yaşta olduğu söylenebilir?",
+    "gorsel": null,
+    "siklar": [
+      "Yalnız I",
+      "Yalnız II",
+      "Yalnız III",
+      "I ve II",
+      "I, II ve III"
+    ],
+    "cevap": "I ve II",
+    "biyologNotu": "Büyüme çağındaki çocuklarda yapım (anabolizma) hızı yıkım (katabolizma) hızından büyüktür. Yetişkinlerde denge vardır, yaşlılarda ise yıkım öne geçer."
+  },
+  {
+    "id": "yb_k_47",
+    "kaynak": "PDF",
+    "konu": "Yaşam Bilimi Biyoloji",
+    "seviye": "Kolay",
+    "soru": "Mineraller canlıların yaşaması için gerekli inorganik maddelerdir. Buna göre minerallerle ilgili,\nI. Ototrof canlılar mineralleri dışarıdan hazır almak zorunda değildir.\nII. Hayvanlar bol su içerek mineral ihtiyacının tamamını karşılayabilir.\nIII. Heterotrof canlıların ihtiyaç duyduğu mineral miktarı, dışarıdan almak zorunda olduğu besin miktarından fazladır.\nyargılarından hangileri söylenemez?",
+    "gorsel": null,
+    "siklar": [
+      "Yalnız I",
+      "Yalnız II",
+      "I ve II",
+      "I ve III",
+      "I, II ve III"
+    ],
+    "cevap": "I, II ve III",
+    "biyologNotu": "Hiçbir canlı mineral sentezleyemez; ototrof da olsa heterotrof da olsa tüm canlılar mineralleri doğadan hazır almak zorundadır."
+  },
+  {
+    "id": "yb_k_48",
+    "kaynak": "PDF",
+    "konu": "Yaşam Bilimi Biyoloji",
+    "seviye": "Kolay",
+    "soru": "Vücuttaki yağ oranının artmasına şişmanlık, tıptaki adıyla obezite denir. Obezite vücutta sağlığı tehlikeye sokacak ölçüde fazla miktarda yağ birikmesi sonucu ortaya çıkan bir hastalıktır. Obezite, genetik ve çevresel etkilere bağlı olarak meydana gelir ve hayatı tehdit eden sonuçlar doğurur.\nBuna göre obezite ile ilgili,\nI. Hareketin çok az olduğu yaşam tarzı obeziteyi hızlandırır.\nII. Obezite ile ülkelerin gelişmişliği arasında ters orantı vardır.\nIII. Obezite ile mücadele etmek için hazır gıdalardan uzak durulmalıdır.\nyargılarından hangileri söylenemez?",
     "gorsel": null,
     "siklar": [
       "Yalnız I",
@@ -77,45 +813,116 @@
       "I, II ve III"
     ],
     "cevap": "Yalnız II",
-    "biyologNotu": "Vejetatif üreme bitkilerde görülen eşeysiz üreme şeklidir. Eşeysiz üreme mitoz temellidir; döllenme, gamet oluşumu ve kalıtsal çeşitlilik görülmez."
+    "biyologNotu": "Hareketsiz yaşam ve fast-food (hazır gıda) tüketimi obeziteyi tetikler; gelişmişlik düzeyi arttıkça hareketsizlik ve işlenmiş gıda tüketimi arttığından obezite oranları da yükselmektedir."
   },
   {
-    "id": "hb_06",
+    "id": "yb_k_49",
     "kaynak": "PDF",
-    "konu": "Hücre Bölünmeleri",
-    "soru": "Aşağıdakilerden hangisinin gerçekleşmesi sırasında homolog kromozom ayrılması olur?",
+    "konu": "Yaşam Bilimi Biyoloji",
+    "seviye": "Kolay",
+    "soru": "I. Enzim   II. Hormon   III. DNA   IV. İnterferon   V. Hemoglobin\nYukarıda verilenlerden hangisinin yapısında amino aside rastlanmaz?",
     "gorsel": null,
     "siklar": [
-      "Bakterinin çoğalması",
-      "Boyun uzaması",
-      "Bitkide polen oluşumu",
-      "Vejetatif üreme",
-      "Vücuttaki yaraların iyileşmesi"
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
     ],
-    "cevap": "Bitkide polen oluşumu",
-    "biyologNotu": "Homolog kromozom ayrılması mayoz bölünmenin Anafaz I evresine özgüdür. Bitkide polen oluşumu sırasında mikrospor ana hücresi mayoz geçirir; diğer seçenekler mitoz veya amitoz temellidir."
+    "cevap": "III",
+    "biyologNotu": "DNA nükleotitlerden oluşan bir nükleik asittir, yapısında amino asit bulunmaz. Enzim, interferon, hemoglobin ve birçok hormon protein yapılıdır."
   },
   {
-    "id": "hb_07",
+    "id": "yb_k_50",
     "kaynak": "PDF",
-    "konu": "Hücre Bölünmeleri",
-    "soru": "Aşağıdakilerden hangisi canlılar aleminde çeşitlilik sağlayan olaylardan değildir?",
+    "konu": "Yaşam Bilimi Biyoloji",
+    "seviye": "Kolay",
+    "soru": "Canlıların bulundukları çevrede yaşamasını sağlayan kalıtsal, yapısal veya davranışsal değişikliklere \"adaptasyon\" denir.\nBuna göre;\nI. kutup bölgelerinde yaşayan hayvanların kalın bir yağ tabakasına sahip olması,\nII. yunusun memeli bir canlı olmasına rağmen balık şeklinde olması,\nIII. sürüngenlerin boşaltım atığı olarak ürik asit atması\ndurumlarından hangileri adaptasyona örnektir?",
     "gorsel": null,
     "siklar": [
-      "Konjugasyon",
-      "Transdüksiyon",
-      "Döllenme",
-      "Mutasyon",
-      "Sinaps"
+      "Yalnız I",
+      "Yalnız III",
+      "I ve II",
+      "II ve III",
+      "I, II ve III"
     ],
-    "cevap": "Sinaps",
-    "biyologNotu": "Konjugasyon, transdüksiyon, döllenme ve mutasyon genetik çeşitlilik sağlar. Sinaps sinir hücreleri arasındaki bağlantı bölgesidir (mayozdaki sinapsis bile tek başına değil, krossing over gerçekleşirse çeşitlilik sağlar)."
+    "cevap": "I, II ve III",
+    "biyologNotu": "Üç özellik de canlının yaşadığı ortama uyum sağlamasını ve hayatta kalma/üreme şansını artıran kalıtsal adaptasyonlardır."
   },
   {
-    "id": "hb_08",
+    "id": "yb_k_51",
     "kaynak": "PDF",
-    "konu": "Hücre Bölünmeleri",
-    "soru": "Çok hücrelilerde mitoz bölünme,\nI. Üreme\nII. Büyüme\nIII. Onarım\nolaylarından hangilerini sağlar?",
+    "konu": "Yaşam Bilimi Biyoloji",
+    "seviye": "Kolay",
+    "soru": "Aşağıda bazı mineraller ve eksikliklerinde görülen rahatsızlıklar karışık olarak verilmiştir:\nI. Guatr — a. Demir\nII. Kemik erimesi — b. Kalsiyum\nIII. Kansızlık — c. İyot\nIV. Dişlerde çürüme — d. Flor\nBu mineraller ve eksikliklerinde görülen rahatsızlıklar aşağıdakilerin hangisinde doğru eşleştirilmiştir?",
+    "gorsel": null,
+    "siklar": [
+      "I → a, II → b, III → c, IV → d",
+      "I → a, II → c, III → d, IV → b",
+      "I → c, II → b, III → a, IV → d",
+      "I → b, II → a, III → c, IV → d",
+      "I → a, II → c, III → b, IV → d"
+    ],
+    "cevap": "I → c, II → b, III → a, IV → d",
+    "biyologNotu": "İyot eksikliği tiroit bezinin büyümesine (guatr), kalsiyum kemik erimesine, demir kansızlığa (anemi), flor ise diş çürümelerine yol açar."
+  },
+  {
+    "id": "yb_k_52",
+    "kaynak": "PDF",
+    "konu": "Yaşam Bilimi Biyoloji",
+    "seviye": "Kolay",
+    "soru": "Homeostazi, kararlı iç denge demektir. Canlıların yaşamlarını devam ettirebilmeleri için iç dengelerini sağlamaları ve bunu korumaları gerekir.\nBuna göre insanda;\nI. kanın pH derecesinin 7,4'te tutulması,\nII. vücut atıklarının boşaltım yoluyla uzaklaştırılması,\nIII. vücut sıcaklığının 36,5 °C'ye yakın tutulması\ndurumlarından hangileri homeostazi için gereklidir?",
+    "gorsel": null,
+    "siklar": [
+      "Yalnız I",
+      "Yalnız III",
+      "I ve II",
+      "II ve III",
+      "I, II ve III"
+    ],
+    "cevap": "I, II ve III",
+    "biyologNotu": "Kan pH'sinin korunması, zararlı atıkların uzaklaştırılması ve vücut sıcaklığının sabit tutulması kararlı iç dengenin (homeostazi) temel şartlarıdır."
+  },
+  {
+    "id": "yb_k_53",
+    "kaynak": "PDF",
+    "konu": "Yaşam Bilimi Biyoloji",
+    "seviye": "Kolay",
+    "soru": "A + B —(ATP)→ C + H₂O\nYukarıda verilen tepkime ile ilgili,\nI. Dehidrasyon tepkimesidir.\nII. Endergoniktir.\nIII. A ile B arasındaki bağ çeşidi C'nin karbohidrat veya protein olduğunun bilinmesinde etkilidir.\nyorumlarından hangileri doğru olabilir?",
+    "gorsel": null,
+    "siklar": [
+      "Yalnız I",
+      "Yalnız II",
+      "Yalnız III",
+      "I ve II",
+      "I, II ve III"
+    ],
+    "cevap": "I, II ve III",
+    "biyologNotu": "Küçük moleküllerin ATP harcanarak (endergonik) birleşip su açığa çıkarması dehidrasyondur. Glikozit bağı karbohidratı, peptit bağı ise proteini işaret eder."
+  },
+  {
+    "id": "yb_k_54",
+    "kaynak": "PDF",
+    "konu": "Yaşam Bilimi Biyoloji",
+    "seviye": "Kolay",
+    "soru": "I. Işık enerjisini kullanarak organik besin sentezleme\nII. Organik moleküllerin inorganik maddelere kadar parçalanması\nIII. DNA'daki şifreye göre organik madde sentezleme\nIV. Proteinlerden amino asit elde etme\nYukarıdaki anabolik ve katabolik olaylar eşleştirildiğinde aşağıdakilerden hangisi doğru olur?",
+    "gorsel": null,
+    "siklar": [
+      "Anabolizma: I ve III / Katabolizma: II ve IV",
+      "Anabolizma: Yalnız I / Katabolizma: II, III ve IV",
+      "Anabolizma: Yalnız III / Katabolizma: I, II ve IV",
+      "Anabolizma: II ve III / Katabolizma: I ve IV",
+      "Anabolizma: I ve II / Katabolizma: III ve IV"
+    ],
+    "cevap": "Anabolizma: I ve III / Katabolizma: II ve IV",
+    "biyologNotu": "Fotosentez (I) ve protein sentezi (III) yapım (anabolizma); hücresel solunum (II) ve hidroliz/sindirim (IV) yıkım (katabolizma) olaylarıdır."
+  },
+  {
+    "id": "yb_k_55",
+    "kaynak": "PDF",
+    "konu": "Yaşam Bilimi Biyoloji",
+    "seviye": "Kolay",
+    "soru": "Canlının hayatını devam ettirebilmesi için;\nI. homeostasi,\nII. üreme,\nIII. boşaltım\nolaylarından hangilerini gerçekleştirmesi zorunludur?",
     "gorsel": null,
     "siklar": [
       "Yalnız I",
@@ -124,103 +931,7 @@
       "I ve III",
       "I, II ve III"
     ],
-    "cevap": "I, II ve III",
-    "biyologNotu": "Çok hücreli canlılarda mitoz; zigottan itibaren büyümeyi, yaraların onarımını ve bazı çok hücrelilerde (örneğin bitkilerde vejetatif üreme, hidrada tomurcuklanma) eşeysiz üremeyi sağlar."
-  },
-  {
-    "id": "hb_09",
-    "kaynak": "PDF",
-    "konu": "Hücre Bölünmeleri",
-    "soru": "2n=36 kromozomlu bir hücre art arda dört mitoz geçirdiğinde oluşacak hücre sayısı ve o hücrelerin kromozom sayıları hangisinde doğru verilmiştir?",
-    "gorsel": null,
-    "siklar": [
-      "8, 2n=18",
-      "8, n=18",
-      "16, 2n=36",
-      "16, n=18",
-      "16, 2n=72"
-    ],
-    "cevap": "16, 2n=36",
-    "biyologNotu": "Mitoz sonucu oluşan hücre sayısı $2^n$ formülüyle bulunur ($2^4 = 16$ hücre). Mitoz bölünmede kromozom sayısı sabit kaldığı için her hücre yine 2n=36 kromozomlu olur."
-  },
-  {
-    "id": "hb_10",
-    "kaynak": "PDF",
-    "konu": "Hücre Bölünmeleri",
-    "soru": "Hücre döngüsünün en uzun aşaması hangisidir?",
-    "gorsel": null,
-    "siklar": [
-      "Profaz",
-      "İnterfaz",
-      "Metafaz",
-      "Anafaz",
-      "Telofaz"
-    ],
-    "cevap": "İnterfaz",
-    "biyologNotu": "Hücre döngüsünün yaklaşık %90'ını hazırlık evresi olan İnterfaz (G1, S, G2) oluşturur. Kalan %10'luk kısım ise mitotik evredir."
-  },
-  {
-    "id": "hb_11",
-    "kaynak": "PDF",
-    "konu": "Hücre Bölünmeleri",
-    "soru": "Bir bitki hücresinde,\nI. İğ ipliklerinin oluşum şekli\nII. Sitoplazmanın bölünmesi\nIII. DNA eşlenmesi\nverilenlerden hangileri hayvan hücresinden farklı gerçekleşir?",
-    "gorsel": null,
-    "siklar": [
-      "Yalnız I",
-      "Yalnız III",
-      "I ve II",
-      "I ve III",
-      "I, II ve III"
-    ],
-    "cevap": "I ve II",
-    "biyologNotu": "Bitki hücrelerinde sentrozom olmadığı için iğ iplikleri sitoplazmadaki mikrotübül organize edici bölgeden oluşur ve sitokinez ara lamel (orta plak) ile gerçekleşir. DNA eşlenmesi ise tüm ökaryotlarda aynı şekilde gerçekleşir."
-  },
-  {
-    "id": "hb_12",
-    "kaynak": "PDF",
-    "konu": "Hücre Bölünmeleri",
-    "soru": "Mitoz bölünmede, oluşan hücrelerin birbirinin aynı olmasının sebebi nedir?",
-    "gorsel": null,
-    "siklar": [
-      "İnterfazda DNA eşlenmesi",
-      "Profazda çekirdek zarının erimesi",
-      "Anafazda kardeş kromatit ayrılması",
-      "Telofazda çift çekirdek oluşması",
-      "Metafazda kromozomların iğ ipliklerinin bağlanması"
-    ],
-    "cevap": "Anafazda kardeş kromatit ayrılması",
-    "biyologNotu": "İnterfazda eşlenen DNA'nın oluşturduğu birebir kopya kardeş kromatitlerin, anafaz evresinde zıt kutuplara eşit olarak ayrılması oluşan iki hücrenin genetik yapısının aynı olmasını sağlar."
-  },
-  {
-    "id": "hb_13",
-    "kaynak": "PDF",
-    "konu": "Hücre Bölünmeleri",
-    "soru": "Aşağıdakilerden hangisinde üreme mitoz ile ikiye bölünme şeklinde görülür?",
-    "gorsel": null,
-    "siklar": [
-      "Bakteri",
-      "Amip",
-      "Hidra",
-      "Deniz yıldızı",
-      "Kara yosunu"
-    ],
-    "cevap": "Amip",
-    "biyologNotu": "Dikkat tuzak soru! Bakteri de ikiye bölünür ama prokaryot olduğu için bölünmesi mitoz değildir. Ökaryot tek hücreli olan amipin ikiye bölünmesi ise mitoz temellidir."
-  },
-  {
-    "id": "hb_14",
-    "kaynak": "PDF",
-    "konu": "Hücre Bölünmeleri",
-    "soru": "Yumurta hücresindeki otozom sayısı 20 olan bir canlının vücut hücresinde profazdaki kromatit sayısı aşağıdakilerden hangisinde doğru verilmiştir?",
-    "gorsel": null,
-    "siklar": [
-      "20",
-      "21",
-      "40",
-      "42",
-      "84"
-    ],
-    "cevap": "84",
-    "biyologNotu": "Yumurta hücresi (n) 1 gonozom taşır; 20 otozom varsa n = 21'dir. Vücut hücresi 2n = 42 kromozomludur. İnterfazda DNA eşlendiği için profazda her kromozom 2 kromatitten oluşur: 42 x 2 = 84 kromatit bulunur."
+    "cevap": "I ve III",
+    "biyologNotu": "Üreme bireyin kendi yaşamı için değil, neslinin devamı için zorunludur. Homeostasi ve boşaltım ise bireysel yaşamın devamı için şarttır."
   }
 ]
