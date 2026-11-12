@@ -34,16 +34,13 @@
                     </p>
                 </div>
                 <div class="flex items-center gap-1.5">
-                    <!-- Sürpriz Not Butonu -->
                     <button onclick="toggleNoteModal()" title="Sürpriz Not 💌" class="w-9 h-9 rounded-xl text-base flex items-center justify-center bg-black/20 hover:bg-black/45 transition shadow-sm border border-white/20 relative">
                         💌
                         <span id="noteDot" class="absolute -top-1 -right-1 w-3 h-3 bg-rose-500 rounded-full border-2 border-white"></span>
                     </button>
-                    <!-- Analiz Butonu -->
                     <button onclick="toggleStatsModal()" title="Performans Analizi" class="w-9 h-9 rounded-xl text-base flex items-center justify-center bg-black/20 hover:bg-black/45 transition shadow-sm border border-white/20">
                         📊
                     </button>
-                    <!-- Doğru Sayısı -->
                     <div id="scoreBox" class="text-right px-3 py-1.5 rounded-xl backdrop-blur-sm border">
                         <div id="scoreLabel" class="text-[10px] font-medium uppercase tracking-wider">Doğru</div>
                         <div class="text-xl font-bold font-mono text-center" id="scoreDisplay">0</div>
@@ -64,27 +61,36 @@
         </div>
 
         <!-- Ünite / Konu Filtre Çubuğu -->
-        <div id="topicBar" class="flex items-center gap-2 px-4 py-2.5 overflow-x-auto no-scrollbar border-b text-xs sm:text-sm font-semibold">
-            <!-- Dinamik olarak üniteler buraya gelecek -->
-        </div>
+        <div id="topicBar" class="flex items-center gap-2 px-4 py-2.5 overflow-x-auto no-scrollbar border-b text-xs sm:text-sm font-semibold"></div>
+
+        <!-- Zorluk Seviyesi Filtre Çubuğu -->
+        <div id="difficultyBar" class="flex items-center justify-between gap-1.5 px-4 py-2 border-b text-xs font-semibold"></div>
 
         <!-- Soru Alanı -->
         <div id="contentBox" class="p-5 sm:p-6 flex-1 flex flex-col relative">
             
-            <!-- Üst Bilgi Rozetleri (Konu & Kaynak) -->
-            <div class="flex justify-between items-center mb-4 gap-2">
+            <!-- Üst Bilgi Rozetleri -->
+            <div class="flex flex-wrap justify-between items-center mb-4 gap-2">
                 <span id="categoryBadge" class="text-[11px] font-bold px-3 py-1 rounded-full uppercase tracking-wider shadow-sm">
                     Konu
                 </span>
-                <span id="sourceBadge" class="text-[11px] font-medium px-2.5 py-1 rounded-lg opacity-80 border">
-                    Kaynak
-                </span>
+                <div class="flex items-center gap-1.5">
+                    <span id="levelBadge" class="text-[11px] font-semibold px-2.5 py-1 rounded-lg border">
+                        Seviye
+                    </span>
+                    <span id="sourceBadge" class="text-[11px] font-medium px-2.5 py-1 rounded-lg opacity-80 border">
+                        Kaynak
+                    </span>
+                </div>
             </div>
 
-            <!-- Şekilli Soru Görsel Alanı -->
-            <div id="imageWrapper" class="hidden mb-4 rounded-2xl overflow-hidden border bg-white/5 flex flex-col items-center justify-center p-2">
-                <img id="questionImage" src="" alt="Soru Şekli" class="max-h-56 w-auto object-contain rounded-xl cursor-pointer" onclick="window.open(this.src, '_blank')" title="Büyütmek için tıkla">
+            <!-- Şekilli Soru Görsel Alanı (Tema Uyumlu) -->
+            <div id="imageWrapper" class="hidden mb-4 rounded-2xl overflow-hidden border flex flex-col items-center justify-center p-3 relative">
+                <img id="questionImage" src="" alt="Soru Şekli" class="max-h-60 w-auto object-contain rounded-xl cursor-pointer transition-all duration-300" onclick="window.open(this.src, '_blank')" title="Büyütmek için tıkla">
                 <span id="imageFallbackText" class="hidden text-xs py-6 px-4 text-center opacity-70"></span>
+                <button id="imgModeToggle" onclick="toggleImageInvert()" class="mt-2 self-end text-[10px] px-2.5 py-1 rounded-lg border opacity-70 hover:opacity-100 transition">
+                    🖼️ Orijinal Renk
+                </button>
             </div>
 
             <!-- Soru Metni -->
@@ -92,7 +98,7 @@
                 <p id="questionText" class="text-base sm:text-lg font-semibold leading-relaxed whitespace-pre-line"></p>
             </div>
 
-            <!-- 5 Şıklı YKS Seçenekleri (A-B-C-D-E) -->
+            <!-- 5 Şıklı YKS Seçenekleri -->
             <div id="optionsContainer" class="grid grid-cols-1 gap-2.5 mb-4"></div>
 
             <!-- Çözüm ve Biyolog Notu Alanı -->
@@ -140,37 +146,17 @@
     </div>
 
     <script>
-        // data/sorular.json henüz yüklenmediyse veya lokalde açıldıysa devreye girecek yedek havuz
         const DEFAULT_QUESTIONS = [
             {
                 id: "ornek_01",
                 kaynak: "AI",
                 konu: "Hücre Bölünmeleri",
+                seviye: "Orta",
                 soru: "İnterfaz evresinde gerçekleşen;\nI. DNA'nın kendini eşlemesi\nII. ATP sentezinin hızlanması\nIII. Sentrozom eşlenmesi\nolaylarından hangileri olgun bir sinir hücresinde kesinlikle gerçekleşmez?",
                 gorsel: null,
                 siklar: ["Yalnız I", "Yalnız II", "I ve III", "II ve III", "I, II ve III"],
                 cevap: "I ve III",
                 biyologNotu: "Olgun sinir hücreleri G0 evresinde kalır, bölünmezler. Bu yüzden DNA ve sentrozom eşlemesi (I ve III) yapmazlar ama yaşamsal faaliyetleri için ATP sentezlemeye devam ederler."
-            },
-            {
-                id: "ornek_02",
-                kaynak: "PDF",
-                konu: "Hücre Bölünmeleri",
-                soru: "2n = 4 kromozomlu bir hayvan hücresinin mitoz bölünmesine ait metafaz evresi aşağıdakilerden hangisinde doğru verilmiştir? (Görsel testi için img/ klasörüne dosya eklendiğinde burada görünür)",
-                gorsel: "img/ornek_metafaz.png",
-                siklar: ["A Şekli", "B Şekli", "C Şekli", "D Şekli", "E Şekli"],
-                cevap: "C Şekli",
-                biyologNotu: "Metafazda kromozomlar ekvatoral düzlemde tek sıra halinde dizilir. Mayoz I metafazında ise çift sıra (tetrat) halinde dizildiğini unutma!"
-            },
-            {
-                id: "ornek_03",
-                kaynak: "AI",
-                konu: "Hücre Organelleri",
-                soru: "Aşağıdaki organellerden hangisinin faaliyeti sırasında hücrenin osmotik basıncı artar?",
-                gorsel: null,
-                siklar: ["Ribozom", "Lizozom", "Golgi aygıtı", "Kontraktil koful", "Kloroplast"],
-                cevap: "Lizozom",
-                biyologNotu: "Lizozom hücre içi sindirim (hidroliz) yapar. Hidrolizde su harcandığı için hücredeki su azalır ve osmotik basınç (su alma isteği) artar."
             }
         ];
 
@@ -196,8 +182,10 @@
         let allQuestions = [];
         let filteredQuestions = [];
         let currentTopic = 'Tümü';
+        let currentDifficulty = 'Tümü';
         let currentQuestion = null;
         let isAnswered = false;
+        let invertImageEnabled = true;
 
         let currentScore = memory.get('gulse_bio_score', 0);
         let currentTheme = memory.get('gulse_bio_theme', 'yesil');
@@ -293,6 +281,49 @@
             }
         };
 
+        function toggleImageInvert() {
+            invertImageEnabled = !invertImageEnabled;
+            applyImageThemeStyle();
+        }
+
+        function applyImageThemeStyle() {
+            let t = themes[currentTheme] || themes.yesil;
+            const imgWrap = document.getElementById('imageWrapper');
+            const imgEl = document.getElementById('questionImage');
+            const toggleBtn = document.getElementById('imgModeToggle');
+            if (!imgEl || !imgWrap) return;
+
+            imgWrap.style.borderColor = t.btnBorder;
+            if (toggleBtn) {
+                toggleBtn.style.borderColor = t.btnBorder;
+                toggleBtn.style.color = t.textMain;
+            }
+
+            const isDark = ['yesil', 'bordo', 'mor'].includes(currentTheme);
+
+            if (!invertImageEnabled) {
+                imgEl.style.filter = 'none';
+                imgEl.style.mixBlendMode = 'normal';
+                imgEl.style.backgroundColor = '#ffffff';
+                imgEl.style.padding = '8px';
+                if (toggleBtn) toggleBtn.innerText = '🌓 Tema Uyumuna Geç';
+                return;
+            }
+
+            imgEl.style.backgroundColor = 'transparent';
+            imgEl.style.padding = '0';
+
+            if (isDark) {
+                imgEl.style.filter = 'contrast(1.15) brightness(1.05) invert(1) hue-rotate(180deg)';
+                imgEl.style.mixBlendMode = 'screen';
+            } else {
+                imgEl.style.filter = 'contrast(1.08)';
+                imgEl.style.mixBlendMode = 'multiply';
+            }
+
+            if (toggleBtn) toggleBtn.innerText = '🖼️ Orijinal Renk';
+        }
+
         function setTheme(themeKey) {
             currentTheme = themeKey;
             memory.save('gulse_bio_theme', themeKey);
@@ -322,18 +353,22 @@
             document.getElementById('scoreLabel').style.color = t.scoreText;
             document.getElementById('scoreDisplay').style.color = t.headerText;
 
-            let topicBar = document.getElementById('topicBar');
-            topicBar.style.backgroundColor = t.menuBg;
-            topicBar.style.borderColor = t.btnBorder;
+            ['topicBar', 'difficultyBar'].forEach(id => {
+                let bar = document.getElementById(id);
+                bar.style.backgroundColor = t.menuBg;
+                bar.style.borderColor = t.btnBorder;
+            });
 
             let badge = document.getElementById('categoryBadge');
             badge.style.backgroundColor = t.badgeBg;
             badge.style.color = t.badgeText;
             badge.style.border = `1px solid ${t.badgeBorder}`;
 
-            let sourceBadge = document.getElementById('sourceBadge');
-            sourceBadge.style.borderColor = t.btnBorder;
-            sourceBadge.style.color = t.textMain;
+            ['sourceBadge', 'levelBadge'].forEach(id => {
+                let el = document.getElementById(id);
+                el.style.borderColor = t.btnBorder;
+                el.style.color = t.textMain;
+            });
 
             document.getElementById('questionText').style.color = t.textMain;
 
@@ -348,7 +383,9 @@
                 el.style.color = t.textMain;
             });
 
+            applyImageThemeStyle();
             renderTopicTabs();
+            renderDifficultyTabs();
         }
 
         function renderTopicTabs() {
@@ -362,13 +399,8 @@
                 const isActive = (topic === currentTopic);
                 btn.className = 'px-3 py-1.5 rounded-xl whitespace-nowrap transition-all';
                 btn.innerText = topic;
-                if (isActive) {
-                    btn.style.backgroundColor = t.headerBg;
-                    btn.style.color = '#ffffff';
-                } else {
-                    btn.style.backgroundColor = 'transparent';
-                    btn.style.color = t.tabInactive;
-                }
+                btn.style.backgroundColor = isActive ? t.headerBg : 'transparent';
+                btn.style.color = isActive ? '#ffffff' : t.tabInactive;
                 btn.onclick = () => {
                     currentTopic = topic;
                     filterQuestions();
@@ -379,27 +411,51 @@
             });
         }
 
+        function renderDifficultyTabs() {
+            let t = themes[currentTheme] || themes.yesil;
+            const bar = document.getElementById('difficultyBar');
+            const levels = [
+                { key: 'Tümü', label: 'Tümü' },
+                { key: 'Kolay', label: '🟢 Kolay' },
+                { key: 'Orta', label: '🟡 Orta' },
+                { key: 'Zor', label: '🔴 Zor' }
+            ];
+            bar.innerHTML = '';
+
+            levels.forEach(lvl => {
+                const btn = document.createElement('button');
+                const isActive = (lvl.key === currentDifficulty);
+                btn.className = 'flex-1 py-1.5 rounded-xl transition-all text-center';
+                btn.innerText = lvl.label;
+                btn.style.backgroundColor = isActive ? t.badgeBg : 'transparent';
+                btn.style.color = isActive ? t.badgeText : t.tabInactive;
+                btn.style.border = isActive ? `1px solid ${t.badgeBorder}` : '1px solid transparent';
+                btn.onclick = () => {
+                    currentDifficulty = lvl.key;
+                    filterQuestions();
+                    renderDifficultyTabs();
+                    loadNextQuestion();
+                };
+                bar.appendChild(btn);
+            });
+        }
+
         function filterQuestions() {
-            if (currentTopic === 'Tümü') {
-                filteredQuestions = [...allQuestions];
-            } else {
-                filteredQuestions = allQuestions.filter(q => q.konu === currentTopic);
-            }
+            filteredQuestions = allQuestions.filter(q => {
+                const topicMatch = (currentTopic === 'Tümü' || q.konu === currentTopic);
+                const qLevel = q.seviye || 'Orta';
+                const diffMatch = (currentDifficulty === 'Tümü' || qLevel === currentDifficulty);
+                return topicMatch && diffMatch;
+            });
         }
 
         async function loadQuestionBank() {
             try {
-                // GitHub'daki data/sorular.json dosyasını çekmeyi dener
                 const response = await fetch('data/sorular.json');
                 if (!response.ok) throw new Error('JSON bulunamadı');
                 const data = await response.json();
-                if (Array.isArray(data) && data.length > 0) {
-                    allQuestions = data;
-                } else {
-                    allQuestions = DEFAULT_QUESTIONS;
-                }
+                allQuestions = (Array.isArray(data) && data.length > 0) ? data : DEFAULT_QUESTIONS;
             } catch (err) {
-                // Dosya henüz yüklenmediyse gömülü örnek havuzu kullanır
                 allQuestions = DEFAULT_QUESTIONS;
             }
             filterQuestions();
@@ -410,38 +466,53 @@
 
         function loadNextQuestion() {
             isAnswered = false;
+            invertImageEnabled = true;
             document.getElementById('feedbackArea').classList.add('hidden');
             document.getElementById('nextBtn').classList.add('hidden');
 
-            if (filteredQuestions.length === 0) return;
+            if (filteredQuestions.length === 0) {
+                currentQuestion = null;
+                document.getElementById('categoryBadge').innerText = currentTopic;
+                document.getElementById('levelBadge').innerText = currentDifficulty;
+                document.getElementById('sourceBadge').innerText = '-';
+                document.getElementById('imageWrapper').classList.add('hidden');
+                document.getElementById('optionsContainer').innerHTML = '';
+                document.getElementById('questionText').innerText = `"${currentTopic}" konusunda "${currentDifficulty}" seviyesinde henüz soru eklenmedi.`;
+                return;
+            }
 
-            // Önceliği daha önce doğru çözülmemiş sorulara ver
             let unsolved = filteredQuestions.filter(q => !solvedIds.includes(q.id));
             let pool = unsolved.length > 0 ? unsolved : filteredQuestions;
             
-            // Aynı sorunun üst üste gelmesini engelle
             if (pool.length > 1 && currentQuestion) {
                 pool = pool.filter(q => q.id !== currentQuestion.id);
             }
 
             currentQuestion = pool[Math.floor(Math.random() * pool.length)];
 
+            const qLevel = currentQuestion.seviye || 'Orta';
+            const levelIcon = qLevel === 'Kolay' ? '🟢' : (qLevel === 'Zor' ? '🔴' : '🟡');
+
             document.getElementById('categoryBadge').innerText = currentQuestion.konu;
-            document.getElementById('sourceBadge').innerText = currentQuestion.kaynak === 'PDF' ? '📖 Kitap PDF' : '🤖 AI Sorusu';
+            document.getElementById('levelBadge').innerText = `${levelIcon} ${qLevel}`;
+            document.getElementById('sourceBadge').innerText = currentQuestion.kaynak === 'PDF' ? '📖 PDF' : '🤖 AI';
             document.getElementById('questionText').innerText = currentQuestion.soru;
 
-            // Görsel kontrolü
             const imgWrap = document.getElementById('imageWrapper');
             const imgEl = document.getElementById('questionImage');
             const imgFallback = document.getElementById('imageFallbackText');
+            const toggleBtn = document.getElementById('imgModeToggle');
 
             if (currentQuestion.gorsel) {
                 imgWrap.classList.remove('hidden');
                 imgEl.classList.remove('hidden');
                 imgFallback.classList.add('hidden');
+                if (toggleBtn) toggleBtn.classList.remove('hidden');
                 imgEl.src = currentQuestion.gorsel;
+                applyImageThemeStyle();
                 imgEl.onerror = () => {
                     imgEl.classList.add('hidden');
+                    if (toggleBtn) toggleBtn.classList.add('hidden');
                     imgFallback.classList.remove('hidden');
                     imgFallback.innerText = `🖼️ Görsel bekleniyor: ${currentQuestion.gorsel}`;
                 };
@@ -459,7 +530,6 @@
             container.innerHTML = '';
             const labels = ['A', 'B', 'C', 'D', 'E'];
 
-            // YKS Biyoloji öncül sırasını korumak için şıklar karıştırılmadan dizilir
             q.siklar.forEach((opt, index) => {
                 const btn = document.createElement('button');
                 btn.className = 'w-full border-2 font-medium py-3 px-4 rounded-2xl flex items-center transition-all duration-200 text-sm sm:text-base shadow-sm text-left';
@@ -480,7 +550,7 @@
         }
 
         function handleAnswer(selectedOption, clickedBtn) {
-            if (isAnswered) return;
+            if (isAnswered || !currentQuestion) return;
             isAnswered = true;
 
             const isCorrect = (String(selectedOption).trim() === String(currentQuestion.cevap).trim());
@@ -538,7 +608,6 @@
                 document.getElementById('feedbackMessage').innerHTML = `<b>Biyolog Notu:</b> ${noteText}`;
             }
 
-            // Biyolojide açıklamayı okuması için otomatik geçiş yerine butonla geçiş bırakıldı
             const nextBtn = document.getElementById('nextBtn');
             nextBtn.classList.add('fade-in');
             nextBtn.classList.remove('hidden');
