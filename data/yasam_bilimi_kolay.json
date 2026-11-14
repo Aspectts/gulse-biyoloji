@@ -1824,7 +1824,7 @@
     "konu": "Yaşam Bilimi Biyoloji",
     "seviye": "Kolay",
     "soru": "Tüm canlılar hücre veya hücrelerden oluşur. Canlılar hücre yapılarına göre sınıflandırılır.\nÖrneklendirilmesi yapılan a ve b canlılarında;\nI. hücre zarı,\nII. çekirdek zarı,\nIII. organel zarı\nyapılarından hangileri ortak olarak bulunur?",
-    "gorsel": "img/yb_k_g01.png",
+    "gorsel": "img/yb_k_gorsel_01.png",
     "siklar": [
       "Yalnız I",
       "Yalnız II",
@@ -1841,7 +1841,7 @@
     "konu": "Yaşam Bilimi Biyoloji",
     "seviye": "Kolay",
     "soru": "Yukarıdaki tabloda çok hücreli canlılarda görülen organizasyon basamaklarından hangileri, tek hücreli olan paramesyumda da görülebilir?",
-    "gorsel": "img/yb_k_g02.png",
+    "gorsel": "img/yb_k_gorsel_02.png",
     "siklar": [
       "1, 2 ve 3",
       "1, 3 ve 4",
@@ -1858,7 +1858,7 @@
     "konu": "Yaşam Bilimi Biyoloji",
     "seviye": "Kolay",
     "soru": "Bitki ve hayvan hücrelerine ait özelliklerin gösterildiği Venn şeması verilmiştir.\nBu özellikler ile ilgili,\nI. K → Kloroplastları sayesinde inorganik maddeyi organik maddeye çevirme\nII. L → Metabolik atıkları vücuttan uzaklaştırma\nIII. L → Etkiye karşı tepki oluşturma\nIV. M → Hücre çeperi bulundurmama\neşleştirmelerinden hangileri doğrudur?",
-    "gorsel": "img/yb_k_g03.png",
+    "gorsel": "img/yb_k_gorsel_03.png",
     "siklar": [
       "I ve II",
       "I ve IV",
@@ -1875,7 +1875,7 @@
     "konu": "Yaşam Bilimi Biyoloji",
     "seviye": "Kolay",
     "soru": "Minerallerin görevleri ile ilgili;\nI. vücudun osmotik basıncını ayarlama,\nII. solunum tepkimelerinde enerji verme,\nIII. hücre zarının yapısına katılma\nifadelerinden hangileri doğrudur?",
-    "gorsel": "img/yb_k_g04.png",
+    "gorsel": "img/yb_k_gorsel_04.png",
     "siklar": [
       "Yalnız I",
       "Yalnız II",
@@ -1892,7 +1892,7 @@
     "konu": "Yaşam Bilimi Biyoloji",
     "seviye": "Kolay",
     "soru": "Glukozun yapısına katıldığı bazı besinler verilmiştir.\nBu besinler ile ilgili,\nI. a ve b besinleri bitkisel kaynaklı iken c ve d besinleri hayvansal kaynaklıdır.\nII. c yapısal, d ise deposal besindir.\nIII. Diğer besinlerden farklı olarak b'nin yapısında früktoz bulunurken c'nin yapısında azot molekülü bulunur.\nyargılarından hangileri doğrudur?",
-    "gorsel": "img/yb_k_g05.png",
+    "gorsel": "img/yb_k_gorsel_05.png",
     "siklar": [
       "Yalnız I",
       "Yalnız II",
@@ -1909,7 +1909,7 @@
     "konu": "Yaşam Bilimi Biyoloji",
     "seviye": "Kolay",
     "soru": "Yukarıdaki tabloda örnekleri verilen yağ asitleri ile ilgili,\nI. Doymuş yağ asitlerinin tamamı oda sıcaklığında sıvıdır.\nII. Doymuş yağ asitlerinin karbonları arasında çoklu bağ bulunmaz.\nIII. Doymamış yağ asitleri yüksek sıcaklık ve basınç altında hidrojenle doyurulup çiftli bağdan kurtarılırsa margarinler elde edilir.\nifadelerinden hangileri doğrudur?",
-    "gorsel": "img/yb_k_g06.png",
+    "gorsel": "img/yb_k_gorsel_06.png",
     "siklar": [
       "Yalnız I",
       "Yalnız II",
@@ -1926,7 +1926,7 @@
     "konu": "Yaşam Bilimi Biyoloji",
     "seviye": "Kolay",
     "soru": "Bir fosfolipit molekülünün baş ve kuyruk kısımları ile ilgili,\nI. Baş kısmında gliserol ve fosfat grubu bulundurur.\nII. Yağ asitlerini bulunduran kuyruk kısmı hidrofobiktir.\nIII. Hücre zarının ve organel zarlarının yapısına katılır.\nIV. Yapısına sadece doymuş yağ asitleri katılır.\nifadelerinden hangileri doğrudur?",
-    "gorsel": "img/yb_k_g07.png",
+    "gorsel": "img/yb_k_gorsel_07.png",
     "siklar": [
       "I ve II",
       "I ve III",
@@ -1943,7 +1943,7 @@
     "konu": "Yaşam Bilimi Biyoloji",
     "seviye": "Kolay",
     "soru": "Aşağıdaki tabloda üç ayrı proteinin içerdiği farklı amino asit çeşitleri ve kurulan bağ sayıları verilmiştir.\nBu bilgilere göre X, Y ve Z proteinleri ile ilgili aşağıdaki yorumlardan hangisi yapılamaz?",
-    "gorsel": "img/yb_k_g08.png",
+    "gorsel": "img/yb_k_gorsel_08.png",
     "siklar": [
       "Y proteininin yapısında 41 tane amino asit bulunur.",
       "İçerdikleri amino asit çeşitleri farklılık gösterir.",
@@ -1960,7 +1960,7 @@
     "konu": "Yaşam Bilimi Biyoloji",
     "seviye": "Kolay",
     "soru": "Amino asit metabolizmasına ait olaylar şematize edilmiştir.\nBuna göre aşağıdakilerden hangisi yanlıştır?",
-    "gorsel": "img/yb_k_g09.png",
+    "gorsel": "img/yb_k_gorsel_09.png",
     "siklar": [
       "Amino asit yetersizliğinde sinir sisteminde aksaklıklar görülebilir.",
       "Amino asitler farklı görevlere sahip moleküllerin sentezinde kullanılabilir.",
@@ -1977,7 +1977,7 @@
     "konu": "Yaşam Bilimi Biyoloji",
     "seviye": "Kolay",
     "soru": "Amino asitlerin genel yapısı ve bazı amino asit çeşitleri verilmiştir.\nBuna göre;\nI. İkinci amino asit, birinci amino asidin karboksil ucuna bağlanır.\nII. Amino aside çeşitlilik kazandıran radikal gruptur.\nIII. Her amino asidin birbirine bağlanma şekli farklıdır.\nIV. İki farklı amino asidin radikal grupları aynıdır.\nyargılarından hangileri yanlıştır?",
-    "gorsel": "img/yb_k_g10.png",
+    "gorsel": "img/yb_k_gorsel_10.png",
     "siklar": [
       "Yalnız I",
       "I ve III",
@@ -1994,7 +1994,7 @@
     "konu": "Yaşam Bilimi Biyoloji",
     "seviye": "Kolay",
     "soru": "Enzimler yapılarına göre basit ve bileşik enzim olarak ikiye ayrılır.\nBuna göre,\nI. A kısmı protein olup amino asit içermektedir.\nII. B kısmı yardımcı grup olup organik ya da inorganik madde olabilir.\nIII. Bileşik enzimlerde substratı A tanır, asıl işi B kısmı gerçekleştirir.\nifadelerinden hangileri doğrudur?",
-    "gorsel": "img/yb_k_g11.png",
+    "gorsel": "img/yb_k_gorsel_11.png",
     "siklar": [
       "Yalnız I",
       "Yalnız II",
@@ -2011,7 +2011,7 @@
     "konu": "Yaşam Bilimi Biyoloji",
     "seviye": "Kolay",
     "soru": "Buna göre tablo incelendiğinde aşağıda verilenlerden hangisine ulaşılamaz?",
-    "gorsel": "img/yb_k_g12.png",
+    "gorsel": "img/yb_k_gorsel_12.png",
     "siklar": [
       "C vitamini genellikle bitkisel kaynaklıdır.",
       "K vitamini eksikliği kanamalarda sorun yaşamamıza neden olur.",
@@ -2028,7 +2028,7 @@
     "konu": "Yaşam Bilimi Biyoloji",
     "seviye": "Kolay",
     "soru": "Vitamin ve eksikliğinde görülen rahatsızlık için yapılan eşleştirmelerden hangisinde bir yanlışlık yapılmıştır?",
-    "gorsel": "img/yb_k_g13.png",
+    "gorsel": "img/yb_k_gorsel_13.png",
     "siklar": [
       "V",
       "IV",
@@ -2045,7 +2045,7 @@
     "konu": "Yaşam Bilimi Biyoloji",
     "seviye": "Kolay",
     "soru": "Yukarıdaki grafikte insan vücudundaki bazı elementlerin ortalama oranları verilmiştir.\nBuna göre aşağıdaki yorumlardan hangisi yapılamaz?",
-    "gorsel": "img/yb_k_g14.png",
+    "gorsel": "img/yb_k_gorsel_14.png",
     "siklar": [
       "Oksijenin oranı verilen diğer elementlerden daha fazladır.",
       "Bu elementler vücuda dışarıdan hazır alınır.",
@@ -2062,7 +2062,7 @@
     "konu": "Yaşam Bilimi Biyoloji",
     "seviye": "Kolay",
     "soru": "Enzimatik bir tepkime mekanizması gösterilmiştir.\nBuna göre enzimlerle ilgili olarak aşağıdaki ifadelerden hangisi söylenemez?",
-    "gorsel": "img/yb_k_g15.png",
+    "gorsel": "img/yb_k_gorsel_15.png",
     "siklar": [
       "Enzimler tepkimelerden değişmeden çıkar.",
       "Substrat yüzeyi artsa da tepkime hızı değişmez.",
@@ -2079,7 +2079,7 @@
     "konu": "Yaşam Bilimi Biyoloji",
     "seviye": "Kolay",
     "soru": "Hazırlanan deney düzeneğinde deney tüplerine X ve Y vitaminleri konulmuştur.\nBuna göre X ve Y vitaminleri ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
-    "gorsel": "img/yb_k_g16.png",
+    "gorsel": "img/yb_k_gorsel_16.png",
     "siklar": [
       "X vitamini K vitamini olabilir.",
       "Y vitamini yağda çözünen vitaminlerdendir.",
@@ -2096,7 +2096,7 @@
     "konu": "Yaşam Bilimi Biyoloji",
     "seviye": "Kolay",
     "soru": "Metabolizma iki ana başlıkta şematize edilmiştir.\nBuna göre aşağıdaki yorumlardan hangisi yanlıştır?",
-    "gorsel": "img/yb_k_g17.png",
+    "gorsel": "img/yb_k_gorsel_17.png",
     "siklar": [
       "X olayı basit moleküllerden karmaşık moleküller sentezlenirken enerji kullanılan süreçlerdir.",
       "Y olayı katabolik süreçleri içerir ve enerji üretilir.",
@@ -2113,7 +2113,7 @@
     "konu": "Yaşam Bilimi Biyoloji",
     "seviye": "Kolay",
     "soru": "Bir amino asidin moleküler yapısı gösterilmiştir.\nBuna göre,\nI. a kısmı amino grubu olup amino asitlere bazik özellik kazandırır.\nII. b grubu amino asitlerde çeşitliliği sağlar.\nIII. a ve c kısmından dolayı amino asitler amfoter özellik gösterir.\nifadelerinden hangileri söylenebilir?",
-    "gorsel": "img/yb_k_g18.png",
+    "gorsel": "img/yb_k_gorsel_18.png",
     "siklar": [
       "Yalnız I",
       "Yalnız II",
@@ -2130,7 +2130,7 @@
     "konu": "Yaşam Bilimi Biyoloji",
     "seviye": "Kolay",
     "soru": "Bileşik enzimlerin genel yapısı gösterilmiştir.\nBuna göre enzimlerin yapılarıyla ilgili aşağıda verilenlerden hangisi yanlıştır?",
-    "gorsel": "img/yb_k_g19.png",
+    "gorsel": "img/yb_k_gorsel_19.png",
     "siklar": [
       "Aktifleştirici kısım organik veya inorganik moleküllerden oluşabilir.",
       "II numaralı kısım B vitamini olabilir.",
@@ -2147,7 +2147,7 @@
     "konu": "Yaşam Bilimi Biyoloji",
     "seviye": "Kolay",
     "soru": "ATP üretim ve tüketim döngüsü verilmiştir.\nBuna göre,\nI. 1 numaralı olay defosforilasyon, 2 numaralı olay fosforilasyondur.\nII. 1 numaralı olay aktif taşıma, sinirsel iletim ve dönüşüm tepkimelerinde görülür.\nIII. 2 numaralı olay oksijenli ve oksijensiz solunum tepkimelerinde görülür.\nyargılarından hangileri doğrudur?",
-    "gorsel": "img/yb_k_g20.png",
+    "gorsel": "img/yb_k_gorsel_20.png",
     "siklar": [
       "Yalnız I",
       "Yalnız II",
@@ -2164,7 +2164,7 @@
     "konu": "Yaşam Bilimi Biyoloji",
     "seviye": "Kolay",
     "soru": "Nükleotitler azotlu organik baz, beş karbonlu şeker ve fosfat moleküllerinden oluşur.\nYukarıda numaralanmış moleküllerden hangilerinin bir araya gelmesiyle deoksiribonükleotit molekülü oluşur?",
-    "gorsel": "img/yb_k_g21.png",
+    "gorsel": "img/yb_k_gorsel_21.png",
     "siklar": [
       "1 - 6 - 8",
       "2 - 4 - 6",
@@ -2181,7 +2181,7 @@
     "konu": "Yaşam Bilimi Biyoloji",
     "seviye": "Kolay",
     "soru": "Tabloda verilen bilgilere göre;\nI. Fındık, şeker hastaları için daha güvenli bir besindir.\nII. Peptit bağını en fazla içeren besin bademdir.\nIII. Enerji verimi en çok olan besini en fazla bulunduran pirinçtir.\nIV. Uzun süreli açlık durumunda ilk sırada kullanılan besin en fazla pirinçte bulunur.\nyorumlarından hangileri yapılabilir?",
-    "gorsel": "img/yb_k_g22.png",
+    "gorsel": "img/yb_k_gorsel_22.png",
     "siklar": [
       "Yalnız I",
       "I ve III",
@@ -2198,7 +2198,7 @@
     "konu": "Yaşam Bilimi Biyoloji",
     "seviye": "Kolay",
     "soru": "Yüzey gerilimi sayesinde bazı böcekler su üzerinde durabilir ve yürüyebilir.\nBu olaya suyun;\nI. özgül ısısının yüksek olması,\nII. kohezyon kuvvetine sahip olması,\nIII. iyi bir çözücü olması\nözelliklerinden hangileri neden olur?",
-    "gorsel": "img/yb_k_g23.png",
+    "gorsel": "img/yb_k_gorsel_23.png",
     "siklar": [
       "Yalnız I",
       "Yalnız II",
@@ -2215,7 +2215,7 @@
     "konu": "Yaşam Bilimi Biyoloji",
     "seviye": "Kolay",
     "soru": "Sağlıklı bir insanın günlük aldığı vitamin miktarı ile ihtiyaç duyduğu vitamin miktarı grafikte karşılaştırılmıştır.\nBu verilere bakılarak aşağıdaki yorumlardan hangisi yapılamaz?",
-    "gorsel": "img/yb_k_g24.png",
+    "gorsel": "img/yb_k_gorsel_24.png",
     "siklar": [
       "Birey uzun süre D vitamini alamazsa osteomalazi görülebilir.",
       "Birey B ve C vitaminlerinin fazlasını idrarla atar.",
@@ -2232,7 +2232,7 @@
     "konu": "Yaşam Bilimi Biyoloji",
     "seviye": "Kolay",
     "soru": "Tablodaki bilgilere göre,\nI. Light peynirin besin ve mineral içeriklerinin tamamı tam yağlı beyaz peynire göre çok düşük seviyededir.\nII. Tam yağlı beyaz peynirin yağ miktarı, light peynire göre fazladır.\nIII. Tam yağlı beyaz peynirin kemik gelişimi üzerine etkisi light peynire göre daha azdır.\nyorumlarından hangileri yapılabilir?",
-    "gorsel": "img/yb_k_g25.png",
+    "gorsel": "img/yb_k_gorsel_25.png",
     "siklar": [
       "Yalnız I",
       "Yalnız II",
@@ -2249,7 +2249,7 @@
     "konu": "Yaşam Bilimi Biyoloji",
     "seviye": "Kolay",
     "soru": "Bir DNA'nın iki ipliğine ait baz diziliminin bir kısmı verilmiştir.\nBuna göre bu DNA parçası ile ilgili,\nI. Pürin bazlarının sayısı pirimidinlere eşittir.\nII. 3'lü hidrojen bağlarının sayısı 2'li hidrojen bağlarının sayısından fazladır.\nIII. Tek zincirdeki fosfat sayısı, karşı zincirdeki şeker sayısına eşittir.\nifadelerinden hangileri doğrudur?",
-    "gorsel": "img/yb_k_g26.png",
+    "gorsel": "img/yb_k_gorsel_26.png",
     "siklar": [
       "Yalnız I",
       "Yalnız II",
@@ -2266,7 +2266,7 @@
     "konu": "Yaşam Bilimi Biyoloji",
     "seviye": "Kolay",
     "soru": "Su molekülünün yapısı ile ilgili,\nI. İki H⁺ ve bir O⁻² atomundan oluşur.\nII. Su oluşurken H⁺ ve O⁻² arasında kovalent bağ kurulur.\nIII. İki su molekülü bağlanırken H ve O arasında hidrojen bağı kurulur.\nifadelerinden hangileri doğrudur?",
-    "gorsel": "img/yb_k_g27.png",
+    "gorsel": "img/yb_k_gorsel_27.png",
     "siklar": [
       "Yalnız I",
       "Yalnız II",
@@ -2283,7 +2283,7 @@
     "konu": "Yaşam Bilimi Biyoloji",
     "seviye": "Kolay",
     "soru": "Bitkilerde köklerle alınan su molekülleri yapraklara kadar taşınır. Suyun bu şekilde taşınması kohezyon ve adhezyon kuvveti ile sağlanır.\nBuna göre,\nI. Su ve farklı cins moleküller arasındaki çekim kuvveti adhezyondur.\nII. Şelaleden akan suyun kesintisiz bir sütun oluşturması bu olaya örnektir.\nIII. Kohezyon kuvveti yüzey geriliminin oluşmasını sağlar.\nifadelerinden hangileri doğrudur?",
-    "gorsel": "img/yb_k_g28.png",
+    "gorsel": "img/yb_k_gorsel_28.png",
     "siklar": [
       "Yalnız I",
       "Yalnız II",
@@ -2300,7 +2300,7 @@
     "konu": "Yaşam Bilimi Biyoloji",
     "seviye": "Kolay",
     "soru": "Enzimlerin üzerindeki inhibitörlerin etki mekanizması gösterilmiştir.\nBuna göre;\nI. 1. durumda inhibitör substrat taklidi yaparak enzim ve substratın birleşmesini engeller.\nII. 2. durumda inhibitör enzimin aktif bölgesini değiştirip enzim-substrat uyumunu bozar.\nIII. 1. durum yarışmalı, 2. durum yarışmasız inhibisyona örnektir.\nifadelerinden hangileri doğrudur?",
-    "gorsel": "img/yb_k_g29.png",
+    "gorsel": "img/yb_k_gorsel_29.png",
     "siklar": [
       "Yalnız I",
       "Yalnız II",
@@ -2317,7 +2317,7 @@
     "konu": "Yaşam Bilimi Biyoloji",
     "seviye": "Kolay",
     "soru": "Bir nükleotidin yapı taşları numaralandırılarak verilmiştir.\nBuna göre,\nI. 1 numaralı yapı; ATP, DNA ve RNA'da ortak olarak bulunan pürin bazı olabilir.\nII. 2 numaralı yapı birbirinin izomeri olan glukoz veya deoksiribozdur.\nIII. ATP'de 3 numaralı moleküllerin arasında yüksek enerjili fosfat bağları bulunur.\nifadelerinden hangileri doğrudur?",
-    "gorsel": "img/yb_k_g30.png",
+    "gorsel": "img/yb_k_gorsel_30.png",
     "siklar": [
       "Yalnız III",
       "I ve II",
@@ -2334,7 +2334,7 @@
     "konu": "Yaşam Bilimi Biyoloji",
     "seviye": "Kolay",
     "soru": "Bir canlının hareketine bağlı olarak tükettiği O₂ miktarının zamana bağlı değişimi grafikte verilmiştir.\nBu canlı ile ilgili,\nI. Mitokondri faaliyeti artmıştır.\nII. Hücreleri arası iletişimi artmıştır.\nIII. Çekirdek faaliyetleri artmıştır.\nbilgilerinden hangilerine ulaşılamaz?",
-    "gorsel": "img/yb_k_g31.png",
+    "gorsel": "img/yb_k_gorsel_31.png",
     "siklar": [
       "Yalnız I",
       "Yalnız III",
@@ -2351,7 +2351,7 @@
     "konu": "Yaşam Bilimi Biyoloji",
     "seviye": "Kolay",
     "soru": "Bir kimyasal tepkimenin enerji değişim grafiği verilmiştir.\nBuna göre tepkimenin a durumundan b durumuna geçmesine;\nI. daha fazla maddenin reaksiyona girmesi,\nII. enzimlerin görev alması,\nIII. daha az molekülün reaksiyona girmesi\ndurumlarından hangileri neden olmuş olabilir?",
-    "gorsel": "img/yb_k_g32.png",
+    "gorsel": "img/yb_k_gorsel_32.png",
     "siklar": [
       "Yalnız I",
       "Yalnız II",
@@ -2368,7 +2368,7 @@
     "konu": "Yaşam Bilimi Biyoloji",
     "seviye": "Kolay",
     "soru": "ATP'nin moleküler yapısı verilmiştir.\nBuna göre \"?\" ile gösterilen yapı aşağıdakilerden hangisidir?",
-    "gorsel": "img/yb_k_g33.png",
+    "gorsel": "img/yb_k_gorsel_33.png",
     "siklar": [
       "AMP",
       "Nükleotit",
@@ -2385,7 +2385,7 @@
     "konu": "Yaşam Bilimi Biyoloji",
     "seviye": "Kolay",
     "soru": "Canlıların yapısında bulunan organik maddelerin bir hücredeki yaklaşık oranları grafikte verilmiştir.\nBu verilere göre,\nI. Hücrede en fazla bulunan organik molekül çeşidi proteindir.\nII. Hücre içinde grafikte yer alanların dışında başka organik molekül yoktur.\nIII. Farklı hücrelerde farklı oranlarda lipit ya da protein bulunamaz.\nyargılarından hangileri doğrudur?",
-    "gorsel": "img/yb_k_g34.png",
+    "gorsel": "img/yb_k_gorsel_34.png",
     "siklar": [
       "Yalnız I",
       "Yalnız II",
