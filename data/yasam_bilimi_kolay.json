@@ -1817,5 +1817,584 @@
     ],
     "cevap": "Karaciğer ve kaslarda kullanılmak üzere depolanır.",
     "biyologNotu": "Karaciğer ve kaslarda depolanan enerji kaynağı glikojendir; ATP hiçbir hücre veya organda depolanmaz."
+  },
+  {
+    "id": "yb_k_g01",
+    "kaynak": "PDF",
+    "konu": "Yaşam Bilimi Biyoloji",
+    "seviye": "Kolay",
+    "soru": "Tüm canlılar hücre veya hücrelerden oluşur. Canlılar hücre yapılarına göre sınıflandırılır.\nÖrneklendirilmesi yapılan a ve b canlılarında;\nI. hücre zarı,\nII. çekirdek zarı,\nIII. organel zarı\nyapılarından hangileri ortak olarak bulunur?",
+    "gorsel": "img/yb_k_g01.png",
+    "siklar": [
+      "Yalnız I",
+      "Yalnız II",
+      "Yalnız III",
+      "I ve III",
+      "I, II ve III"
+    ],
+    "cevap": "Yalnız I",
+    "biyologNotu": "Prokaryot ve ökaryot tüm canlı hücrelerde hücre zarı ortak olarak bulunur; çekirdek zarı ve zarlı organeller ise yalnızca ökaryotlarda vardır."
+  },
+  {
+    "id": "yb_k_g02",
+    "kaynak": "PDF",
+    "konu": "Yaşam Bilimi Biyoloji",
+    "seviye": "Kolay",
+    "soru": "Yukarıdaki tabloda çok hücreli canlılarda görülen organizasyon basamaklarından hangileri, tek hücreli olan paramesyumda da görülebilir?",
+    "gorsel": "img/yb_k_g02.png",
+    "siklar": [
+      "1, 2 ve 3",
+      "1, 3 ve 4",
+      "1, 3 ve 5",
+      "2, 3 ve 4",
+      "3, 4 ve 6"
+    ],
+    "cevap": "1, 3 ve 4",
+    "biyologNotu": "Tek hücreli canlılarda doku, organ ve sistem basamakları bulunmaz; atom, molekül, organel ve hücre basamaklarıyla organizasyon tamamlanır."
+  },
+  {
+    "id": "yb_k_g03",
+    "kaynak": "PDF",
+    "konu": "Yaşam Bilimi Biyoloji",
+    "seviye": "Kolay",
+    "soru": "Bitki ve hayvan hücrelerine ait özelliklerin gösterildiği Venn şeması verilmiştir.\nBu özellikler ile ilgili,\nI. K → Kloroplastları sayesinde inorganik maddeyi organik maddeye çevirme\nII. L → Metabolik atıkları vücuttan uzaklaştırma\nIII. L → Etkiye karşı tepki oluşturma\nIV. M → Hücre çeperi bulundurmama\neşleştirmelerinden hangileri doğrudur?",
+    "gorsel": "img/yb_k_g03.png",
+    "siklar": [
+      "I ve II",
+      "I ve IV",
+      "II ve III",
+      "II, III ve IV",
+      "I, II, III ve IV"
+    ],
+    "cevap": "I, II, III ve IV",
+    "biyologNotu": "Kloroplast bitkiye (K), hücre çeperi bulundurmama hayvana (M) özgüdür; boşaltım ve uyaranlara tepki ise her iki grupta ortak (L) görülür."
+  },
+  {
+    "id": "yb_k_g04",
+    "kaynak": "PDF",
+    "konu": "Yaşam Bilimi Biyoloji",
+    "seviye": "Kolay",
+    "soru": "Minerallerin görevleri ile ilgili;\nI. vücudun osmotik basıncını ayarlama,\nII. solunum tepkimelerinde enerji verme,\nIII. hücre zarının yapısına katılma\nifadelerinden hangileri doğrudur?",
+    "gorsel": "img/yb_k_g04.png",
+    "siklar": [
+      "Yalnız I",
+      "Yalnız II",
+      "Yalnız III",
+      "I ve III",
+      "I, II ve III"
+    ],
+    "cevap": "Yalnız I",
+    "biyologNotu": "Mineraller inorganik bileşiklerdir; kesinlikle enerji vermezler ve vücut sıvılarının ozmotik basıncını dengelemede görev alırlar."
+  },
+  {
+    "id": "yb_k_g05",
+    "kaynak": "PDF",
+    "konu": "Yaşam Bilimi Biyoloji",
+    "seviye": "Kolay",
+    "soru": "Glukozun yapısına katıldığı bazı besinler verilmiştir.\nBu besinler ile ilgili,\nI. a ve b besinleri bitkisel kaynaklı iken c ve d besinleri hayvansal kaynaklıdır.\nII. c yapısal, d ise deposal besindir.\nIII. Diğer besinlerden farklı olarak b'nin yapısında früktoz bulunurken c'nin yapısında azot molekülü bulunur.\nyargılarından hangileri doğrudur?",
+    "gorsel": "img/yb_k_g05.png",
+    "siklar": [
+      "Yalnız I",
+      "Yalnız II",
+      "I ve II",
+      "I ve III",
+      "I, II ve III"
+    ],
+    "cevap": "I, II ve III",
+    "biyologNotu": "Nişasta ve sükroz bitkisel, kitin (yapısal ve azotlu) ve glikojen (deposal) ise hayvansal kaynaklı karbonhidratlardır."
+  },
+  {
+    "id": "yb_k_g06",
+    "kaynak": "PDF",
+    "konu": "Yaşam Bilimi Biyoloji",
+    "seviye": "Kolay",
+    "soru": "Yukarıdaki tabloda örnekleri verilen yağ asitleri ile ilgili,\nI. Doymuş yağ asitlerinin tamamı oda sıcaklığında sıvıdır.\nII. Doymuş yağ asitlerinin karbonları arasında çoklu bağ bulunmaz.\nIII. Doymamış yağ asitleri yüksek sıcaklık ve basınç altında hidrojenle doyurulup çiftli bağdan kurtarılırsa margarinler elde edilir.\nifadelerinden hangileri doğrudur?",
+    "gorsel": "img/yb_k_g06.png",
+    "siklar": [
+      "Yalnız I",
+      "Yalnız II",
+      "Yalnız III",
+      "II ve III",
+      "I, II ve III"
+    ],
+    "cevap": "II ve III",
+    "biyologNotu": "Doymuş yağ asitleri oda sıcaklığında katıdır (I yanlış); karbon zincirlerinde çift bağ yoktur ve sıvı yağların hidrojenle doyurulmasıyla margarin elde edilir."
+  },
+  {
+    "id": "yb_k_g07",
+    "kaynak": "PDF",
+    "konu": "Yaşam Bilimi Biyoloji",
+    "seviye": "Kolay",
+    "soru": "Bir fosfolipit molekülünün baş ve kuyruk kısımları ile ilgili,\nI. Baş kısmında gliserol ve fosfat grubu bulundurur.\nII. Yağ asitlerini bulunduran kuyruk kısmı hidrofobiktir.\nIII. Hücre zarının ve organel zarlarının yapısına katılır.\nIV. Yapısına sadece doymuş yağ asitleri katılır.\nifadelerinden hangileri doğrudur?",
+    "gorsel": "img/yb_k_g07.png",
+    "siklar": [
+      "I ve II",
+      "I ve III",
+      "II ve IV",
+      "I, II ve III",
+      "I, II, III ve IV"
+    ],
+    "cevap": "I, II ve III",
+    "biyologNotu": "Fosfolipitlerin hidrofilik baş kısmında gliserol ve fosfat, hidrofobik kuyruk kısmında ise biri doymuş diğeri doymamış iki yağ asidi bulunur."
+  },
+  {
+    "id": "yb_k_g08",
+    "kaynak": "PDF",
+    "konu": "Yaşam Bilimi Biyoloji",
+    "seviye": "Kolay",
+    "soru": "Aşağıdaki tabloda üç ayrı proteinin içerdiği farklı amino asit çeşitleri ve kurulan bağ sayıları verilmiştir.\nBu bilgilere göre X, Y ve Z proteinleri ile ilgili aşağıdaki yorumlardan hangisi yapılamaz?",
+    "gorsel": "img/yb_k_g08.png",
+    "siklar": [
+      "Y proteininin yapısında 41 tane amino asit bulunur.",
+      "İçerdikleri amino asit çeşitleri farklılık gösterir.",
+      "En uzun polipeptit zinciri X proteinine aittir.",
+      "Proteinler farklı genlerden sentezlenir.",
+      "En fazla amino asit çeşidi Z proteinine aittir."
+    ],
+    "cevap": "En uzun polipeptit zinciri X proteinine aittir.",
+    "biyologNotu": "Polipeptit zincirinin uzunluğunu amino asit çeşidi değil, toplam amino asit (peptit bağı + 1) sayısı belirler."
+  },
+  {
+    "id": "yb_k_g09",
+    "kaynak": "PDF",
+    "konu": "Yaşam Bilimi Biyoloji",
+    "seviye": "Kolay",
+    "soru": "Amino asit metabolizmasına ait olaylar şematize edilmiştir.\nBuna göre aşağıdakilerden hangisi yanlıştır?",
+    "gorsel": "img/yb_k_g09.png",
+    "siklar": [
+      "Amino asit yetersizliğinde sinir sisteminde aksaklıklar görülebilir.",
+      "Amino asitler farklı görevlere sahip moleküllerin sentezinde kullanılabilir.",
+      "Amino asitlerin yıkımı sonucu ortaya çıkan amonyak hayvanlarda enerji eldesinde kullanılır.",
+      "Beslenme yoluyla vücuda amino asit alınmaması durumunda bir süre vücuttaki proteinlerden amino asit ihtiyacı karşılanabilir.",
+      "Amino asitlerden protein sentezlenmesi olayı hücre içinde gerçekleşir."
+    ],
+    "cevap": "Amino asitlerin yıkımı sonucu ortaya çıkan amonyak hayvanlarda enerji eldesinde kullanılır.",
+    "biyologNotu": "Amonyak (NH₃) hayvanlar için zehirli bir metabolik atıktır; enerji eldesinde kullanılmaz, boşaltım sistemiyle uzaklaştırılır."
+  },
+  {
+    "id": "yb_k_g10",
+    "kaynak": "PDF",
+    "konu": "Yaşam Bilimi Biyoloji",
+    "seviye": "Kolay",
+    "soru": "Amino asitlerin genel yapısı ve bazı amino asit çeşitleri verilmiştir.\nBuna göre;\nI. İkinci amino asit, birinci amino asidin karboksil ucuna bağlanır.\nII. Amino aside çeşitlilik kazandıran radikal gruptur.\nIII. Her amino asidin birbirine bağlanma şekli farklıdır.\nIV. İki farklı amino asidin radikal grupları aynıdır.\nyargılarından hangileri yanlıştır?",
+    "gorsel": "img/yb_k_g10.png",
+    "siklar": [
+      "Yalnız I",
+      "I ve III",
+      "II ve III",
+      "II ve IV",
+      "III ve IV"
+    ],
+    "cevap": "III ve IV",
+    "biyologNotu": "Tüm amino asitler birbirine aynı şekilde peptit bağıyla bağlanır (III yanlış) ve her farklı amino asidin radikal (R) grubu farklıdır (IV yanlış)."
+  },
+  {
+    "id": "yb_k_g11",
+    "kaynak": "PDF",
+    "konu": "Yaşam Bilimi Biyoloji",
+    "seviye": "Kolay",
+    "soru": "Enzimler yapılarına göre basit ve bileşik enzim olarak ikiye ayrılır.\nBuna göre,\nI. A kısmı protein olup amino asit içermektedir.\nII. B kısmı yardımcı grup olup organik ya da inorganik madde olabilir.\nIII. Bileşik enzimlerde substratı A tanır, asıl işi B kısmı gerçekleştirir.\nifadelerinden hangileri doğrudur?",
+    "gorsel": "img/yb_k_g11.png",
+    "siklar": [
+      "Yalnız I",
+      "Yalnız II",
+      "I ve II",
+      "II ve III",
+      "I, II ve III"
+    ],
+    "cevap": "I, II ve III",
+    "biyologNotu": "Bileşik enzimlerde (holoenzim) protein yapılı apoenzim (A) substratı tanır; organik (koenzim) veya inorganik (kofaktör) yardımcı kısım (B) reaksiyonu gerçekleştirir."
+  },
+  {
+    "id": "yb_k_g12",
+    "kaynak": "PDF",
+    "konu": "Yaşam Bilimi Biyoloji",
+    "seviye": "Kolay",
+    "soru": "Buna göre tablo incelendiğinde aşağıda verilenlerden hangisine ulaşılamaz?",
+    "gorsel": "img/yb_k_g12.png",
+    "siklar": [
+      "C vitamini genellikle bitkisel kaynaklıdır.",
+      "K vitamini eksikliği kanamalarda sorun yaşamamıza neden olur.",
+      "E vitamininin yeterli miktarda alınmasıyla hastalıklardan korunmuş oluruz.",
+      "C vitamininin eksikliği, E vitamini ile giderilebilir.",
+      "E vitamini eksikliği kansızlığa neden olabilir."
+    ],
+    "cevap": "C vitamininin eksikliği, E vitamini ile giderilebilir.",
+    "biyologNotu": "Her vitamin kendine özgü bir biyokimyasal reaksiyonda koenzim olarak görev yapar; bu nedenle bir vitaminin eksikliği başka bir vitaminle giderilemez."
+  },
+  {
+    "id": "yb_k_g13",
+    "kaynak": "PDF",
+    "konu": "Yaşam Bilimi Biyoloji",
+    "seviye": "Kolay",
+    "soru": "Vitamin ve eksikliğinde görülen rahatsızlık için yapılan eşleştirmelerden hangisinde bir yanlışlık yapılmıştır?",
+    "gorsel": "img/yb_k_g13.png",
+    "siklar": [
+      "V",
+      "IV",
+      "III",
+      "II",
+      "I"
+    ],
+    "cevap": "V",
+    "biyologNotu": "Vitamin eksikliklerinde ortaya çıkan spesifik hastalık eşleştirmelerinde V numaralı eşleştirme hatalı verilmiştir."
+  },
+  {
+    "id": "yb_k_g14",
+    "kaynak": "PDF",
+    "konu": "Yaşam Bilimi Biyoloji",
+    "seviye": "Kolay",
+    "soru": "Yukarıdaki grafikte insan vücudundaki bazı elementlerin ortalama oranları verilmiştir.\nBuna göre aşağıdaki yorumlardan hangisi yapılamaz?",
+    "gorsel": "img/yb_k_g14.png",
+    "siklar": [
+      "Oksijenin oranı verilen diğer elementlerden daha fazladır.",
+      "Bu elementler vücuda dışarıdan hazır alınır.",
+      "Fosfor elementinin yokluğu insan vücudunu etkilemez.",
+      "Bu verilere göre insan vücudunun en az ihtiyaç duyduğu element fosfordur.",
+      "Elementler inorganik yapıdadır."
+    ],
+    "cevap": "Fosfor elementinin yokluğu insan vücudunu etkilemez.",
+    "biyologNotu": "Vücutta az oranda bulunması önemsiz olduğu anlamına gelmez; fosfor DNA, RNA, ATP ve hücre zarının temel yapı taşıdır."
+  },
+  {
+    "id": "yb_k_g15",
+    "kaynak": "PDF",
+    "konu": "Yaşam Bilimi Biyoloji",
+    "seviye": "Kolay",
+    "soru": "Enzimatik bir tepkime mekanizması gösterilmiştir.\nBuna göre enzimlerle ilgili olarak aşağıdaki ifadelerden hangisi söylenemez?",
+    "gorsel": "img/yb_k_g15.png",
+    "siklar": [
+      "Enzimler tepkimelerden değişmeden çıkar.",
+      "Substrat yüzeyi artsa da tepkime hızı değişmez.",
+      "Substratlarıyla anahtar-kilit uyumu içerisindedir.",
+      "Enzimler tekrar tekrar kullanılabilir.",
+      "Tepkime sonunda substrat ürüne dönüşür."
+    ],
+    "cevap": "Substrat yüzeyi artsa da tepkime hızı değişmez.",
+    "biyologNotu": "Enzimler substrata dış yüzeyinden etki etmeye başlar; bu yüzden substrat yüzeyi arttıkça birim zamandaki tepkime hızı da artar."
+  },
+  {
+    "id": "yb_k_g16",
+    "kaynak": "PDF",
+    "konu": "Yaşam Bilimi Biyoloji",
+    "seviye": "Kolay",
+    "soru": "Hazırlanan deney düzeneğinde deney tüplerine X ve Y vitaminleri konulmuştur.\nBuna göre X ve Y vitaminleri ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "gorsel": "img/yb_k_g16.png",
+    "siklar": [
+      "X vitamini K vitamini olabilir.",
+      "Y vitamini yağda çözünen vitaminlerdendir.",
+      "X vitamini II. deney tüpüne konulursa çözünebilir.",
+      "Y vitamini karaciğerde depo edilebilir.",
+      "X vitamininin fazlası idrarla dışarı atılabilir."
+    ],
+    "cevap": "X vitamininin fazlası idrarla dışarı atılabilir.",
+    "biyologNotu": "Yağda çözünen (ADEK) vitaminler idrarla dışarı atılmaz, fazlası karaciğerde depo edilir; idrarla atılanlar suda çözünen B ve C vitaminleridir."
+  },
+  {
+    "id": "yb_k_g17",
+    "kaynak": "PDF",
+    "konu": "Yaşam Bilimi Biyoloji",
+    "seviye": "Kolay",
+    "soru": "Metabolizma iki ana başlıkta şematize edilmiştir.\nBuna göre aşağıdaki yorumlardan hangisi yanlıştır?",
+    "gorsel": "img/yb_k_g17.png",
+    "siklar": [
+      "X olayı basit moleküllerden karmaşık moleküller sentezlenirken enerji kullanılan süreçlerdir.",
+      "Y olayı katabolik süreçleri içerir ve enerji üretilir.",
+      "X olayı yapım reaksiyonlarından oluşmaktadır.",
+      "Y olayları sırasında ATP ve enzimler harcanır.",
+      "Yapısal birimlerden solunum reaksiyonu ile ATP üretilir."
+    ],
+    "cevap": "Y olayları sırasında ATP ve enzimler harcanır.",
+    "biyologNotu": "Enzimler kimyasal tepkimelerden değişmeden çıkar ve tekrar tekrar kullanılır, yani tepkime sırasında harcanmazlar."
+  },
+  {
+    "id": "yb_k_g18",
+    "kaynak": "PDF",
+    "konu": "Yaşam Bilimi Biyoloji",
+    "seviye": "Kolay",
+    "soru": "Bir amino asidin moleküler yapısı gösterilmiştir.\nBuna göre,\nI. a kısmı amino grubu olup amino asitlere bazik özellik kazandırır.\nII. b grubu amino asitlerde çeşitliliği sağlar.\nIII. a ve c kısmından dolayı amino asitler amfoter özellik gösterir.\nifadelerinden hangileri söylenebilir?",
+    "gorsel": "img/yb_k_g18.png",
+    "siklar": [
+      "Yalnız I",
+      "Yalnız II",
+      "Yalnız III",
+      "I ve III",
+      "I, II ve III"
+    ],
+    "cevap": "I, II ve III",
+    "biyologNotu": "Amino asitler bazik amino grubu (-NH₂) ve asidik karboksil grubu (-COOH) sayesinde hem asitlerle hem bazlarla tepkimeye giren amfoter özellik gösterir."
+  },
+  {
+    "id": "yb_k_g19",
+    "kaynak": "PDF",
+    "konu": "Yaşam Bilimi Biyoloji",
+    "seviye": "Kolay",
+    "soru": "Bileşik enzimlerin genel yapısı gösterilmiştir.\nBuna göre enzimlerin yapılarıyla ilgili aşağıda verilenlerden hangisi yanlıştır?",
+    "gorsel": "img/yb_k_g19.png",
+    "siklar": [
+      "Aktifleştirici kısım organik veya inorganik moleküllerden oluşabilir.",
+      "II numaralı kısım B vitamini olabilir.",
+      "I ve II numaralı kısımlar birlikte holoenzim adını alır.",
+      "II numaralı kısım başka enzimlere de bağlanabilir.",
+      "I numaralı kısım hidroliz edildiğinde amino asit ve glukoz oluşur."
+    ],
+    "cevap": "I numaralı kısım hidroliz edildiğinde amino asit ve glukoz oluşur.",
+    "biyologNotu": "I numaralı kısım (apoenzim) tamamen protein yapılıdır; hidroliz edildiğinde yalnızca amino asitler oluşur, glukoz oluşmaz."
+  },
+  {
+    "id": "yb_k_g20",
+    "kaynak": "PDF",
+    "konu": "Yaşam Bilimi Biyoloji",
+    "seviye": "Kolay",
+    "soru": "ATP üretim ve tüketim döngüsü verilmiştir.\nBuna göre,\nI. 1 numaralı olay defosforilasyon, 2 numaralı olay fosforilasyondur.\nII. 1 numaralı olay aktif taşıma, sinirsel iletim ve dönüşüm tepkimelerinde görülür.\nIII. 2 numaralı olay oksijenli ve oksijensiz solunum tepkimelerinde görülür.\nyargılarından hangileri doğrudur?",
+    "gorsel": "img/yb_k_g20.png",
+    "siklar": [
+      "Yalnız I",
+      "Yalnız II",
+      "I ve II",
+      "II ve III",
+      "I, II ve III"
+    ],
+    "cevap": "I, II ve III",
+    "biyologNotu": "ATP'den fosfat koparılması (1) defosforilasyon olup enerji gerektiren tüm yaşamsal olaylarda kullanılır; ADP'ye fosfat eklenmesi (2) ise fosforilasyondur."
+  },
+  {
+    "id": "yb_k_g21",
+    "kaynak": "PDF",
+    "konu": "Yaşam Bilimi Biyoloji",
+    "seviye": "Kolay",
+    "soru": "Nükleotitler azotlu organik baz, beş karbonlu şeker ve fosfat moleküllerinden oluşur.\nYukarıda numaralanmış moleküllerden hangilerinin bir araya gelmesiyle deoksiribonükleotit molekülü oluşur?",
+    "gorsel": "img/yb_k_g21.png",
+    "siklar": [
+      "1 - 6 - 8",
+      "2 - 4 - 6",
+      "3 - 7 - 8",
+      "5 - 6 - 8",
+      "4 - 7 - 8"
+    ],
+    "cevap": "3 - 7 - 8",
+    "biyologNotu": "Bir deoksiribonükleotit yapısında DNA'ya özgü bir organik baz, 5 karbonlu deoksiriboz şekeri ve inorganik fosfat grubu bulunur."
+  },
+  {
+    "id": "yb_k_g22",
+    "kaynak": "PDF",
+    "konu": "Yaşam Bilimi Biyoloji",
+    "seviye": "Kolay",
+    "soru": "Tabloda verilen bilgilere göre;\nI. Fındık, şeker hastaları için daha güvenli bir besindir.\nII. Peptit bağını en fazla içeren besin bademdir.\nIII. Enerji verimi en çok olan besini en fazla bulunduran pirinçtir.\nIV. Uzun süreli açlık durumunda ilk sırada kullanılan besin en fazla pirinçte bulunur.\nyorumlarından hangileri yapılabilir?",
+    "gorsel": "img/yb_k_g22.png",
+    "siklar": [
+      "Yalnız I",
+      "I ve III",
+      "III ve IV",
+      "I, II ve IV",
+      "I, II, III ve IV"
+    ],
+    "cevap": "I, II ve IV",
+    "biyologNotu": "Açlıkta ilk sırada karbonhidratlar kullanılır (en çok pirinçte); en fazla enerji veren lipitler ise pirinçte değil yağlı tohumlarda yüksektir."
+  },
+  {
+    "id": "yb_k_g23",
+    "kaynak": "PDF",
+    "konu": "Yaşam Bilimi Biyoloji",
+    "seviye": "Kolay",
+    "soru": "Yüzey gerilimi sayesinde bazı böcekler su üzerinde durabilir ve yürüyebilir.\nBu olaya suyun;\nI. özgül ısısının yüksek olması,\nII. kohezyon kuvvetine sahip olması,\nIII. iyi bir çözücü olması\nözelliklerinden hangileri neden olur?",
+    "gorsel": "img/yb_k_g23.png",
+    "siklar": [
+      "Yalnız I",
+      "Yalnız II",
+      "I ve II",
+      "II ve III",
+      "I, II ve III"
+    ],
+    "cevap": "Yalnız II",
+    "biyologNotu": "Su molekülleri arasındaki zayıf hidrojen bağları kohezyon kuvvetini oluşturur ve bu kuvvet su yüzeyinde gerilim yaratarak hafif canlıları taşır."
+  },
+  {
+    "id": "yb_k_g24",
+    "kaynak": "PDF",
+    "konu": "Yaşam Bilimi Biyoloji",
+    "seviye": "Kolay",
+    "soru": "Sağlıklı bir insanın günlük aldığı vitamin miktarı ile ihtiyaç duyduğu vitamin miktarı grafikte karşılaştırılmıştır.\nBu verilere bakılarak aşağıdaki yorumlardan hangisi yapılamaz?",
+    "gorsel": "img/yb_k_g24.png",
+    "siklar": [
+      "Birey uzun süre D vitamini alamazsa osteomalazi görülebilir.",
+      "Birey B ve C vitaminlerinin fazlasını idrarla atar.",
+      "Bireyin A ve D vitaminlerinden bir miktar daha alması gerekir.",
+      "Birey A vitaminini ihtiyacından fazla almıştır.",
+      "Birey D vitamininin eksikliğini geç fark eder."
+    ],
+    "cevap": "Birey A vitaminini ihtiyacından fazla almıştır.",
+    "biyologNotu": "Grafik verilerine göre bireyin aldığı A vitamini miktarı günlük ihtiyacının altındadır."
+  },
+  {
+    "id": "yb_k_g25",
+    "kaynak": "PDF",
+    "konu": "Yaşam Bilimi Biyoloji",
+    "seviye": "Kolay",
+    "soru": "Tablodaki bilgilere göre,\nI. Light peynirin besin ve mineral içeriklerinin tamamı tam yağlı beyaz peynire göre çok düşük seviyededir.\nII. Tam yağlı beyaz peynirin yağ miktarı, light peynire göre fazladır.\nIII. Tam yağlı beyaz peynirin kemik gelişimi üzerine etkisi light peynire göre daha azdır.\nyorumlarından hangileri yapılabilir?",
+    "gorsel": "img/yb_k_g25.png",
+    "siklar": [
+      "Yalnız I",
+      "Yalnız II",
+      "I ve II",
+      "I ve III",
+      "I, II ve III"
+    ],
+    "cevap": "Yalnız II",
+    "biyologNotu": "Light ürünlerde yağ oranı azaltılırken protein ve kalsiyum gibi mineral değerleri korunabilir; tam yağlı peynirin yağ içeriği daha yüksektir."
+  },
+  {
+    "id": "yb_k_g26",
+    "kaynak": "PDF",
+    "konu": "Yaşam Bilimi Biyoloji",
+    "seviye": "Kolay",
+    "soru": "Bir DNA'nın iki ipliğine ait baz diziliminin bir kısmı verilmiştir.\nBuna göre bu DNA parçası ile ilgili,\nI. Pürin bazlarının sayısı pirimidinlere eşittir.\nII. 3'lü hidrojen bağlarının sayısı 2'li hidrojen bağlarının sayısından fazladır.\nIII. Tek zincirdeki fosfat sayısı, karşı zincirdeki şeker sayısına eşittir.\nifadelerinden hangileri doğrudur?",
+    "gorsel": "img/yb_k_g26.png",
+    "siklar": [
+      "Yalnız I",
+      "Yalnız II",
+      "Yalnız III",
+      "II ve III",
+      "I, II ve III"
+    ],
+    "cevap": "I, II ve III",
+    "biyologNotu": "Çift zincirli DNA'da Pürin=Pirimidin eşitliği her zaman geçerlidir; verilen dizilimde G≡S sayısı A=T sayısından fazladır ve iki zincir eşit nükleotit taşır."
+  },
+  {
+    "id": "yb_k_g27",
+    "kaynak": "PDF",
+    "konu": "Yaşam Bilimi Biyoloji",
+    "seviye": "Kolay",
+    "soru": "Su molekülünün yapısı ile ilgili,\nI. İki H⁺ ve bir O⁻² atomundan oluşur.\nII. Su oluşurken H⁺ ve O⁻² arasında kovalent bağ kurulur.\nIII. İki su molekülü bağlanırken H ve O arasında hidrojen bağı kurulur.\nifadelerinden hangileri doğrudur?",
+    "gorsel": "img/yb_k_g27.png",
+    "siklar": [
+      "Yalnız I",
+      "Yalnız II",
+      "Yalnız III",
+      "I ve II",
+      "I, II ve III"
+    ],
+    "cevap": "I, II ve III",
+    "biyologNotu": "Su molekülü içinde hidrojen ile oksijen atomları polar kovalent bağlarla, farklı su molekülleri ise birbirine zayıf hidrojen bağlarıyla bağlanır."
+  },
+  {
+    "id": "yb_k_g28",
+    "kaynak": "PDF",
+    "konu": "Yaşam Bilimi Biyoloji",
+    "seviye": "Kolay",
+    "soru": "Bitkilerde köklerle alınan su molekülleri yapraklara kadar taşınır. Suyun bu şekilde taşınması kohezyon ve adhezyon kuvveti ile sağlanır.\nBuna göre,\nI. Su ve farklı cins moleküller arasındaki çekim kuvveti adhezyondur.\nII. Şelaleden akan suyun kesintisiz bir sütun oluşturması bu olaya örnektir.\nIII. Kohezyon kuvveti yüzey geriliminin oluşmasını sağlar.\nifadelerinden hangileri doğrudur?",
+    "gorsel": "img/yb_k_g28.png",
+    "siklar": [
+      "Yalnız I",
+      "Yalnız II",
+      "Yalnız III",
+      "I ve II",
+      "I, II ve III"
+    ],
+    "cevap": "I, II ve III",
+    "biyologNotu": "Suyun farklı yüzeylere tutunması adhezyon, kendi molekülleri arasındaki çekimle kopmadan sütun oluşturması ve yüzey gerilimi yaratması kohezyondur."
+  },
+  {
+    "id": "yb_k_g29",
+    "kaynak": "PDF",
+    "konu": "Yaşam Bilimi Biyoloji",
+    "seviye": "Kolay",
+    "soru": "Enzimlerin üzerindeki inhibitörlerin etki mekanizması gösterilmiştir.\nBuna göre;\nI. 1. durumda inhibitör substrat taklidi yaparak enzim ve substratın birleşmesini engeller.\nII. 2. durumda inhibitör enzimin aktif bölgesini değiştirip enzim-substrat uyumunu bozar.\nIII. 1. durum yarışmalı, 2. durum yarışmasız inhibisyona örnektir.\nifadelerinden hangileri doğrudur?",
+    "gorsel": "img/yb_k_g29.png",
+    "siklar": [
+      "Yalnız I",
+      "Yalnız II",
+      "Yalnız III",
+      "I ve II",
+      "I, II ve III"
+    ],
+    "cevap": "I, II ve III",
+    "biyologNotu": "Yarışmalı inhibitörler doğrudan aktif merkeze bağlanırken, yarışmasız inhibitörler enzimin başka bir bölgesine bağlanarak aktif merkezin şeklini bozar."
+  },
+  {
+    "id": "yb_k_g30",
+    "kaynak": "PDF",
+    "konu": "Yaşam Bilimi Biyoloji",
+    "seviye": "Kolay",
+    "soru": "Bir nükleotidin yapı taşları numaralandırılarak verilmiştir.\nBuna göre,\nI. 1 numaralı yapı; ATP, DNA ve RNA'da ortak olarak bulunan pürin bazı olabilir.\nII. 2 numaralı yapı birbirinin izomeri olan glukoz veya deoksiribozdur.\nIII. ATP'de 3 numaralı moleküllerin arasında yüksek enerjili fosfat bağları bulunur.\nifadelerinden hangileri doğrudur?",
+    "gorsel": "img/yb_k_g30.png",
+    "siklar": [
+      "Yalnız III",
+      "I ve II",
+      "I ve III",
+      "II ve III",
+      "I, II ve III"
+    ],
+    "cevap": "I ve III",
+    "biyologNotu": "Adenin bazı (1) ATP, DNA ve RNA'da ortaktır; şeker kısmı (2) 6 karbonlu glukoz değil 5 karbonlu pentozdur (riboz veya deoksiriboz)."
+  },
+  {
+    "id": "yb_k_g31",
+    "kaynak": "PDF",
+    "konu": "Yaşam Bilimi Biyoloji",
+    "seviye": "Kolay",
+    "soru": "Bir canlının hareketine bağlı olarak tükettiği O₂ miktarının zamana bağlı değişimi grafikte verilmiştir.\nBu canlı ile ilgili,\nI. Mitokondri faaliyeti artmıştır.\nII. Hücreleri arası iletişimi artmıştır.\nIII. Çekirdek faaliyetleri artmıştır.\nbilgilerinden hangilerine ulaşılamaz?",
+    "gorsel": "img/yb_k_g31.png",
+    "siklar": [
+      "Yalnız I",
+      "Yalnız III",
+      "I ve II",
+      "II ve III",
+      "I, II ve III"
+    ],
+    "cevap": "I, II ve III",
+    "biyologNotu": "Canlı prokaryot (örneğin oksijenli solunum yapan tek hücreli bir bakteri) olabileceği için mitokondri, çekirdek ve çok hücreli iletişime kesin olarak ulaşılamaz."
+  },
+  {
+    "id": "yb_k_g32",
+    "kaynak": "PDF",
+    "konu": "Yaşam Bilimi Biyoloji",
+    "seviye": "Kolay",
+    "soru": "Bir kimyasal tepkimenin enerji değişim grafiği verilmiştir.\nBuna göre tepkimenin a durumundan b durumuna geçmesine;\nI. daha fazla maddenin reaksiyona girmesi,\nII. enzimlerin görev alması,\nIII. daha az molekülün reaksiyona girmesi\ndurumlarından hangileri neden olmuş olabilir?",
+    "gorsel": "img/yb_k_g32.png",
+    "siklar": [
+      "Yalnız I",
+      "Yalnız II",
+      "I ve II",
+      "II ve III",
+      "I, II ve III"
+    ],
+    "cevap": "Yalnız II",
+    "biyologNotu": "Tepkimenin başlaması için gereken aktivasyon enerjisi engelini düşüren tek biyolojik faktör enzimlerdir; madde miktarı aktivasyon enerjisini değiştirmez."
+  },
+  {
+    "id": "yb_k_g33",
+    "kaynak": "PDF",
+    "konu": "Yaşam Bilimi Biyoloji",
+    "seviye": "Kolay",
+    "soru": "ATP'nin moleküler yapısı verilmiştir.\nBuna göre \"?\" ile gösterilen yapı aşağıdakilerden hangisidir?",
+    "gorsel": "img/yb_k_g33.png",
+    "siklar": [
+      "AMP",
+      "Nükleotit",
+      "Adenin",
+      "Adenozin",
+      "ADP"
+    ],
+    "cevap": "Adenozin",
+    "biyologNotu": "Adenin azotlu organik bazı ile 5 karbonlu riboz şekerinin glikozit bağıyla birleşerek oluşturduğu yapıya Adenozin denir."
+  },
+  {
+    "id": "yb_k_g34",
+    "kaynak": "PDF",
+    "konu": "Yaşam Bilimi Biyoloji",
+    "seviye": "Kolay",
+    "soru": "Canlıların yapısında bulunan organik maddelerin bir hücredeki yaklaşık oranları grafikte verilmiştir.\nBu verilere göre,\nI. Hücrede en fazla bulunan organik molekül çeşidi proteindir.\nII. Hücre içinde grafikte yer alanların dışında başka organik molekül yoktur.\nIII. Farklı hücrelerde farklı oranlarda lipit ya da protein bulunamaz.\nyargılarından hangileri doğrudur?",
+    "gorsel": "img/yb_k_g34.png",
+    "siklar": [
+      "Yalnız I",
+      "Yalnız II",
+      "I ve III",
+      "II ve III",
+      "I, II ve III"
+    ],
+    "cevap": "Yalnız I",
+    "biyologNotu": "Hücre yapısına en yüksek oranda katılan organik molekül grubu proteinlerdir; farklı dokulardaki hücrelerin organik madde oranları ise birbirinden farklı olabilir."
   }
 ]
+
