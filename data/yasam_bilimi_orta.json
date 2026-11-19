@@ -1,0 +1,1058 @@
+[
+  {
+    "id": "yb_o_01",
+    "kaynak": "Dr. Biyoloji",
+    "konu": "Yaşam Bilimi Biyoloji",
+    "seviye": "Orta",
+    "soru": "I. n (amino asit) → Protein + (n-1)H₂O\nII. CO₂ + H₂O → Glukoz + O₂\nIII. ATP → ADP + Pi\nIV. Glukoz + O₂ → CO₂ + H₂O + ATP\nYukarıda verilen metabolik reaksiyonlardan hangileri tüm canlılarda ortak olarak görülür?",
+    "siklar": [
+      "Yalnız I",
+      "Yalnız III",
+      "I ve II",
+      "I ve III",
+      "I, III ve IV"
+    ],
+    "cevap": "I ve III",
+    "biyologNotu": "Tüm canlılar ribozomlarında protein sentezi (I) ve yaşamsal faaliyetleri için ATP hidrolizi (III) gerçekleştirir; fotosentez ve oksijenli solunum ortak değildir."
+  },
+  {
+    "id": "yb_o_02",
+    "kaynak": "Dr. Biyoloji",
+    "konu": "Yaşam Bilimi Biyoloji",
+    "seviye": "Orta",
+    "soru": "Canlılarda bulunan temel bileşenler inorganik ve organik olmak üzere iki başlıkta incelenir.\nBuna göre;\nI. tepkimeleri hızlandıran biyolojik katalizörlerin yapısına katılma,\nII. bitkiler tarafından sentezlenebilme,\nIII. hücre zarından direkt geçebilme,\nIV. hücresel solunumda yıkıldığında enerji vermeme\nözelliklerinden hangileri, mineralleri sudan ayıran özelliklerdendir?",
+    "siklar": [
+      "Yalnız I",
+      "Yalnız II",
+      "I ve II",
+      "I ve IV",
+      "II, III ve IV"
+    ],
+    "cevap": "Yalnız I",
+    "biyologNotu": "Mineraller bileşik enzimlerin yapısına kofaktör olarak katılırken su enzim yapısına katılmaz; ikisi de inorganiktir, sentezlenemez, enerji vermez ve zardan direkt geçer."
+  },
+  {
+    "id": "yb_o_03",
+    "kaynak": "Dr. Biyoloji",
+    "konu": "Yaşam Bilimi Biyoloji",
+    "seviye": "Orta",
+    "soru": "Laktoz + H₂O —(X)→ Glukoz + Galaktoz\nn(Glukoz) —(Y)→ Glikojen + (n-1)H₂O\nYukarıda verilen tepkimeler ile ilgili,\nI. X hidroliz tepkimesi, Y ise dehidrasyon tepkimesidir.\nII. Glikozit bağı X tepkimesinde yıkılırken Y tepkimesinde kurulur.\nIII. X tepkimesinde ATP açığa çıkarken Y tepkimesinde ATP harcanır.\nifadelerinden hangileri doğrudur?",
+    "siklar": [
+      "Yalnız I",
+      "Yalnız II",
+      "Yalnız III",
+      "I ve II",
+      "I, II ve III"
+    ],
+    "cevap": "I ve II",
+    "biyologNotu": "X su kullanılarak yapılan bir hidroliz tepkimesidir ve ATP üretilmez; Y ise su açığa çıkaran ve ATP harcanan bir dehidrasyon sentezidir."
+  },
+  {
+    "id": "yb_o_04",
+    "kaynak": "Dr. Biyoloji",
+    "konu": "Yaşam Bilimi Biyoloji",
+    "seviye": "Orta",
+    "soru": "Bitki ve hayvan hücrelerinde gerçekleşen polisakkarit sentezi ile ilgili,\nI. Glukozun fazlası hayvan hücrelerinde glikojen olarak, bitki hücrelerinde ise selüloz olarak depolanır.\nII. Polisakkaritlerin yapısında monomer olarak glukoz bulunur.\nIII. Kullanılan monomer sayısı kadar glikozit bağı kurulur.\nyargılarından hangileri doğrudur?",
+    "siklar": [
+      "Yalnız I",
+      "Yalnız II",
+      "Yalnız III",
+      "I ve II",
+      "II ve III"
+    ],
+    "cevap": "Yalnız II",
+    "biyologNotu": "Bitkilerde depo polisakkariti nişastadır (selüloz yapısaldır) ve n monomer birleştiğinde n-1 glikozit bağı kurulur."
+  },
+  {
+    "id": "yb_o_05",
+    "kaynak": "Dr. Biyoloji",
+    "konu": "Yaşam Bilimi Biyoloji",
+    "seviye": "Orta",
+    "soru": "Bir insanın yediği proteinleri kullanarak kendine özgü protein sentezleme sürecinde;\nI. peptit bağlarının kopartılması,\nII. proteinleri sindiren enzim salgılanması,\nIII. amino asitler arasında peptit bağı kurulması,\nIV. kendine özgü amino asit sentezlenmesi\nolaylarından hangileri gerçekleşir?",
+    "siklar": [
+      "Yalnız II",
+      "I ve III",
+      "II ve IV",
+      "III ve IV",
+      "I, II ve III"
+    ],
+    "cevap": "I, II ve III",
+    "biyologNotu": "Besinle alınan proteinler sindirim enzimleriyle peptit bağları koparılarak amino asitlere ayrılır ve hücre içinde yeniden peptit bağı kurularak özgün protein sentezlenir."
+  },
+  {
+    "id": "yb_o_06",
+    "kaynak": "Dr. Biyoloji",
+    "konu": "Yaşam Bilimi Biyoloji",
+    "seviye": "Orta",
+    "soru": "Enzimlerin çalışmasını etkileyen faktörlerden biri de inhibitör maddelerdir. Bazı inhibitörler enzimin aktif merkezine bağlanmak için substrat ile rekabete girer.\nBuna göre reaksiyonun devam etmesi için;\nI. enzim konsantrasyonunu azaltma,\nII. reaksiyona su ilave etme,\nIII. substrat konsantrasyonunu artırma\nuygulamalarından hangileri yapılabilir?",
+    "siklar": [
+      "Yalnız I",
+      "Yalnız II",
+      "Yalnız III",
+      "I ve III",
+      "I, II ve III"
+    ],
+    "cevap": "Yalnız III",
+    "biyologNotu": "Yarışmalı (rekabetçi) inhibitörlerin etkisini kırmak için ortama daha fazla substrat eklenerek enzimin substratla karşılaşma olasılığı artırılır."
+  },
+  {
+    "id": "yb_o_07",
+    "kaynak": "Dr. Biyoloji",
+    "konu": "Yaşam Bilimi Biyoloji",
+    "seviye": "Orta",
+    "soru": "Bir hücrede bulunan DNA molekülüyle ilgili,\nI. (A + G) / (T + S)\nII. Toplam nükleotit sayısı / Toplam baz sayısı\nIII. Pürin bazı sayısı / Toplam pentoz sayısı\ndeğerlerinden hangilerinin bütün canlılarda aynı olması beklenir?",
+    "siklar": [
+      "Yalnız I",
+      "Yalnız II",
+      "I ve II",
+      "I ve III",
+      "I, II ve III"
+    ],
+    "cevap": "I, II ve III",
+    "biyologNotu": "Çift zincirli DNA moleküllerinde I ve II oranları her zaman 1'e, pürin bazlarının toplam şeker sayısına oranı (III) ise her zaman 1/2'ye eşittir."
+  },
+  {
+    "id": "yb_o_08",
+    "kaynak": "Dr. Biyoloji",
+    "konu": "Yaşam Bilimi Biyoloji",
+    "seviye": "Orta",
+    "soru": "ATP + H₂O ⇌ (a: sağa / b: sola) ADP + P + Enerji + Isı\nYukarıda ATP molekülünün oluşum ve yıkım tepkimeleri verilmiştir.\nBuna göre,\nI. Tepkimenin a yönü egzergoniktir.\nII. Tepkimenin b yönünde hücrenin osmotik basıncı azalır.\nIII. a ve b aynı enzimle katalizlenir.\nIV. a hücre içinde, b ise hücre dışında gerçekleşen reaksiyonlardır.\nifadelerinden hangileri doğrudur?",
+    "siklar": [
+      "Yalnız I",
+      "Yalnız II",
+      "I ve II",
+      "I, II ve III",
+      "I, II ve IV"
+    ],
+    "cevap": "I ve II",
+    "biyologNotu": "ATP hidrolizi (a) enerji açığa çıkaran egzergonik bir olaydır; ATP sentezi (b) sırasında su açığa çıktığı için hücrenin ozmotik basıncı azalır."
+  },
+  {
+    "id": "yb_o_09",
+    "kaynak": "Dr. Biyoloji",
+    "konu": "Yaşam Bilimi Biyoloji",
+    "seviye": "Orta",
+    "soru": "Bir ATP ve DNA'nın hidroliz edilmesi sürecinde;\nI. riboz şekeri,\nII. adenin nükleotidi,\nIII. fosfat molekülü,\nIV. guanin organik bazı\nmoleküllerinden hangileri ortak olarak oluşur?",
+    "siklar": [
+      "Yalnız III",
+      "I ve II",
+      "II ve III",
+      "III ve IV",
+      "I, III ve IV"
+    ],
+    "cevap": "Yalnız III",
+    "biyologNotu": "ATP'de riboz, DNA'da deoksiriboz şekeri bulunur ve tam hidrolizde nükleotitler de yapı taşlarına ayrılır; ortak oluşan molekül yalnızca inorganik fosfattır."
+  },
+  {
+    "id": "yb_o_10",
+    "kaynak": "Dr. Biyoloji",
+    "konu": "Yaşam Bilimi Biyoloji",
+    "seviye": "Orta",
+    "soru": "Kıvırcık saçlı olan insanlarda yıkanınca düzleşen saçlar kurudukça tekrar eski hâline döner.\nAnlatılan bu olayın sebebi aşağıdakilerden hangisi ile açıklanabilir?",
+    "siklar": [
+      "Yıkama sırasında kullanılan sabun ve benzeri maddeler saçın yapısını değiştirmiştir.",
+      "Yıkama sırasında saçı oluşturan proteinler su ile parçalanmıştır.",
+      "Suyun sıvı olması saçların nemlenmesini ve yumuşamasını sağlamıştır.",
+      "Yıkama sırasında saçı oluşturan moleküller su alarak kalınlaşmıştır.",
+      "Saçı oluşturan proteinler; suyla temas edince üç boyutlu yapısını kaybetmiş kuruma sırasında su buharlaştıkça eski yapısını kazanmıştır."
+    ],
+    "cevap": "Saçı oluşturan proteinler; suyla temas edince üç boyutlu yapısını kaybetmiş kuruma sırasında su buharlaştıkça eski yapısını kazanmıştır.",
+    "biyologNotu": "Su molekülleri saç keratinindeki zayıf bağları geçici olarak etkileyerek proteinin üç boyutlu kıvrımını değiştirir; su buharlaşınca bağlar yeniden kurulur."
+  },
+  {
+    "id": "yb_o_11",
+    "kaynak": "Dr. Biyoloji",
+    "konu": "Yaşam Bilimi Biyoloji",
+    "seviye": "Orta",
+    "soru": "Aynı türe ait canlıların DNA'ları incelendiğinde;\nI. DNA'larında bulunan baz çeşitleri,\nII. DNA'ların içerdiği 5C'lu şeker çeşidi,\nIII. DNA uzunlukları ve şifreleri,\nIV. pürin bazlarının pirimidin bazlarına oranı\nbilgilerinden hangilerinin aynı olması beklenir?",
+    "siklar": [
+      "I ve III",
+      "I ve IV",
+      "II ve III",
+      "I, II ve IV",
+      "I, III ve IV"
+    ],
+    "cevap": "I, II ve IV",
+    "biyologNotu": "Aynı türün sağlıklı bireylerinde baz çeşitleri (A, T, G, S), şeker çeşidi (deoksiriboz) ve pürin/pirimidin oranı (1) aynıdır; nükleotit dizilimi (şifre) farklılık gösterir."
+  },
+  {
+    "id": "yb_o_12",
+    "kaynak": "Dr. Biyoloji",
+    "konu": "Yaşam Bilimi Biyoloji",
+    "seviye": "Orta",
+    "soru": "Bir kobaya, karbon atomları radyoaktif işaretli nişasta molekülü veriliyor.\nBuna göre işaretli karbon atomuna;\nI. temel yağ asiti,\nII. esansiyel amino asit,\nIII. glukoz,\nIV. laktoz\nmaddelerinden hangilerinde rastlanabilir?",
+    "siklar": [
+      "I ve II",
+      "I ve III",
+      "II ve III",
+      "III ve IV",
+      "I, II, III ve IV"
+    ],
+    "cevap": "III ve IV",
+    "biyologNotu": "Nişasta sindirilince işaretli glukoz oluşur ve memeli canlı glukozdan galaktoz üreterek laktoz sentezleyebilir; ancak temel (esansiyel) yağ asidi ve amino asit sentezleyemez."
+  },
+  {
+    "id": "yb_o_13",
+    "kaynak": "Dr. Biyoloji",
+    "konu": "Yaşam Bilimi Biyoloji",
+    "seviye": "Orta",
+    "soru": "I. Nişasta\nII. Dipeptit\nIII. Sakkaroz\nIV. Fosfolipit\nNumaralanmış organik polimerlerin parçalanması sırasında kullanılan su miktarlarının sıralanışı aşağıdakilerin hangisinde doğru olarak verilmiştir?",
+    "siklar": [
+      "II > III > IV > I",
+      "I > IV > II = III",
+      "II = IV > III > I",
+      "II = III > I > IV",
+      "IV > III > II > I"
+    ],
+    "cevap": "I > IV > II = III",
+    "biyologNotu": "Nişasta çok sayıda bağ (n-1 su), fosfolipit 3 ester bağı (3 su), dipeptit 1 peptit bağı (1 su) ve sakkaroz 1 glikozit bağı (1 su) içerir."
+  },
+  {
+    "id": "yb_o_14",
+    "kaynak": "Dr. Biyoloji",
+    "konu": "Yaşam Bilimi Biyoloji",
+    "seviye": "Orta",
+    "soru": "İnsanda uzun süreli açlık durumunda;\nI. depo yağ,\nII. eşeysel proteinler,\nIII. kandaki glukoz,\nIV. karaciğerdeki glikojen\nmaddelerinin enerji verici olarak kullanım sırası aşağıdakilerden hangisi gibi olabilir?",
+    "siklar": [
+      "I, II, III, IV",
+      "III, I, IV, II",
+      "III, IV, I, II",
+      "III, IV, II, I",
+      "IV, III, I, II"
+    ],
+    "cevap": "III, IV, I, II",
+    "biyologNotu": "Açlıkta önce kandaki hazır glukoz tüketilir, ardından karaciğer glikojeni yıkılır, sonra depo yağlara ve en son yapısal proteinlere geçilir."
+  },
+  {
+    "id": "yb_o_15",
+    "kaynak": "Dr. Biyoloji",
+    "konu": "Yaşam Bilimi Biyoloji",
+    "seviye": "Orta",
+    "soru": "Hücrede işlev gösteren K, L, M enzimleriyle ilgili şu bilgiler verilmiştir:\n- K: pH=2'de en iyi çalışır. Protein monomerleri arasındaki peptit bağlarını parçalar.\n- L: pH=7,4'te en iyi çalışır. Nişastayı parçalar, pH'si 4'ün altında olan ortamlarda denatüre olur.\n- M: pH=8,2'de en iyi çalışır. Yağları yapı taşlarına kadar parçalar. pH'si 5'in altında olan ortamlarda denatüre olur.\nİçinde karbohidrat, yağ ve protein bulunan, pH'si 2,5 olan bir deney tüpüne sırasıyla üç enzim de ilave edilmiş ve tüplerde oluşan moleküller analiz edilmiştir.\nBuna göre deney sonucunda tüplerde;\nI. glukoz,\nII. yağ asidi,\nIII. amino asit\nmoleküllerinden hangileri oluşur?",
+    "siklar": [
+      "Yalnız I",
+      "Yalnız III",
+      "I ve III",
+      "II ve III",
+      "I, II ve III"
+    ],
+    "cevap": "Yalnız III",
+    "biyologNotu": "Tüpün pH değeri 2,5 olduğu için L ve M enzimleri asidik ortamda denatüre olur; yalnızca K enzimi aktif kalarak proteini amino asitlere parçalar."
+  },
+  {
+    "id": "yb_o_16",
+    "kaynak": "Dr. Biyoloji",
+    "konu": "Yaşam Bilimi Biyoloji",
+    "seviye": "Orta",
+    "soru": "Bir bitkiye işaretli CO₂ molekülü verilip izlendiğinde, işaretli karbona önce yapraktaki glukoz ve sükrozun yapısında, daha sonra köklerindeki bir protein molekülünün yapısında rastlanmıştır.\nBuna göre, işaretli CO₂ molekülünün bitki tarafından alınıp glukoz sentezlendikten sonra, işaretli karbonun protein yapısına girebilmesini sağlayan;\nI. amino asit yapımı,\nII. sükrozun sindirimi,\nIII. protein sentezi,\nIV. sükrozun sentezi\nolayları aşağıdakilerin hangisinde verilen sıraya göre gerçekleşmiştir?",
+    "siklar": [
+      "I - II - III - IV",
+      "III - IV - II - I",
+      "III - II - IV - I",
+      "IV - II - I - III",
+      "IV - III - II - I"
+    ],
+    "cevap": "IV - II - I - III",
+    "biyologNotu": "Yapraktaki glukoz sükroza çevrilerek (IV) köke taşınır; kökte sükroz sindirilir (II), oluşan glukozdan amino asit sentezlenir (I) ve protein üretilir (III)."
+  },
+  {
+    "id": "yb_o_17",
+    "kaynak": "Dr. Biyoloji",
+    "konu": "Yaşam Bilimi Biyoloji",
+    "seviye": "Orta",
+    "soru": "Yapısal bir polisakkarit olan kitin ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "siklar": [
+      "Birçok mantarın hücre zarının yapısına katılır.",
+      "Böceklerin dış iskeletlerinde bulunur.",
+      "Kalsiyum karbonat ile birleşince sertleşir.",
+      "Diğer polisakkaritlerden farklı olarak azot içerir.",
+      "Ameliyat ipliği yapımında kullanılır."
+    ],
+    "cevap": "Birçok mantarın hücre zarının yapısına katılır.",
+    "biyologNotu": "Kitin mantarların hücre zarının değil, hücre duvarının (çeperinin) yapısına katılan azotlu bir polisakkarittir."
+  },
+  {
+    "id": "yb_o_18",
+    "kaynak": "Dr. Biyoloji",
+    "konu": "Yaşam Bilimi Biyoloji",
+    "seviye": "Orta",
+    "soru": "Aşağıdakilerden hangisi, hücre içinde çalışan basit enzimlerin reaksiyon hızını doğrudan etkilemez?",
+    "siklar": [
+      "Ortamın sıcaklığı",
+      "İnhibitör konsantrasyonu",
+      "Substrat konsantrasyonu",
+      "Ortamın pH değeri",
+      "Kofaktör miktarı"
+    ],
+    "cevap": "Kofaktör miktarı",
+    "biyologNotu": "Basit enzimler yalnızca proteinden oluşur ve yardımcı kısım (kofaktör/koenzim) bulundurmaz; bu nedenle kofaktör miktarından etkilenmezler."
+  },
+  {
+    "id": "yb_o_19",
+    "kaynak": "Dr. Biyoloji",
+    "konu": "Yaşam Bilimi Biyoloji",
+    "seviye": "Orta",
+    "soru": "mRNA için verilen aşağıdaki ifadelerden hangisi her zaman doğru değildir?",
+    "siklar": [
+      "G/S oranı 1'e eşittir.",
+      "Riboz/Fosfat oranı 1'e eşittir.",
+      "Riboz/Nükleotit oranı 1'e eşittir.",
+      "Fosfat/Nükleotit oranı 1'e eşittir.",
+      "Toplam baz/Toplam şeker oranı 1'e eşittir."
+    ],
+    "cevap": "G/S oranı 1'e eşittir.",
+    "biyologNotu": "mRNA tek zincirli bir nükleik asittir; karşı zincir bulunmadığı için Guanin sayısının Sitozin sayısına eşit olma zorunluluğu yoktur."
+  },
+  {
+    "id": "yb_o_20",
+    "kaynak": "Dr. Biyoloji",
+    "konu": "Yaşam Bilimi Biyoloji",
+    "seviye": "Orta",
+    "soru": "İnsanda, bir deri hücresi çekirdeğinde;\nI. kromatit,\nII. gen,\nIII. nükleozit\nsayılarının çoktan aza doğru sıralaması aşağıdakilerden hangisidir?",
+    "siklar": [
+      "I - II - III",
+      "I - III - II",
+      "II - I - III",
+      "II - III - I",
+      "III - II - I"
+    ],
+    "cevap": "III - II - I",
+    "biyologNotu": "Kromozom ve kromatitler binlerce genden, her gen ise yüzlerce veya binlerce nükleotit/nükleozit biriminden oluşur (Nükleozit > Gen > Kromatit)."
+  },
+  {
+    "id": "yb_o_21",
+    "kaynak": "Dr. Biyoloji",
+    "konu": "Yaşam Bilimi Biyoloji",
+    "seviye": "Orta",
+    "soru": "I. Glikojen\nII. Glikojen ayıracı\nIII. Glikojeni sindiren enzim\nIV. Glukoz\nV. Glukoz ayıracı\n\"Glukoz, glikojenin yapı taşıdır.\" hipotezini kanıtlamak için düzenlenen bir deneyde, yukarıdakilerden hangilerinin birlikte kullanılması gerekir?",
+    "siklar": [
+      "I ve II",
+      "I ve III",
+      "III ve IV",
+      "III ve V",
+      "I, III ve V"
+    ],
+    "cevap": "I, III ve V",
+    "biyologNotu": "Glikojeni sindiren enzimle parçaladıktan sonra ortamda glukoz oluştuğunu göstermek için glukoz ayıracı kullanılır."
+  },
+  {
+    "id": "yb_o_22",
+    "kaynak": "Dr. Biyoloji",
+    "konu": "Yaşam Bilimi Biyoloji",
+    "seviye": "Orta",
+    "soru": "İnsan vücudunda sentezlenen trigliserit (I), tripeptit (II) ve trisakkarit (III) moleküllerinin sentezi sırasında yapı taşları arasında kurulacak bağ sayısı ilişkisi aşağıdaki seçeneklerden hangisinde doğru olarak verilmiştir?",
+    "siklar": [
+      "I > II > III",
+      "I > II = III",
+      "I = II > III",
+      "III > II > I",
+      "I = II = III"
+    ],
+    "cevap": "I > II = III",
+    "biyologNotu": "Trigliserit 1 gliserol + 3 yağ asidinden oluştuğu için 3 ester bağı; tripeptit ve trisakkarit ise 3 monomerden oluştuğu için 2'şer bağ içerir."
+  },
+  {
+    "id": "yb_o_23",
+    "kaynak": "Dr. Biyoloji",
+    "konu": "Yaşam Bilimi Biyoloji",
+    "seviye": "Orta",
+    "soru": "Bir bileşik enzimin hidrolizi sırasında;\nI. azotlu monomerler,\nII. mineral,\nIII. vitamin\nmoleküllerinden hangilerinin kesinlikle meydana geldiği söylenir?",
+    "siklar": [
+      "Yalnız I",
+      "I ve II",
+      "I ve III",
+      "II ve III",
+      "I, II ve III"
+    ],
+    "cevap": "Yalnız I",
+    "biyologNotu": "Bileşik enzimlerin protein kısmı (apoenzim) hidroliz edildiğinde kesinlikle azotlu monomerler (amino asitler) oluşur; yardımcı kısım vitamin veya mineral olabilir."
+  },
+  {
+    "id": "yb_o_24",
+    "kaynak": "Dr. Biyoloji",
+    "konu": "Yaşam Bilimi Biyoloji",
+    "seviye": "Orta",
+    "soru": "Bir DNA molekülü için aşağıdaki matematiksel ifadelerden hangisinin cevabı her zaman 1'e eşit değildir?",
+    "siklar": [
+      "A / T",
+      "(A + G) / (T + S)",
+      "Deoksiriboz / Fosfat",
+      "(A + S) / (T + G)",
+      "(A + T) / (G + S)"
+    ],
+    "cevap": "(A + T) / (G + S)",
+    "biyologNotu": "Çift zincirli DNA'da A=T ve G=S olduğu için ilk dört oran her zaman 1'dir; ancak (A+T)/(G+S) oranı türe özgüdür ve değişkendir."
+  },
+  {
+    "id": "yb_o_25",
+    "kaynak": "Dr. Biyoloji",
+    "konu": "Yaşam Bilimi Biyoloji",
+    "seviye": "Orta",
+    "soru": "Radyoaktif işaretli kükürt içeren bir ortamda çoğaltılan bakterilerden elde edilen;\nI. RNA,\nII. polisakkarit,\nIII. polipeptit\nmoleküllerinden hangilerinde işaretli kükürt bulunması beklenir?",
+    "siklar": [
+      "Yalnız I",
+      "Yalnız II",
+      "Yalnız III",
+      "I ve II",
+      "II ve III"
+    ],
+    "cevap": "Yalnız III",
+    "biyologNotu": "Kükürt (S) atomu karbonhidrat ve nükleik asitlerin yapısında bulunmaz; bazı amino asitlerin radikal grubunda yer aldığı için polipeptitlerde görülür."
+  },
+  {
+    "id": "yb_o_26",
+    "kaynak": "Dr. Biyoloji",
+    "konu": "Yaşam Bilimi Biyoloji",
+    "seviye": "Orta",
+    "soru": "I. DNA molekülünden gelen şifre ile sentezlenme\nII. Polimer yapıda olma\nIII. Yapı birimleri arasında kimyasal bağ oluşturma\nYukarıda verilen özelliklerden hangileri protein, glikojen ve nötral yağlar için ortaktır?",
+    "siklar": [
+      "Yalnız I",
+      "Yalnız II",
+      "Yalnız III",
+      "I ve II",
+      "I, II ve III"
+    ],
+    "cevap": "Yalnız III",
+    "biyologNotu": "Her üç molekül de yapı birimleri arasında kovalent bağ (peptit, glikozit, ester) kurularak sentezlenir; nötral yağlar polimer değildir ve yalnızca proteinler DNA şifresiyle üretilir."
+  },
+  {
+    "id": "yb_o_27",
+    "kaynak": "Dr. Biyoloji",
+    "konu": "Yaşam Bilimi Biyoloji",
+    "seviye": "Orta",
+    "soru": "Eşit sayıda nükleotit içeren beş DNA molekülünden hangisinin sağlamlığı diğerlerinden daha fazladır?",
+    "siklar": [
+      "100 Adenin içerenin",
+      "200 Adenin içerenin",
+      "300 Timin içerenin",
+      "400 Timin içerenin",
+      "500 Adenin içerenin"
+    ],
+    "cevap": "100 Adenin içerenin",
+    "biyologNotu": "Nükleotit sayısı eşit olan DNA'larda Adenin/Timin sayısı ne kadar azsa, üçlü hidrojen bağı kuran Guanin/Sitozin sayısı o kadar fazladır ve DNA daha sağlamdır."
+  },
+  {
+    "id": "yb_o_28",
+    "kaynak": "Dr. Biyoloji",
+    "konu": "Yaşam Bilimi Biyoloji",
+    "seviye": "Orta",
+    "soru": "Bir DNA molekülünün tek zincirinde 502 adenin, 860 sitozin, 440 guanin, 326 timin nükleotidi bulunmaktadır.\nBu DNA molekülündeki pürin nükleotitlerinin toplam şeker sayısına oranı aşağıdakilerden hangisidir?",
+    "siklar": [
+      "%25",
+      "%50",
+      "%75",
+      "%90",
+      "%100"
+    ],
+    "cevap": "%50",
+    "biyologNotu": "Çift zincirli DNA moleküllerinde nükleotitlerin yarısı pürin, yarısı pirimidin bazlıdır; bu nedenle pürinlerin toplam şeker (nükleotit) sayısına oranı daima %50'dir."
+  },
+  {
+    "id": "yb_o_29",
+    "kaynak": "Dr. Biyoloji",
+    "konu": "Yaşam Bilimi Biyoloji",
+    "seviye": "Orta",
+    "soru": "Aşağıdakilerden hangisi DNA ve RNA moleküllerinin ortak özelliklerinden biri değildir?",
+    "siklar": [
+      "5C'lu şeker içerme",
+      "Nükleotit polimeri olma",
+      "Çekirdek içinde bulunabilme",
+      "Pürin bazlar içerme",
+      "Transkripsiyonla sentezlenme"
+    ],
+    "cevap": "Transkripsiyonla sentezlenme",
+    "biyologNotu": "RNA molekülleri DNA üzerinden transkripsiyon (yazılma) ile sentezlenirken, DNA molekülü replikasyon (eşlenme) ile sentezlenir."
+  },
+  {
+    "id": "yb_o_30",
+    "kaynak": "Dr. Biyoloji",
+    "konu": "Yaşam Bilimi Biyoloji",
+    "seviye": "Orta",
+    "soru": "Aşağıdaki RNA türlerinden hangisinin yapısında hidrojen bağı bulunabilir?",
+    "siklar": [
+      "tRNA",
+      "rRNA ve tRNA",
+      "tRNA ve mRNA",
+      "mRNA",
+      "mRNA ve tRNA"
+    ],
+    "cevap": "rRNA ve tRNA",
+    "biyologNotu": "mRNA düz zincirli olduğu için hidrojen bağı içermez; rRNA ve tRNA ise kendi üzerine katlanmalar yaptığı için bazları arasında zayıf hidrojen bağları bulundurur."
+  },
+  {
+    "id": "yb_o_31",
+    "kaynak": "Dr. Biyoloji",
+    "konu": "Yaşam Bilimi Biyoloji",
+    "seviye": "Orta",
+    "soru": "Yapısında 240 tane karbon bulunduğu bilinen bir nişasta ile ilgili,\nI. Sentezi sırasında 39 molekül su oluşur.\nII. Yapısında 20 tane früktoz bulunur.\nIII. Yapısında 40 tane glukoz bulunur.\nIV. 239 tane glikozit bağı içerir.\nyargılarından hangileri söylenebilir?",
+    "siklar": [
+      "Yalnız III",
+      "I ve III",
+      "III ve IV",
+      "I, II ve IV",
+      "II, III ve IV"
+    ],
+    "cevap": "I ve III",
+    "biyologNotu": "Bir glukoz 6 karbonlu olduğundan 240 karbonlu nişastada 40 glukoz bulunur (III) ve 40 glukoz birleşirken 39 molekül su açığa çıkar (I)."
+  },
+  {
+    "id": "yb_o_32",
+    "kaynak": "Palme Yayınları",
+    "konu": "Yaşam Bilimi Biyoloji",
+    "seviye": "Orta",
+    "soru": "İnsanlarda gerçekleşen metabolik faaliyetler sonucunda aşağıdaki moleküllerden hangisi üretilemez?",
+    "siklar": [
+      "Karbondioksit",
+      "Amonyak",
+      "Adenozintrifosfat",
+      "Selüloz",
+      "Fosfolipit"
+    ],
+    "cevap": "Selüloz",
+    "biyologNotu": "Selüloz bitkilere özgü yapısal bir polisakkarittir; insan hücreleri selüloz sentezleyemez ve sindiremez."
+  },
+  {
+    "id": "yb_o_33",
+    "kaynak": "Palme Yayınları",
+    "konu": "Yaşam Bilimi Biyoloji",
+    "seviye": "Orta",
+    "soru": "Aşağıdakilerden hangisi metabolik bir olay değildir?",
+    "siklar": [
+      "Mitoz bölünme sonucu iki hücrenin oluşması",
+      "Glikoz molekülünün hücre zarından difüzyonla geçmesi",
+      "Yağların hidrolizi sonucu gliserol ve yağ asidi oluşumu",
+      "Ribozomda farklı amino asitler arasında peptit bağlarının kurulması",
+      "Prokaryot hücrelerin fotosentez ile besin üretmesi"
+    ],
+    "cevap": "Glikoz molekülünün hücre zarından difüzyonla geçmesi",
+    "biyologNotu": "Difüzyon moleküllerin kendi kinetik enerjisiyle gerçekleşen fiziksel bir pasif taşıma olayıdır; yapım veya yıkım içeren biyokimyasal bir tepkime değildir."
+  },
+  {
+    "id": "yb_o_34",
+    "kaynak": "Palme Yayınları",
+    "konu": "Yaşam Bilimi Biyoloji",
+    "seviye": "Orta",
+    "soru": "Bir insanın bazal metabolizma hızı ölçülürken,\nI. bireyin tam dinlenme halinde olması,\nII. en son aldığı besinin kalori miktarı,\nIII. ortamın oda sıcaklığında olması,\nIV. birim zamanda tüketilen oksijen miktarının belirlenmesi\nözelliklerinden hangileri dikkate alınmalıdır?",
+    "siklar": [
+      "I ve III",
+      "II ve IV",
+      "I, III ve IV",
+      "II, III ve IV",
+      "I, II, III ve IV"
+    ],
+    "cevap": "I, III ve IV",
+    "biyologNotu": "Bazal metabolizma ölçümü yemekten 12 saat sonra, tam dinlenme halinde ve oda sıcaklığında birim zamanda tüketilen O₂ (veya üretilen CO₂) ölçülerek yapılır."
+  },
+  {
+    "id": "yb_o_35",
+    "kaynak": "Palme Yayınları",
+    "konu": "Yaşam Bilimi Biyoloji",
+    "seviye": "Orta",
+    "soru": "Formülü C₆H₁₂O₆ olan on molekül glikozun dehidrasyon tepkimeleri ile birleşerek oluşturduğu polimerin molekül formülü aşağıdakilerden hangisinde verilmiştir?",
+    "siklar": [
+      "C₆₀H₁₀₂O₅₁",
+      "C₆₀H₁₀₀O₅₀",
+      "C₆₀H₁₂₀O₆₀",
+      "C₆₀H₁₀₁O₅₁",
+      "C₆₀H₁₁₀O₅₀"
+    ],
+    "cevap": "C₆₀H₁₀₂O₅₁",
+    "biyologNotu": "10 glukoz (C₆₀H₁₂₀O₆₀) birleşirken 9 molekül su (H₁₈O₉) açığa çıkar; atom sayıları çıkarıldığında C₆₀H₁₀₂O₅₁ formülü elde edilir."
+  },
+  {
+    "id": "yb_o_36",
+    "kaynak": "Palme Yayınları",
+    "konu": "Yaşam Bilimi Biyoloji",
+    "seviye": "Orta",
+    "soru": "Bir lipit çeşidi olan steroitler ile ilgili aşağıdaki ifadelerden hangisi doğru değildir?",
+    "siklar": [
+      "Östrojen ve testosteron gibi eşeysel hormonların yapısına katılır.",
+      "İnsanların hücrelerinde D vitaminine dönüşür.",
+      "Hayvansal hücrelerin zarında çift sıralı olarak bulunur.",
+      "Yapısında karbon, hidrojen ve oksijen atomları bulunur.",
+      "Hücre zarının geçirgenliğini ve dayanıklılığını artırır."
+    ],
+    "cevap": "Hayvansal hücrelerin zarında çift sıralı olarak bulunur.",
+    "biyologNotu": "Hücre zarında çift sıralı tabaka oluşturan moleküller steroitler değil fosfolipitlerdir; kolesterol (steroit) fosfolipitlerin arasına yerleşir."
+  },
+  {
+    "id": "yb_o_37",
+    "kaynak": "Palme Yayınları",
+    "konu": "Yaşam Bilimi Biyoloji",
+    "seviye": "Orta",
+    "soru": "Memeli canlılar aldıkları besinlerin fazlasını yağ olarak depolarlar.\nBu duruma yağların,\nI. ısı yalıtımını sağlaması,\nII. içerdiği enerji miktarının fazla olması,\nIII. solunumla parçalanmaları için daha fazla oksijene ihtiyaç duyulması,\nIV. yoğunluğunun az olması\nözelliklerinden hangilerine sahip olması etki eder?",
+    "siklar": [
+      "I ve III",
+      "II ve IV",
+      "I, II ve IV",
+      "I, III ve IV",
+      "II, III ve IV"
+    ],
+    "cevap": "I, II ve IV",
+    "biyologNotu": "Yağlar birim kütlede en yüksek enerjiyi vermesi, hafif olması (düşük yoğunluk) ve ısı yalıtımı sağlaması nedeniyle canlılar için en verimli depo besinidir."
+  },
+  {
+    "id": "yb_o_38",
+    "kaynak": "Palme Yayınları",
+    "konu": "Yaşam Bilimi Biyoloji",
+    "seviye": "Orta",
+    "soru": "Bileşik enzimler ile ilgili aşağıdaki ifadelerden hangisi doğru değildir?",
+    "siklar": [
+      "Apoenzim kısmı peptit bağı içerir.",
+      "Yardımcı kısım organik ya da inorganik yapıda olabilir.",
+      "Koenzim çeşidi sayısı, apoenzim çeşidi sayısından çoktur.",
+      "Yardımcı kısmı kofaktör olarak adlandırılır.",
+      "Bir apoenzim sadece bir çeşit koenzimle çalışabilir."
+    ],
+    "cevap": "Koenzim çeşidi sayısı, apoenzim çeşidi sayısından çoktur.",
+    "biyologNotu": "Canlılarda protein yapılı apoenzim çeşidi sayısı, yardımcı grup olarak kullanılan koenzim veya kofaktör çeşidi sayısından çok daha fazladır."
+  },
+  {
+    "id": "yb_o_39",
+    "kaynak": "Palme Yayınları",
+    "konu": "Yaşam Bilimi Biyoloji",
+    "seviye": "Orta",
+    "soru": "Enzimatik bir reaksiyon ile ilgili aşağıdaki değişikliklerden hangisi tepkime hızını diğerlerinden farklı olarak etkiler?",
+    "siklar": [
+      "Yeterli enzim varlığında substrat ilavesi",
+      "Ortama aktivatör madde eklenmesi",
+      "Biriken son ürünlerin uzaklaştırılması",
+      "Ortamdaki su yoğunluğunun %15'in üzerine çıkarılması",
+      "Optimum olan sıcaklığın yükseltilmesi"
+    ],
+    "cevap": "Optimum olan sıcaklığın yükseltilmesi",
+    "biyologNotu": "Diğer seçenekler tepkime hızını artırırken, enzimin en iyi çalıştığı optimum sıcaklığın üzerine çıkılması protein yapıyı bozarak tepkime hızını düşürür."
+  },
+  {
+    "id": "yb_o_40",
+    "kaynak": "Palme Yayınları",
+    "konu": "Yaşam Bilimi Biyoloji",
+    "seviye": "Orta",
+    "soru": "Karbon atomu radyoaktif işaretli nişasta ile beslenen bir kobayda bulunan aşağıdaki moleküllerden hangisinde radyoaktif işaretli karbon atomlarına rastlanamaz?",
+    "siklar": [
+      "Temel amino asit",
+      "Doymuş yağ asidi",
+      "Glikojen",
+      "Karbondioksit",
+      "Fosfolipit"
+    ],
+    "cevap": "Temel amino asit",
+    "biyologNotu": "Hayvan hücreleri glukoz karbonlarını dönüşüm tepkimeleriyle temel (esansiyel) amino asitlere çeviremez; bunları dışarıdan hazır almak zorundadır."
+  },
+  {
+    "id": "yb_o_41",
+    "kaynak": "Palme Yayınları",
+    "konu": "Yaşam Bilimi Biyoloji",
+    "seviye": "Orta",
+    "soru": "100 molekül glikoz kullanılarak üretilen maltoz ve nişasta moleküllerinin,\nI. kütleleri,\nII. içerdikleri bağ çeşitleri,\nIII. üretimlerinde açığa çıkan su miktarları\nniceliklerinden hangilerinin farklı olması beklenir?",
+    "siklar": [
+      "Yalnız I",
+      "Yalnız II",
+      "I ve II",
+      "I ve III",
+      "II ve III"
+    ],
+    "cevap": "I ve III",
+    "biyologNotu": "100 glukozdan 50 maltoz üretilirken 50 su, 1 nişasta üretilirken 99 su açığa çıkar (III); çıkan su miktarları farklı olduğu için toplam kütleleri de farklıdır (I)."
+  },
+  {
+    "id": "yb_o_42",
+    "kaynak": "Palme Yayınları",
+    "konu": "Yaşam Bilimi Biyoloji",
+    "seviye": "Orta",
+    "soru": "Bir karaciğer hücresinde üretilen,\nI. karbondioksit,\nII. ATP,\nIII. glikojen,\nIV. su\nmoleküllerinden hangileri diğer karaciğer hücrelerine geçemez?",
+    "siklar": [
+      "I ve II",
+      "I ve III",
+      "II ve III",
+      "II ve IV",
+      "III ve IV"
+    ],
+    "cevap": "II ve III",
+    "biyologNotu": "ATP hücre dışına çıkamaz, glikojen ise büyük bir polimer olduğu için hücre zarından geçemez; her hücre bunları kendisi sentezler."
+  },
+  {
+    "id": "yb_o_43",
+    "kaynak": "Palme Yayınları",
+    "konu": "Yaşam Bilimi Biyoloji",
+    "seviye": "Orta",
+    "soru": "Lökoplast taşıyan bir organizma aşağıdaki faaliyetlerden hangisini gerçekleştiremez?",
+    "siklar": [
+      "Boğumlanarak bölünme",
+      "Mitoz bölünme",
+      "Ribozomlarında protein sentezleme",
+      "Glikozu nişasta şeklinde depolama",
+      "Mitokondrilerinde ATP sentezleme"
+    ],
+    "cevap": "Boğumlanarak bölünme",
+    "biyologNotu": "Lökoplast bulunduran canlı bitkidir; bitki hücreleri hücre çeperine sahip oldukları için sitokinezi boğumlanarak değil ara lamel (orta plak) oluşumuyla gerçekleştirir."
+  },
+  {
+    "id": "yb_o_44",
+    "kaynak": "Palme Yayınları",
+    "konu": "Yaşam Bilimi Biyoloji",
+    "seviye": "Orta",
+    "soru": "Aşağıdaki olaylardan hangisi lizozom organelinin işlevlerinden biri değildir?",
+    "siklar": [
+      "Yaşlı hücrelerin ortadan kaldırılması",
+      "Endositozla alınan besinlerin sindirilmesi",
+      "Hasar görmüş hücre içi yapılarının sindirilmesi",
+      "Hücrenin kendi kendini sindirmesi",
+      "Sindirim enzimlerinin üretilmesi"
+    ],
+    "cevap": "Sindirim enzimlerinin üretilmesi",
+    "biyologNotu": "Lizozom sindirim enzimlerini üretmez; enzimler ribozomlarda sentezlenir, endoplazmik retikulumla taşınır ve Golgi cisimciğinde paketlenerek lizozom oluşturulur."
+  },
+  {
+    "id": "yb_o_45",
+    "kaynak": "Palme Yayınları",
+    "konu": "Yaşam Bilimi Biyoloji",
+    "seviye": "Orta",
+    "soru": "Bir hücrenin bir maddeyi aktif taşıma ile hücre içine alamaması,\nI. maddenin dış ortamda az yoğun olması,\nII. hücre zarındaki enzimlerin işlev görmemesi,\nIII. hücrenin ATP üretememesi\nfaktörlerinden hangilerine bağlı değildir?",
+    "siklar": [
+      "Yalnız I",
+      "Yalnız III",
+      "I ve II",
+      "I ve III",
+      "II ve III"
+    ],
+    "cevap": "Yalnız I",
+    "biyologNotu": "Aktif taşıma zaten maddeleri az yoğun oldukları ortamdan çok yoğun oldukları ortama taşımak için yapılır; bu nedenle dış ortamın az yoğun olması engel değildir."
+  },
+  {
+    "id": "yb_o_46",
+    "kaynak": "Palme Yayınları",
+    "konu": "Yaşam Bilimi Biyoloji",
+    "seviye": "Orta",
+    "soru": "Tatlı su ortamında yaşamaya adapte olmuş bir paramesyum,\nI. fazla suyun dışarı atılması,\nII. NH₃ hücreden uzaklaştırılması,\nIII. CO₂ atılması,\nIV. protein sentezi\nolaylarından hangilerini gerçekleştirirken mitokondri faaliyetine ihtiyaç duyar?",
+    "siklar": [
+      "I ve II",
+      "I ve IV",
+      "II ve III",
+      "II ve IV",
+      "III ve IV"
+    ],
+    "cevap": "I ve IV",
+    "biyologNotu": "Kontraktil kofulla fazla suyun pompalanması (I) ve protein sentezi (IV) ATP gerektirir; NH₃ ve CO₂ gazları ise difüzyonla atıldığı için enerji harcanmaz."
+  },
+  {
+    "id": "yb_o_47",
+    "kaynak": "Palme Yayınları",
+    "konu": "Yaşam Bilimi Biyoloji",
+    "seviye": "Orta",
+    "soru": "Başlangıçta çevresi ile osmotik denge halinde bulunan bir bitki hücresi, depo ettiği nişastayı hidrolizle yıkmaya başladığında,\nI. hücre yoğunluğunda artma,\nII. hücrenin emme kuvvetinde azalma,\nIII. hücrenin turgor basıncında artma\ndurumlarından hangileri gözlenir?",
+    "siklar": [
+      "Yalnız I",
+      "Yalnız II",
+      "Yalnız III",
+      "I ve III",
+      "II ve III"
+    ],
+    "cevap": "Yalnız I",
+    "biyologNotu": "Nişasta hidrolizi sırasında hücredeki su harcanır ve çözünmüş glukoz miktarı artar; bu durum hücre yoğunluğunu ve ozmotik basıncı artırır."
+  },
+  {
+    "id": "yb_o_48",
+    "kaynak": "Palme Yayınları",
+    "konu": "Yaşam Bilimi Biyoloji",
+    "seviye": "Orta",
+    "soru": "Bir molekülün basit difüzyon ile hücre içine alınamaması,\nI. molekülün hücre içindeki yoğunluğunun yüksek olması,\nII. molekülün hücre zarından geçemeyecek kadar büyük olması,\nIII. hücrede yeterince ATP sentezlenmemesi\ndurumlarından hangileri ile açıklanabilir?",
+    "siklar": [
+      "Yalnız I",
+      "I ve II",
+      "I ve III",
+      "II ve III",
+      "I, II ve III"
+    ],
+    "cevap": "I ve II",
+    "biyologNotu": "Basit difüzyon yalnızca küçük moleküllerin çok yoğun ortamdan az yoğun ortama geçişini sağlar ve ATP harcanmaz."
+  },
+  {
+    "id": "yb_o_49",
+    "kaynak": "Palme Yayınları",
+    "konu": "Yaşam Bilimi Biyoloji",
+    "seviye": "Orta",
+    "soru": "Bir hücrenin bakteri, mantar veya bitki hücresi olup olmadığına karar vermede aşağıdakilerden hangisinin saptanması yeterlidir?",
+    "siklar": [
+      "Mitokondri organelinin varlığının",
+      "Hücre duvarının kimyasal içeriğinin",
+      "Çekirdek varlığının",
+      "Ribozomun varlığının",
+      "Depo polisakkarit çeşidinin"
+    ],
+    "cevap": "Hücre duvarının kimyasal içeriğinin",
+    "biyologNotu": "Hücre duvarı bakterilerde peptidoglikan, mantarlarda kitin, bitkilerde ise selüloz yapılı olduğu için kimyasal içerik üç grubu kesin olarak ayırır."
+  },
+  {
+    "id": "yb_o_50",
+    "kaynak": "Palme Yayınları",
+    "konu": "Yaşam Bilimi Biyoloji",
+    "seviye": "Orta",
+    "soru": "Hücre sitoplazmasıyla eşit yoğunluk ve hacimdeki ortamda (izotonik ortam) bulunan bir hayvan hücresiyle ilgili,\nI. Hücrenin turgor basıncı artar.\nII. Hücre zarı ile ortam arasında madde alış verişi gerçekleşmez.\nIII. Hücre içinin madde ve su yoğunluğu değişmez.\nIV. Su molekülleri, hücre zarı ile ortam arasında eşit büyüklükteki hızda geçiş yapar.\nifadelerinden hangileri doğrudur?",
+    "siklar": [
+      "I ve II",
+      "I ve IV",
+      "II ve III",
+      "II ve IV",
+      "III ve IV"
+    ],
+    "cevap": "III ve IV",
+    "biyologNotu": "İzotonik ortamda madde ve su alışverişi durmaz; hücreye giren ve çıkan su miktarı eşit olduğu için hücre yoğunluğu sabit kalır."
+  },
+  {
+    "id": "yb_o_51",
+    "kaynak": "Palme Yayınları",
+    "konu": "Yaşam Bilimi Biyoloji",
+    "seviye": "Orta",
+    "soru": "%4 oranında glikoz yoğunluğuna sahip bir hücre, %10 oranında glikoz yoğunluğuna sahip bir ortama bırakılıyor. Bir süre sonra hücrenin glikoz yoğunluğu %9 olarak ölçülüyor.\nBu durumda hücrede,\nI. difüzyon,\nII. fagositoz,\nIII. aktif taşıma\nolaylarından hangileri kesinlikle gerçekleşmiştir? (Ortam ve hücrenin hacimleri eşittir)",
+    "siklar": [
+      "Yalnız I",
+      "Yalnız III",
+      "I ve II",
+      "I ve III",
+      "I, II ve III"
+    ],
+    "cevap": "I ve III",
+    "biyologNotu": "Eşit hacimde difüzyonla denge %7'de sağlanırdı; hücre içi %9'a çıktığına göre (dışarıda %5 kalmıştır) önce difüzyonla %7'ye gelmiş, ardından aktif taşımayla almaya devam etmiştir."
+  },
+  {
+    "id": "yb_o_52",
+    "kaynak": "Palme Yayınları",
+    "konu": "Yaşam Bilimi Biyoloji",
+    "seviye": "Orta",
+    "soru": "Bir insanda aşağıda verilen olaylardan hangisi sadece mitokondri organelinde gerçekleşir?",
+    "siklar": [
+      "Karbondioksit oluşumu",
+      "ATP sentezi",
+      "Protein sentezi",
+      "DNA eşlenmesi",
+      "RNA sentezi"
+    ],
+    "cevap": "Karbondioksit oluşumu",
+    "biyologNotu": "İnsan hücrelerinde laktik asit fermantasyonunda CO₂ açığa çıkmaz; hücresel solunumda CO₂ üretimi yalnızca mitokondride gerçekleşir."
+  },
+  {
+    "id": "yb_o_53",
+    "kaynak": "Palme Yayınları",
+    "konu": "Yaşam Bilimi Biyoloji",
+    "seviye": "Orta",
+    "soru": "Aşağıdaki organel çiftlerinden hangilerinin faaliyeti sonucu hücrenin monomer miktarı azalır?",
+    "siklar": [
+      "Mitokondri - Kloroplast",
+      "Lizozom - Ribozom",
+      "Ribozom - Lökoplast",
+      "Kontraktil koful - Mitokondri",
+      "Lizozom - Golgi cisimciği"
+    ],
+    "cevap": "Ribozom - Lökoplast",
+    "biyologNotu": "Ribozom amino asitleri tüketerek protein, lökoplast ise glukozları tüketerek nişasta sentezlediği için ortamdaki monomer miktarını azaltır."
+  },
+  {
+    "id": "yb_o_54",
+    "kaynak": "Palme Yayınları",
+    "konu": "Yaşam Bilimi Biyoloji",
+    "seviye": "Orta",
+    "soru": "Bitkilerin kloroplast organellerinde,\nI. yağ depo edilmesi,\nII. nişasta sentezi,\nIII. karbondioksit oluşumu,\nIV. ATP üretimi\nolaylarından hangileri gerçekleşmez?",
+    "siklar": [
+      "I ve II",
+      "I ve III",
+      "II ve III",
+      "II ve IV",
+      "III ve IV"
+    ],
+    "cevap": "I ve III",
+    "biyologNotu": "Kloroplast fotosentez sırasında CO₂ tüketir ve geçici nişasta sentezler; CO₂ üretimi ve yağ depolama (lökoplast görevi) kloroplastta gerçekleşmez."
+  },
+  {
+    "id": "yb_o_55",
+    "kaynak": "Palme Yayınları",
+    "konu": "Yaşam Bilimi Biyoloji",
+    "seviye": "Orta",
+    "soru": "Hücre yönetiminden sorumlu olan çekirdek ile ilgili olarak aşağıdakilerden hangisi yanlıştır?",
+    "siklar": [
+      "Çekirdek porlarından RNA ve protein gibi büyük moleküller geçebilir.",
+      "DNA'nın kendini eşlediği tek hücresel yapıdır.",
+      "Çekirdek sıvısı çift katlı zar ile çevrelenmiştir.",
+      "Hücre bölünmesi sırasında önce kaybolur daha sonra yeniden oluşur.",
+      "RNA ve ribozom alt birimlerinin sentezi gerçekleşir."
+    ],
+    "cevap": "DNA'nın kendini eşlediği tek hücresel yapıdır.",
+    "biyologNotu": "Ökaryot hücrelerde çekirdek dışında mitokondri ve kloroplast organellerinin de kendi halkasal DNA'ları vardır ve kendilerini eşleyebilirler."
+  },
+  {
+    "id": "yb_o_56",
+    "kaynak": "Palme Yayınları",
+    "konu": "Yaşam Bilimi Biyoloji",
+    "seviye": "Orta",
+    "soru": "Aşağıdakilerden hangisi hücre zarında yer alan zar proteinlerinin işlevlerinden biri değildir?",
+    "siklar": [
+      "Komşu hücreler arasında bağlantı sağlama",
+      "Bileşiklerin zardan aktif olarak pompalanması için ATP'nin hidrolizini sağlama",
+      "Hücre içine alınacak maddeleri seçme",
+      "Enzimatik aktivite göstererek ATP sentezini gerçekleştirme",
+      "Hücre iskeleti elemanları ile bağlanarak hücrenin biçimini koruma"
+    ],
+    "cevap": "Enzimatik aktivite göstererek ATP sentezini gerçekleştirme",
+    "biyologNotu": "Ökaryot hücrelerde plazma zarı proteinleri ATP hidroliz edebilir (aktif taşıma) ancak ATP sentezi hücre zarında değil sitoplazma, mitokondri ve kloroplastta yapılır."
+  },
+  {
+    "id": "yb_o_57",
+    "kaynak": "Palme Yayınları",
+    "konu": "Yaşam Bilimi Biyoloji",
+    "seviye": "Orta",
+    "soru": "Bir bitki hücresinin lökoplast organelinde,\nI. glikozit,\nII. ester,\nIII. peptit\nbağ çeşitlerinden hangilerini içeren polimer besinler depolanabilir?",
+    "siklar": [
+      "Yalnız I",
+      "Yalnız II",
+      "Yalnız III",
+      "I ve II",
+      "I, II ve III"
+    ],
+    "cevap": "I, II ve III",
+    "biyologNotu": "Lökoplast organeli bitkilerin kök, gövde ve tohum gibi yapılarında nişasta (glikozit), yağ (ester) ve protein (peptit) depolayabilir."
+  },
+  {
+    "id": "yb_o_58",
+    "kaynak": "Palme Yayınları",
+    "konu": "Yaşam Bilimi Biyoloji",
+    "seviye": "Orta",
+    "soru": "Sitoplazmasında %10 oranında glikoz bulunan canlı bir hücre, glikoz yüzdesi aşağıda verilen ortamlardan hangisine bırakılırsa daha az su kaybeder?",
+    "siklar": [
+      "%42",
+      "%13",
+      "%16",
+      "%26",
+      "%33"
+    ],
+    "cevap": "%13",
+    "biyologNotu": "Hücre kendisinden daha yoğun (hipertonik) ortamlarda su kaybeder; yoğunluk farkı en az olan %13'lük ortamda su kaybı en az düzeyde kalır."
+  },
+  {
+    "id": "yb_o_59",
+    "kaynak": "Palme Yayınları",
+    "konu": "Yaşam Bilimi Biyoloji",
+    "seviye": "Orta",
+    "soru": "Aşağıdaki organellerden hangisinin faaliyeti anabolik reaksiyonlar içermez?",
+    "siklar": [
+      "Kontraktil koful",
+      "Golgi cisimciği",
+      "Ribozom",
+      "Kloroplast",
+      "Endoplazmik retikulum"
+    ],
+    "cevap": "Kontraktil koful",
+    "biyologNotu": "Kontraktil koful ATP harcayarak hücreye giren fazla suyu dışarı pompalar; bünyesinde yapım (anabolizma) tepkimesi gerçekleşmez."
+  },
+  {
+    "id": "yb_o_60",
+    "kaynak": "Palme Yayınları",
+    "konu": "Yaşam Bilimi Biyoloji",
+    "seviye": "Orta",
+    "soru": "Ökaryot bir canlıda aşağıdaki organel çiftlerinden hangisi birlikte bulunamaz?",
+    "siklar": [
+      "Golgi cisimciği - Ribozom",
+      "Kloroplast - Endoplazmik retikulum",
+      "Lizozom - Ribozom",
+      "Sentrozom - Lökoplast",
+      "Mitokondri - Kontraktil koful"
+    ],
+    "cevap": "Sentrozom - Lökoplast",
+    "biyologNotu": "Lökoplast gelişmiş bitki hücrelerinde bulunurken, gelişmiş bitki hücrelerinde sentrozom organeli bulunmaz."
+  },
+  {
+    "id": "yb_o_61",
+    "kaynak": "Palme Yayınları",
+    "konu": "Yaşam Bilimi Biyoloji",
+    "seviye": "Orta",
+    "soru": "2n sayıda maltoz ve n sayıda sükrozun hidrolizi sonucu açığa çıkan toplam glikoz sayısı aşağıdakilerden hangisinde doğru verilmiştir?",
+    "siklar": [
+      "5n",
+      "4n",
+      "3n",
+      "2n",
+      "n"
+    ],
+    "cevap": "5n",
+    "biyologNotu": "1 maltozdan 2 glukoz (2n × 2 = 4n) ve 1 sükrozdan 1 glukoz + 1 früktoz (n × 1 = n) açığa çıktığı için toplam 5n glukoz oluşur."
+  },
+  {
+    "id": "yb_o_62",
+    "kaynak": "Palme Yayınları",
+    "konu": "Yaşam Bilimi Biyoloji",
+    "seviye": "Orta",
+    "soru": "Ham iken yeşil renkli olan domates olgunlaştığında kırmızı renkli olur.\nBu durumla ilgili,\nI. Çevresel faktörler bitkide mutasyona neden olur.\nII. Kloroplast organeli kromoplasta dönüşür.\nIII. Çevresel faktörler bitkideki genlerin işleyişini değiştirir.\nifadelerinden hangileri doğrudur?",
+    "siklar": [
+      "Yalnız II",
+      "I ve II",
+      "I ve III",
+      "II ve III",
+      "I, II ve III"
+    ],
+    "cevap": "II ve III",
+    "biyologNotu": "Domates olgunlaşırken sıcaklık ve ışık gibi çevresel etkenlerle genlerin işleyişi değişir (modifikasyon) ve yeşil kloroplastlar kırmızı likopen taşıyan kromoplastlara dönüşür."
+  },
+  {
+    "id": "yb_o_63",
+    "kaynak": "Palme Yayınları",
+    "konu": "Yaşam Bilimi Biyoloji",
+    "seviye": "Orta",
+    "soru": "Karbonhidrat çeşitleri ve yapıya katıldıkları bölümler ile ilgili aşağıdaki eşleştirmelerden hangisi yanlıştır?",
+    "siklar": [
+      "Glikoz → ATP",
+      "Riboz → RNA",
+      "Selüloz → Hücre çeperi",
+      "Glikoprotein → Hücre zarı",
+      "Deoksiriboz → DNA"
+    ],
+    "cevap": "Glikoz → ATP",
+    "biyologNotu": "ATP'nin yapısında 6 karbonlu glukoz değil, 5 karbonlu pentoz şekeri olan riboz bulunur."
+  },
+  {
+    "id": "yb_o_64",
+    "kaynak": "Palme Yayınları",
+    "konu": "Yaşam Bilimi Biyoloji",
+    "seviye": "Orta",
+    "soru": "Organel çeşitleri ve ürettikleri moleküller ile ilgili aşağıdaki eşleştirmelerden hangisi doğrudur?",
+    "siklar": [
+      "Mitokondri → Glikoz",
+      "Ribozom → Amino asit",
+      "Kloroplast → Vitamin",
+      "Golgi cisimciği → Kolesterol",
+      "Sentrozom → Katalaz"
+    ],
+    "cevap": "Kloroplast → Vitamin",
+    "biyologNotu": "Bitki hücrelerindeki kloroplast organeli fotosentezle ürettiği glukozları kullanarak vitamin ve amino asit gibi organik besinleri sentezleyebilir."
+  },
+  {
+    "id": "yb_o_65",
+    "kaynak": "Palme Yayınları",
+    "konu": "Yaşam Bilimi Biyoloji",
+    "seviye": "Orta",
+    "soru": "Yapısı bilinmeyen bir amino asit ile ilgili,\nI. Radikal grubunda karbon atomu bulunur.\nII. Amino grubunda azot atomu bulunur.\nIII. Karboksil grubunda hidrojen atomu bulunur.\nyargılarından hangileri kesin olarak doğru değildir?",
+    "siklar": [
+      "Yalnız I",
+      "Yalnız II",
+      "Yalnız III",
+      "I ve II",
+      "I ve III"
+    ],
+    "cevap": "Yalnız I",
+    "biyologNotu": "En basit amino asit olan glisinin radikal (R) grubunda yalnızca bir hidrojen atomu bulunur, karbon atomu yer almaz."
+  },
+  {
+    "id": "yb_o_66",
+    "kaynak": "Palme Yayınları",
+    "konu": "Yaşam Bilimi Biyoloji",
+    "seviye": "Orta",
+    "soru": "Mide bezlerinden, mide boşluğuna glikoprotein yapılı bir madde olan GİF (Gastrik intrinsik faktör) salgılanır. Bu madde besinlerle alınan B₁₂ vitaminine bağlanıp ince bağırsağa geçerek B₁₂ vitamininin emilimini kolaylaştırır. B₁₂ vitamini, kemik iliğinde alyuvar hücrelerinin üretiminde görev alır.\nBuna göre,\nI. B₁₂ vitamini eksikliği kansızlığa (anemi) neden olabilir.\nII. GİF ve B₁₂ vitamini organik yapılı moleküllerdir.\nIII. GİF mide bezlerindeki hücrelerden salgılanan bir hormondur.\nIV. GİF, B₁₂ vitaminin sentezlenmesinde görev alır.\nyorumlarından hangileri yapılabilir?",
+    "siklar": [
+      "I ve II",
+      "I ve III",
+      "I ve IV",
+      "II ve IV",
+      "III ve IV"
+    ],
+    "cevap": "I ve II",
+    "biyologNotu": "B₁₂ vitamini alyuvar üretiminde görev aldığı için eksikliği anemiye yol açar (I); glikoprotein ve vitamin organik bileşiklerdir (II), GİF ise kana değil mide boşluğuna salgılandığı için hormon değildir."
+  }
+]
